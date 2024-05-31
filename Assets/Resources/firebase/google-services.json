@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "874309818216",
+    "firebase_url": "https://flappy-dunk-205b8.firebaseio.com",
+    "project_id": "flappy-dunk-205b8",
+    "storage_bucket": "flappy-dunk-205b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874309818216:android:8544a7e20a8aaf41c9a8dd",
+        "android_client_info": {
+          "package_name": "com.acidcousins.fdunk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874309818216-dp3k6er78r7le9dof4sbph4e1slts9hk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoi8deaqVV-huM6B5G-s99VssHsV4vF1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874309818216-dp3k6er78r7le9dof4sbph4e1slts9hk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "874309818216-37nbr3lcrfkmrphtbhi9k3bgf5ck70ek.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.acidcousins.fdunk",
+                "app_store_id": "1235581326"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

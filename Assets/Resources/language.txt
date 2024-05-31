@@ -1,0 +1,3135 @@
+<document>
+    <text value="Best:">
+        <french>Best :</french>
+        <spanish>Récord:</spanish>
+        <portuguese>Melhor:</portuguese>
+        <italian>Record:</italian>
+        <german>Best:</german>
+        <chinesesimplified>最佳：</chinesesimplified>
+        <chinesetraditional>最佳分數：</chinesetraditional>
+        <japanese>ベスト:</japanese>
+        <russian>Рекорд:</russian>
+    </text>
+    <text value="Last:">
+        <french>Last :</french>
+        <spanish>Última:</spanish>
+        <portuguese>Último:</portuguese>
+        <italian>Ultimo:</italian>
+        <german>Last:</german>
+        <chinesesimplified>上次：</chinesesimplified>
+        <chinesetraditional>最後分數：</chinesetraditional>
+        <japanese>前回:</japanese>
+        <russian>Последний счет:</russian>
+    </text>
+    <text value="Unlock">
+        <french>Débloquer</french>
+        <spanish>Desbloquear</spanish>
+        <portuguese>Desbloquear</portuguese>
+        <italian>Sblocca</italian>
+        <german>Freischalten</german>
+        <chinesesimplified>解锁</chinesesimplified>
+        <chinesetraditional>解鎖</chinesetraditional>
+        <japanese>入手</japanese>
+        <russian>Открыть</russian>
+    </text>
+    <text value="Don't touch the ceiling">
+        <french>Ne touche pas le plafond.</french>
+        <spanish>No toques el techo</spanish>
+        <portuguese>Não toques no teto</portuguese>
+        <italian>Non toccare il soffitto</italian>
+        <german>Berühre nicht die Decke.</german>
+        <chinesesimplified>不要碰到天花板</chinesesimplified>
+        <chinesetraditional>不要觸碰天花板</chinesetraditional>
+        <japanese>天井に触れないで</japanese>
+        <russian>Не касайтесь потолка</russian>
+    </text>
+    <text value="Tap to jump">
+        <french>Tapote pour sauter.</french>
+        <spanish>Toca para saltar</spanish>
+        <portuguese>Toca para saltar</portuguese>
+        <italian>Tocca per saltare</italian>
+        <german>Zum Hüpfen tippen</german>
+        <chinesesimplified>点按以让球跳跃</chinesesimplified>
+        <chinesetraditional>按一下讓球跳躍</chinesetraditional>
+        <japanese>タップしてジャンプ</japanese>
+        <russian>Коснитесь экрана, чтобы прыгать</russian>
+    </text>
+    <text value="Don't touch the floor">
+        <french>Ne touche pas le sol.</french>
+        <spanish>No toques el suelo</spanish>
+        <portuguese>Não toques no chão</portuguese>
+        <italian>Non toccare il pavimento</italian>
+        <german>Berühre nicht den Boden.</german>
+        <chinesesimplified>不要碰到地板</chinesesimplified>
+        <chinesetraditional>不要觸碰地板</chinesetraditional>
+        <japanese>床に触れないで</japanese>
+        <russian>Не касайтесь пола</russian>
+    </text>
+    <text value="Pause">
+        <french>Pause</french>
+        <spanish>Pausa</spanish>
+        <portuguese>Pausa</portuguese>
+        <italian>Pausa</italian>
+        <german>Pause</german>
+        <chinesesimplified>暂停</chinesesimplified>
+        <chinesetraditional>暫停</chinesetraditional>
+        <japanese>一時停止</japanese>
+        <russian>Пауза</russian>
+    </text>
+    <text value="Watch">
+        <french>Regarder</french>
+        <spanish>Ver</spanish>
+        <portuguese>Observa</portuguese>
+        <italian>Guarda</italian>
+        <german>Ansehen</german>
+        <chinesesimplified>观看</chinesesimplified>
+        <chinesetraditional>觀看</chinesetraditional>
+        <japanese>視聴</japanese>
+        <russian>Смотреть</russian>
+    </text>
+    <text value="Swish!">
+        <french>Perfect !</french>
+        <spanish>¡Limpia!</spanish>
+        <portuguese>Sem espinhas!</portuguese>
+        <italian>Ciuff!</italian>
+        <german>Perfect!</german>
+        <chinesesimplified>空心球!</chinesesimplified>
+        <chinesetraditional>空心球!</chinesetraditional>
+        <japanese>スパッ!</japanese>
+        <russian>Чистое попадание!</russian>
+    </text>
+    <text value="New skin unlocked!">
+        <french>Nouvelle apparence débloquée !</french>
+        <spanish>¡Nuevo diseño desbloqueado!</spanish>
+        <portuguese>Nova máscara desbloqueada!</portuguese>
+        <italian>Nuova skin sbloccata!</italian>
+        <german>Neuen Skin freigeschaltet!</german>
+        <chinesesimplified>解锁新皮肤！</chinesesimplified>
+        <chinesetraditional>已解鎖新球款！</chinesetraditional>
+        <japanese>新しいスキンを手に入れた！</japanese>
+        <russian>Открыт новый стиль!</russian>
+    </text>
+    <text value="OK">
+        <french>OK</french>
+        <spanish>Vale</spanish>
+        <portuguese>OK</portuguese>
+        <italian>OK</italian>
+        <german>OK</german>
+        <chinesesimplified>确定</chinesesimplified>
+        <chinesetraditional>確定</chinesetraditional>
+        <japanese>OK</japanese>
+        <russian>ОК</russian>
+    </text>
+    <text value="Hey! I just scored {0} on Flappy Dunk! Try to beat this!">
+        <french>Hé, je viens juste de faire {0} à Flappy Dunk ! Essaye de battre mon score !</french>
+        <spanish>¡Oye! ¡He conseguido {0} puntos en Flappy Dunk! ¡Intenta superarlo!</spanish>
+        <portuguese>Uau! Atingi {0} pontos no Flappy Dunk! Tenta ultrapassar-me!</portuguese>
+        <italian>Ehi! Ho appena segnato {0} a Flappy Dunk! Prova a battermi!</italian>
+        <german>Hey! Ich habe gerade {0} Punkte in Flappy Dunk erreicht! Versuche mich zu überbieten!</german>
+        <chinesesimplified>嘿！我刚刚在Flappy Dunk中拿下了{0}分！试试打败我啊！</chinesesimplified>
+        <chinesetraditional>嘿！我剛在Flappy Dunk得分{0}！快來打破這個記録吧！</chinesetraditional>
+        <japanese>Flappy Dunkで{0}点決めたよ！挑戦者募集中！</japanese>
+        <russian>Я только что набрал {0} очков в Flappy Dunk! Сможешь больше?</russian>
+    </text>
+    <text value="Hey! I just unlocked this new skin on Flappy Dunk! Try to get it, too!">
+        <french>Hé, je viens juste de débloquer cette apparence sur Flappy Dunk ! Essaye de l'avoir aussi !</french>
+        <spanish>¡Oye! ¡He desbloqueado este diseño nuevo en Flappy Dunk! ¡Intenta conseguirlo!</spanish>
+        <portuguese>Uau! Desbloqueei esta máscara nova no Flappy Dunk! Tenta desbloqueá-la também!</portuguese>
+        <italian>Ehi! Ho appena sbloccato questa nuova skin a Flappy Dunk! Prova a ottenerla anche tu!</italian>
+        <german>Hey! Ich habe gerade diesen neuen Skin in Flappy Dunk freigeschaltet. Hol ihn dir auch!</german>
+        <chinesesimplified>嘿！我刚刚在Flappy Dunk中解锁了这款新皮肤！你也去拿吧！</chinesesimplified>
+        <chinesetraditional>嘿！我剛在Flappy Dunk解鎖這個新球款！你也快來拿球款吧！</chinesetraditional>
+        <japanese>Flappy Dunkでこの新しいスキンを手に入れたよ！やってみよう！</japanese>
+        <russian>Я только что открыл новый стиль в Flappy Dunk! А ты сможешь его получить?</russian>
+    </text>
+    <text value="Cancel">
+        <french>Annuler</french>
+        <spanish>Cancelar</spanish>
+        <portuguese>Cancelar</portuguese>
+        <italian>Annulla</italian>
+        <german>Abbrechen</german>
+        <chinesesimplified>取消</chinesesimplified>
+        <chinesetraditional>取消</chinesetraditional>
+        <japanese>キャンセル</japanese>
+        <russian>Назад</russian>
+    </text>
+    <text value="Retry">
+        <french>Recommencer</french>
+        <spanish>Reintentar</spanish>
+        <portuguese>Tentar de novo</portuguese>
+        <italian>Riprova</italian>
+        <german>Neuer Versuch</german>
+        <chinesesimplified>重试</chinesesimplified>
+        <chinesetraditional>重試</chinesetraditional>
+        <japanese>再試行</japanese>
+        <russian>Еще раз</russian>
+    </text>
+    <text value="Start">
+        <french>Lancer</french>
+        <spanish>Empezar</spanish>
+        <portuguese>Iniciar</portuguese>
+        <italian>Inizia</italian>
+        <german>Start</german>
+        <chinesesimplified>开始</chinesesimplified>
+        <chinesetraditional>開始挑戰</chinesetraditional>
+        <japanese>スタート</japanese>
+        <russian>Начать</russian>
+    </text>
+    <text value="New best score!">
+        <french>Nouveau record !</french>
+        <spanish>¡Nuevo récord!</spanish>
+        <portuguese>Novo recorde!</portuguese>
+        <italian>Nuovo record!</italian>
+        <german>Neuer Highscore!</german>
+        <chinesesimplified>新记录！</chinesesimplified>
+        <chinesetraditional>新紀錄！</chinesetraditional>
+        <japanese>ベストスコア更新！</japanese>
+        <russian>Новый рекорд!</russian>
+    </text>
+    <text value="Second Chance">
+        <french>Seconde chance</french>
+        <spanish>2.ª oportunidad</spanish>
+        <portuguese>Segunda oportunidade</portuguese>
+        <italian>Seconda occasione</italian>
+        <german>Zweite Chance</german>
+        <chinesesimplified>第二次机会</chinesesimplified>
+        <chinesetraditional>第二次機會</chinesetraditional>
+        <japanese>セカンドチャンス</japanese>
+        <russian>Второй шанс</russian>
+    </text>
+    <text value="Tap to continue">
+        <french>Tapoter pour continuer</french>
+        <spanish>Toca para continuar</spanish>
+        <portuguese>Toca para continuar</portuguese>
+        <italian>Tocca per continuare</italian>
+        <german>Tippe, um fortzufahren</german>
+        <chinesesimplified>点按以继续</chinesesimplified>
+        <chinesetraditional>按一下以繼續</chinesetraditional>
+        <japanese>タップでコンティニュー</japanese>
+        <russian>Коснитесь, чтобы продолжить</russian>
+    </text>
+    <text value="Challenge complete!">
+        <french>Défi terminé !</french>
+        <spanish>¡Desafío completado!</spanish>
+        <portuguese>Desafio concluído!</portuguese>
+        <italian>Sfida completata!</italian>
+        <german>Herausforderung abgeschlossen!</german>
+        <chinesesimplified>挑战完成！</chinesesimplified>
+        <chinesetraditional>挑戰完成！</chinesetraditional>
+        <japanese>チャレンジクリア！</japanese>
+        <russian>Задание выполнено!</russian>
+    </text>
+    <text value="Challenge">
+        <french>Défi</french>
+        <spanish>Desafío</spanish>
+        <portuguese>Desafio</portuguese>
+        <italian>Sfida</italian>
+        <german>Herausforderung</german>
+        <chinesesimplified>挑战</chinesesimplified>
+        <chinesetraditional>挑戰</chinesetraditional>
+        <japanese>チャレン</japanese>
+        <russian>Задание</russian>
+    </text>
+    <text value="How would you rate Flappy Dunk?">
+        <french>Quelle note donnerais-tu à Flappy Dunk ?</french>
+        <spanish>¿Qué te ha parecido Flappy Dunk?</spanish>
+        <portuguese>Como classificarias o Flappy Dunk?</portuguese>
+        <italian>Che voto daresti a Flappy Dunk?</italian>
+        <german>Wie findest du Flappy Dunk?</german>
+        <chinesesimplified>您要如何评价Flappy Dunk？</chinesesimplified>
+        <chinesetraditional>你會為Flappy Dunk評幾分呢？</chinesetraditional>
+        <japanese>Flappy Dunkの評価にご協力ください！</japanese>
+        <russian>Оцените Flappy Dunk!</russian>
+    </text>
+    <text value="Thanks for your precious feedback! We will do our best to improve Flappy Dunk!">
+        <french>Merci pour ton précieux retour, nous allons faire de notre mieux pour améliorer Flappy Dunk !</french>
+        <spanish>¡Gracias por tu valioso comentario! ¡Nos esforzaremos por mejorar Flappy Dunk!</spanish>
+        <portuguese>Obrigado pelos comentários preciosos! Faremos o que pudermos para melhorar o Flappy Dunk!</portuguese>
+        <italian>Grazie per la tua opinione! Faremo del nostro meglio per migliorare Flappy Dunk!</italian>
+        <german>Danke für dein Feedback! Wir geben unser Bestes, um Flappy Dunk noch besser zu machen!</german>
+        <chinesesimplified>感谢您提供宝贵的反馈意见！我们将尽力完善Flappy Dunk！</chinesesimplified>
+        <chinesetraditional>感謝你的寶貴意見！我們會盡全力升級Flappy Dunk！</chinesetraditional>
+        <japanese>貴重なフィードバックをありがとうございます！今後ともFlappy Dunkの改善に取り組んでまいります！</japanese>
+        <russian>Спасибо за отзыв! Мы приложим все усилия, чтобы сделать Flappy Dunk еще лучше!</russian>
+    </text>
+    <text value="Thanks for your feedback! Would you be willing to rate us on the app store?">
+        <french>Merci pour cette super note ! Aurais-tu un instant pour nous noter sur l'AppStore ?</french>
+        <spanish>¡Gracias por tu comentario! ¿Te gustaría valorar nuestra aplicación en el App Store?</spanish>
+        <portuguese>Obrigado pelos teus comentários! Estás disposto a classificar-nos na App Store?</portuguese>
+        <italian>Grazie per la tua opinione! Ci daresti il tuo voto nell'app store?</italian>
+        <german>Danke für dein Feedback! Möchtest du uns im App Store bewerten?</german>
+        <chinesesimplified>感谢您的反馈！您愿意在APP STORE里面给我们评价吗？</chinesesimplified>
+        <chinesetraditional>感謝你的寶貴意見！你願意在應用商店裡給我們評分嗎？</chinesetraditional>
+        <japanese>フィードバックにご協力ください！App Storeで評価していただけますか？</japanese>
+        <russian>Спасибо за отзыв! Хотите оценить нас в App Store?</russian>
+    </text>
+    <text value="Not now">
+        <french>Plus tard</french>
+        <spanish>Ahora no</spanish>
+        <portuguese>Agora não</portuguese>
+        <italian>Non ora</italian>
+        <german>Nicht jetzt</german>
+        <chinesesimplified>现在不行</chinesesimplified>
+        <chinesetraditional>現在不可以</chinesetraditional>
+        <japanese>後で</japanese>
+        <russian>Не сейчас</russian>
+    </text>
+    <text value="Let's go!">
+        <french>Allez !</french>
+        <spanish>¡Vamos allá!</spanish>
+        <portuguese>Vamos lá!</portuguese>
+        <italian>Andiamo!</italian>
+        <german>Los geht's!</german>
+        <chinesesimplified>开始！</chinesesimplified>
+        <chinesetraditional>開始吧！</chinesetraditional>
+        <japanese>評価する！</japanese>
+        <russian>Вперед!</russian>
+    </text>
+    <text value="Support">
+        <french>Assistance</french>
+        <spanish>Ayuda</spanish>
+        <portuguese>Suporte</portuguese>
+        <italian>Supporto</italian>
+        <german>Support</german>
+        <chinesesimplified>客服支持</chinesesimplified>
+        <chinesetraditional>客服支持</chinesetraditional>
+        <japanese>サポート</japanese>
+        <russian>Поддержка</russian>
+    </text>
+    <text value="Pass all hoops">
+        <french>Franchis tous les paniers.</french>
+        <spanish>Pasa por todos los aros</spanish>
+        <portuguese>Passa por todos os cestos</portuguese>
+        <italian>Segna tutti i canestri</italian>
+        <german>Triff alle Körbe.</german>
+        <chinesesimplified>投进所有篮圈</chinesesimplified>
+        <chinesetraditional>投進所有的籃框</chinesetraditional>
+        <japanese>すべてのリングに通そう</japanese>
+        <russian>Пройдите сквозь все кольца</russian>
+    </text>
+    <text value="Patience...">
+        <french>Patience...</french>
+        <spanish>Paciencia...</spanish>
+        <portuguese>Paciência...</portuguese>
+        <italian>Pazienza...</italian>
+        <german>Warte ...</german>
+        <chinesesimplified>耐心……</chinesesimplified>
+        <chinesetraditional>耐心……</chinesetraditional>
+        <japanese>我慢...</japanese>
+        <russian>Секунду...</russian>
+    </text>
+    <text value="Achieve 3 swishes">
+        <french>Réalise 3 Perfects.</french>
+        <spanish>Consigue 3 limpias</spanish>
+        <portuguese>Encesta três vezes sem espinhas</portuguese>
+        <italian>Segna 3 ciuff</italian>
+        <german>Wirf 3 Perfects.</german>
+        <chinesesimplified>投出3个空心球</chinesesimplified>
+        <chinesetraditional>投進3個空心球</chinesetraditional>
+        <japanese>ゴールを3回決めよう</japanese>
+        <russian>Совершить 3 чистых попадания</russian>
+    </text>
+    <text value="Strong wings!">
+        <french>Ailes puissantes !</french>
+        <spanish>¡Alas fuertes!</spanish>
+        <portuguese>Asas fortes!</portuguese>
+        <italian>Ali forti!</italian>
+        <german>Starke Flügel!</german>
+        <chinesesimplified>飞得不错！</chinesesimplified>
+        <chinesetraditional>強大的翅膀！</chinesetraditional>
+        <japanese>強風！</japanese>
+        <russian>Широкие крылья!</russian>
+    </text>
+    <text value="Heavy gravity!">
+        <french>Forte gravité !</french>
+        <spanish>¡Gravedad alta!</spanish>
+        <portuguese>Gravidade pesada!</portuguese>
+        <italian>Gravità forte!</italian>
+        <german>Höhere Schwerkraft!</german>
+        <chinesesimplified>强重力！</chinesesimplified>
+        <chinesetraditional>強重力！</chinesetraditional>
+        <japanese>重力アップ！</japanese>
+        <russian>Сильная гравитация!</russian>
+    </text>
+    <text value="Pass the mad hoop">
+        <french>Marque dans le panier fou.</french>
+        <spanish>Pasa por el aro loco</spanish>
+        <portuguese>Passa pelo cesto louco</portuguese>
+        <italian>Segna nel canestro pazzo</italian>
+        <german>Triff den wilden Korb.</german>
+        <chinesesimplified>投进疯狂篮圈</chinesesimplified>
+        <chinesetraditional>投進這些瘋狂籃框中</chinesetraditional>
+        <japanese>動き回るリングに通そう</japanese>
+        <russian>Пройдите сквозь бешеное кольцо</russian>
+    </text>
+    <text value="Low gravity!">
+        <french>Faible gravité !</french>
+        <spanish>¡Gravedad baja!</spanish>
+        <portuguese>Gravidade reduzida!</portuguese>
+        <italian>Gravità bassa!</italian>
+        <german>Niedrige Schwerkraft!</german>
+        <chinesesimplified>低重力！</chinesesimplified>
+        <chinesetraditional>低重力！</chinesetraditional>
+        <japanese>重力ダウン！</japanese>
+        <russian>Слабая гравитация!</russian>
+    </text>
+    <text value="No swishes!">
+        <french>Aucun Perfect !</french>
+        <spanish>¡Sin limpias!</spanish>
+        <portuguese>Não foi sem espinhas!</portuguese>
+        <italian>Nessun ciuff!</italian>
+        <german>Keine Perfect!</german>
+        <chinesesimplified>不是空心球！</chinesesimplified>
+        <chinesetraditional>不是空心球！</chinesetraditional>
+        <japanese>ゴールなし！</japanese>
+        <russian>Ни одного чистого попадания!</russian>
+    </text>
+    <text value="Achieve EXACTLY 3 swishes">
+        <french>Réalise EXACTEMENT 3 Perfects.</french>
+        <spanish>Consigue 3 limpias EXACTAMENTE</spanish>
+        <portuguese>Encesta EXATAMENTE 3 vezes sem espinhas</portuguese>
+        <italian>Segna ESATTAMENTE 3 ciuff</italian>
+        <german>Wirf GENAU 3 Perfects.</german>
+        <chinesesimplified>正好投出3个空心球</chinesesimplified>
+        <chinesetraditional>正好投進3個空心球</chinesetraditional>
+        <japanese>ゴールをピッタリ3回決めよう</japanese>
+        <russian>Выполните РОВНО 3 чистых попадания</russian>
+    </text>
+    <text value="Achieve 1 swish">
+        <french>Réalise 1 Perfect.</french>
+        <spanish>Consigue 1 limpia</spanish>
+        <portuguese>Encesta 1 vez sem espinhas</portuguese>
+        <italian>Segna 1 ciuff</italian>
+        <german>Wirf 1 Perfect.</german>
+        <chinesesimplified>投出1个空心球</chinesesimplified>
+        <chinesetraditional>投進1個空心球</chinesetraditional>
+        <japanese>ゴールを1回決めよう</japanese>
+        <russian>Выполните 1 чистое попадание</russian>
+    </text>
+    <text value="Achieve 5 swishes">
+        <french>Réalise 5 Perfects.</french>
+        <spanish>Consigue 5 limpias</spanish>
+        <portuguese>Encesta 5 vezes sem espinhas</portuguese>
+        <italian>Segna 5 ciuff</italian>
+        <german>Wirf 5 Perfects.</german>
+        <chinesesimplified>投出5个空心球</chinesesimplified>
+        <chinesetraditional>投進5個空心球</chinesetraditional>
+        <japanese>ゴールを5回決めよう</japanese>
+        <russian>Выполните 5 чистых попаданий</russian>
+    </text>
+    <text value="Negative gravity!">
+        <french>Gravité inversée !</french>
+        <spanish>¡Gravedad invertida!</spanish>
+        <portuguese>Gravidade negativa!</portuguese>
+        <italian>Gravità invertita!</italian>
+        <german>Negative Schwerkraft!</german>
+        <chinesesimplified>反向重力！</chinesesimplified>
+        <chinesetraditional>負重力！</chinesetraditional>
+        <japanese>重力反転！</japanese>
+        <russian>Отрицательная гравитация!</russian>
+    </text>
+    <text value="Achieve EXACTLY 6 swishes">
+        <french>Réalise EXACTEMENT 6 Perfects.</french>
+        <spanish>Consigue 6 limpias EXACTAMENTE</spanish>
+        <portuguese>Encesta EXATAMENTE 6 vezes sem espinhas</portuguese>
+        <italian>Segna ESATTAMENTE 6 ciuff</italian>
+        <german>Wirf GENAU 6 Perfects.</german>
+        <chinesesimplified>正好投出6个空心球</chinesesimplified>
+        <chinesetraditional>正好投進6個空心球</chinesetraditional>
+        <japanese>ゴールをピッタリ6回決めよう</japanese>
+        <russian>Выполните РОВНО 6 чистых попаданий</russian>
+    </text>
+    <text value="Swishes only!">
+        <french>Perfects uniquement !</french>
+        <spanish>¡Solo limpias!</spanish>
+        <portuguese>Apenas cestos sem espinhas!</portuguese>
+        <italian>Solo ciuff!</italian>
+        <german>Nur Perfects!</german>
+        <chinesesimplified>只要空心球！</chinesesimplified>
+        <chinesetraditional>僅投空心球！</chinesetraditional>
+        <japanese>ゴールだけ！</japanese>
+        <russian>Только чистые попадания!</russian>
+    </text>
+    <text value="Don't rush in...">
+        <french>Ne te précipite pas...</french>
+        <spanish>No te precipites...</spanish>
+        <portuguese>Não tenhas pressa...</portuguese>
+        <italian>Fai con calma...</italian>
+        <german>Keine Eile ...</german>
+        <chinesesimplified>别急啊……</chinesesimplified>
+        <chinesetraditional>別著急……</chinesetraditional>
+        <japanese>慌てない...</japanese>
+        <russian>Не спешите...</russian>
+    </text>
+    <text value="Mad ball">
+        <french>La balle folle</french>
+        <spanish>Bola loca</spanish>
+        <portuguese>Bola louca</portuguese>
+        <italian>Palla pazza</italian>
+        <german>Wilder Ball</german>
+        <chinesesimplified>疯狂篮球</chinesesimplified>
+        <chinesetraditional>瘋狂球球</chinesetraditional>
+        <japanese>荒ぶるボール</japanese>
+        <russian>Безумный мяч</russian>
+    </text>
+    <text value="Achieve 4 swishes">
+        <french>Réalise 4 Perfects.</french>
+        <spanish>Consigue 4 limpias</spanish>
+        <portuguese>Encesta 4 vezes sem espinhas</portuguese>
+        <italian>Segna 4 ciuff</italian>
+        <german>Wirf 4 Perfects.</german>
+        <chinesesimplified>投出4个空心球</chinesesimplified>
+        <chinesetraditional>投進4個空心球</chinesetraditional>
+        <japanese>ゴールを4回決めよう</japanese>
+        <russian>Выполните 4 чистых попадания</russian>
+    </text>
+    <text value="Speed up!">
+        <french>Vitesse grand V !</french>
+        <spanish>¡Más rápido!</spanish>
+        <portuguese>Mais rápido!</portuguese>
+        <italian>Più veloce!</italian>
+        <german>Schneller!</german>
+        <chinesesimplified>加速！</chinesesimplified>
+        <chinesetraditional>加快速度！</chinesetraditional>
+        <japanese>スピードアップ！</japanese>
+        <russian>Поторопитесь!</russian>
+    </text>
+    <text value="Swish the mad hoop!">
+        <french>Réalise un Perfect dans le panier fou !</french>
+        <spanish>¡Pasa limpiamente por el aro loco!</spanish>
+        <portuguese>Encesta sem espinhas no cesto louco!</portuguese>
+        <italian>Tira un ciuff nel canestro pazzo!</italian>
+        <german>Triff den wilden Korb mit einem Perfect!</german>
+        <chinesesimplified>给疯狂篮圈一记空心球！</chinesesimplified>
+        <chinesetraditional>將空心球投進瘋狂籃框！</chinesetraditional>
+        <japanese>動き回るリングにゴール！</japanese>
+        <russian>Чистое попадание в безумное кольцо!</russian>
+    </text>
+    <text value="Don't rush in... and do only swishes!">
+        <french>Ne te précipite pas... et réalise uniquement des Perfects !</french>
+        <spanish>No te precipites... ¡y pasa solo con limpias!</spanish>
+        <portuguese>Não tenhas pressa... e encesta apenas sem espinhas!</portuguese>
+        <italian>Fai con calma... e fai solo ciuff!</italian>
+        <german>Keine Eile ... und nur Perfects!</german>
+        <chinesesimplified>别急……只进空心球！</chinesesimplified>
+        <chinesetraditional>別著急……我們要的僅僅是空心球！</chinesetraditional>
+        <japanese>慌てずに...ゴールあるのみ！</japanese>
+        <russian>Не спешите... нужны только чистые попадания!</russian>
+    </text>
+    <text value="Unlocked with...">
+        <french>Débloqué avec...</french>
+        <spanish>Desbloqueado con...</spanish>
+        <portuguese>Desbloqueado com...</portuguese>
+        <italian>Si sblocca...</italian>
+        <german>Freigeschaltet mit ...</german>
+        <chinesesimplified>解锁条件……</chinesesimplified>
+        <chinesetraditional>解鎖條件……</chinesetraditional>
+        <japanese>入手条件...</japanese>
+        <russian>Откроется за...</russian>
+    </text>
+    <text value="Pass 3 hoops or more during an endless game">
+        <french>Marque 3 paniers ou plus en mode infini.</french>
+        <spanish>Pasa por 3 aros o más en una partida infinita</spanish>
+        <portuguese>Encesta 3 cestos ou mais durante um jogo sem fim</portuguese>
+        <italian>Segna 3 o più canestri in una partita infinita</italian>
+        <german>Triff mindestens 3 Körbe in einem Endlosspiel.</german>
+        <chinesesimplified>在无尽游戏中投进3个篮圈或更多</chinesesimplified>
+        <chinesetraditional>在遊戲結束時投進3個以上的籃框</chinesetraditional>
+        <japanese>エンドレスゲームで3つ以上のリングに通そう</japanese>
+        <russian>Забросьте 3 и более мячей в бесконечной игре</russian>
+    </text>
+    <text value="Achieve a swish x4">
+        <french>Réalise un Perfect x4.</french>
+        <spanish>Consigue una limpia x4</spanish>
+        <portuguese>Encesta um cesto sem espinhas x4</portuguese>
+        <italian>Ottieni un x4 ciuff</italian>
+        <german>Triff einen Perfect x4.</german>
+        <chinesesimplified>投出一个x4空心球</chinesesimplified>
+        <chinesetraditional>投進1個空心球x4</chinesetraditional>
+        <japanese>ゴール4回以上決めよう</japanese>
+        <russian>Совершите чистое попадание x4</russian>
+    </text>
+    <text value="Score 25 or more">
+        <french>Réalise un score de 25 ou plus.</french>
+        <spanish>Consigue 25 puntos o más</spanish>
+        <portuguese>Alcança uma pontuação de 25 ou mais</portuguese>
+        <italian>Segna 25 o più</italian>
+        <german>Erziele mindestens 25 Punkte.</german>
+        <chinesesimplified>得到25分或更多</chinesesimplified>
+        <chinesetraditional>獲得25分或以上</chinesetraditional>
+        <japanese>25点以上入れよう</japanese>
+        <russian>Наберите 25 очков или больше</russian>
+    </text>
+    <text value="Play 30 endless games">
+        <french>Joue 30 parties en mode infini.</french>
+        <spanish>Juega 30 partidas infinitas</spanish>
+        <portuguese>Joga 30 jogos sem fim</portuguese>
+        <italian>Gioca 30 partite infinite</italian>
+        <german>Spiele 30 Endlosspiele.</german>
+        <chinesesimplified>玩30次无尽游戏</chinesesimplified>
+        <chinesetraditional>連續玩30次遊戲</chinesetraditional>
+        <japanese>エンドレスゲームを30回プレイしよう</japanese>
+        <russian>Сыграйте 30 раз в бесконечную игру</russian>
+    </text>
+    <text value="Complete 15 challenges">
+        <french>Termine 15 défis.</french>
+        <spanish>Completa 15 desafíos</spanish>
+        <portuguese>Conclui 15 desafios</portuguese>
+        <italian>Completa 15 sfide</italian>
+        <german>Schließe 15 Herausforderungen ab.</german>
+        <chinesesimplified>完成15个挑战</chinesesimplified>
+        <chinesetraditional>完成15個挑戰</chinesetraditional>
+        <japanese>チャレンジを15個クリアしよう</japanese>
+        <russian>Завершите 15 заданий</russian>
+    </text>
+    <text value="Achieve 10 swishes in a row">
+        <french>Réalise 10 Perfects d'affilée.</french>
+        <spanish>Consigue 10 limpias seguidas</spanish>
+        <portuguese>Alcança 10 cestos sem espinhas seguidos</portuguese>
+        <italian>Segna 10 ciuff di fila</italian>
+        <german>Wirf nacheinander 10 Perfects.</german>
+        <chinesesimplified>连续投出10个空心球</chinesesimplified>
+        <chinesetraditional>連續投進10個空心球</chinesetraditional>
+        <japanese>ゴールを連続10回決めよう</japanese>
+        <russian>Совершите 10 чистых попаданий подряд</russian>
+    </text>
+    <text value="Play 100 endless games">
+        <french>Joue 100 parties en mode infini.</french>
+        <spanish>Juega 100 partidas infinitas</spanish>
+        <portuguese>Joga 100 jogos sem fim</portuguese>
+        <italian>Gioca 100 partite infinite</italian>
+        <german>Spiele 100 Endlosspiele.</german>
+        <chinesesimplified>玩100次无尽游戏</chinesesimplified>
+        <chinesetraditional>連續玩100次遊戲</chinesetraditional>
+        <japanese>エンドレスゲームを100回プレイしよう</japanese>
+        <russian>Сыграйте 100 раз в бесконечную игру</russian>
+    </text>
+    <text value="Achieve 15 swishes in a row">
+        <french>Réalise 15 Perfects d'affilée.</french>
+        <spanish>Consigue 15 limpias seguidas</spanish>
+        <portuguese>Alcança 15 cestos sem espinhas seguidos</portuguese>
+        <italian>Segna 15 ciuff di fila</italian>
+        <german>Wirf nacheinander 15 Perfects.</german>
+        <chinesesimplified>连续投出15个空心球</chinesesimplified>
+        <chinesetraditional>連續投進15個空心球</chinesetraditional>
+        <japanese>ゴールを連続15回決めよう</japanese>
+        <russian>Совершите 15 чистых попаданий подряд</russian>
+    </text>
+    <text value="Complete 30 challenges">
+        <french>Termine 30 défis.</french>
+        <spanish>Completa 30 desafíos</spanish>
+        <portuguese>Conclui 30 desafios</portuguese>
+        <italian>Completa 30 sfide</italian>
+        <german>Schließe 30 Herausforderungen ab.</german>
+        <chinesesimplified>完成30个挑战</chinesesimplified>
+        <chinesetraditional>完成30個挑戰</chinesetraditional>
+        <japanese>チャレンジを30個クリアしよう</japanese>
+        <russian>Завершите 30 заданий</russian>
+    </text>
+    <text value="Complete 51 challenges">
+        <french>Termine 51 défis.</french>
+        <spanish>Completa 51 desafíos</spanish>
+        <portuguese>Conclui 51 desafios</portuguese>
+        <italian>Completa 51 sfide</italian>
+        <german>Schließe 51 Herausforderungen ab.</german>
+        <chinesesimplified>完成51个挑战</chinesesimplified>
+        <chinesetraditional>完成51個挑戰</chinesetraditional>
+        <japanese>チャレンジを51個クリアしよう</japanese>
+        <russian>Завершите 51 заданий</russian>
+    </text>
+    <text value="Score 50 or more">
+        <french>Réalise un score de 50 ou plus.</french>
+        <spanish>Consigue 50 puntos o más</spanish>
+        <portuguese>Alcança uma pontuação de 50 ou mais</portuguese>
+        <italian>Segna 50 o più</italian>
+        <german>Erziele mindestens 50 Punkte.</german>
+        <chinesesimplified>得到50分或更多</chinesesimplified>
+        <chinesetraditional>50分以上</chinesetraditional>
+        <japanese>50点以上入れよう</japanese>
+        <russian>Наберите 50 очков или больше</russian>
+    </text>
+    <text value="Rotate of 1,800° between two hoops">
+        <french>Fais tourner la balle à 1 800° entre deux paniers.</french>
+        <spanish>Gira 1800° entre dos aros</spanish>
+        <portuguese>Faz uma rotação de 1800º entre dois cestos</portuguese>
+        <italian>Fai ruotare la palla di 1800° tra due canestri</italian>
+        <german>Rotiere um 1.800° zwischen zwei Körben.</german>
+        <chinesesimplified>在两个篮圈间旋转1,800°</chinesesimplified>
+        <chinesetraditional>讓球在兩個籃框之間旋轉1,800°</chinesetraditional>
+        <japanese>2つのリング間で1800°回転</japanese>
+        <russian>Сделайте оборот на 1800° между двумя кольцами</russian>
+    </text>
+    <text value="Play 200 endless games">
+        <french>Joue 200 parties en mode infini.</french>
+        <spanish>Juega 200 partidas infinitas</spanish>
+        <portuguese>Joga 200 jogos sem fim</portuguese>
+        <italian>Gioca 200 partite infinite</italian>
+        <german>Spiele 200 Endlosspiele.</german>
+        <chinesesimplified>玩200次无尽游戏</chinesesimplified>
+        <chinesetraditional>連續玩200次遊戲</chinesetraditional>
+        <japanese>エンドレスゲームを200回プレイしよう</japanese>
+        <russian>Сыграйте 200 раз в бесконечную игру</russian>
+    </text>
+    <text value="Score 100 or more">
+        <french>Réalise un score de 100 ou plus.</french>
+        <spanish>Consigue 100 puntos o más</spanish>
+        <portuguese>Alcança uma pontuação de 100 ou mais</portuguese>
+        <italian>Segna 100 o più</italian>
+        <german>Erziele mindestens 100 Punkte.</german>
+        <chinesesimplified>得到100分或更多</chinesesimplified>
+        <chinesetraditional>100分以上</chinesetraditional>
+        <japanese>100点以上入れよう</japanese>
+        <russian>Наберите 100 очков или больше</russian>
+    </text>
+    <text value="Unlock 15 skins">
+        <french>Débloque 15 apparences.</french>
+        <spanish>Desbloquea 15 diseños</spanish>
+        <portuguese>Desbloqueia 15 máscaras</portuguese>
+        <italian>Sblocca 15 skin</italian>
+        <german>Schalte 15 Skins frei.</german>
+        <chinesesimplified>解锁15个皮肤</chinesesimplified>
+        <chinesetraditional>解鎖15款球款</chinesetraditional>
+        <japanese>スキンを15個手に入れよう</japanese>
+        <russian>Откройте 15 стилей</russian>
+    </text>
+    <text value="Score 150 or more">
+        <french>Réalise un score de 150 ou plus.</french>
+        <spanish>Consigue 150 puntos o más</spanish>
+        <portuguese>Alcança uma pontuação de 150 ou mais</portuguese>
+        <italian>Segna 150 o più</italian>
+        <german>Erziele mindestens 150 Punkte.</german>
+        <chinesesimplified>得到150分或更多</chinesesimplified>
+        <chinesetraditional>150分以上</chinesetraditional>
+        <japanese>150点以上入れよう</japanese>
+        <russian>Наберите 150 очков или больше</russian>
+    </text>
+    <text value="Score {0} or more">
+        <french>Réalise un score de {0} ou plus.</french>
+        <spanish>Consigue {0} puntos o más</spanish>
+        <portuguese>Alcança uma pontuação de {0} ou mais</portuguese>
+        <italian>Segna {0} o più</italian>
+        <german>Erziele mindestens {0} Punkte.</german>
+        <chinesesimplified>得到{0}分或更多</chinesesimplified>
+        <chinesetraditional>{0}分以上</chinesetraditional>
+        <japanese>{0}点以上入れよう</japanese>
+        <russian>Наберите {0} очков или больше</russian>
+    </text>
+    <text value="You could get this marvellous skin in no more than 8 seconds...">
+        <french>Tu peux débloquer cette apparence en seulement 8 secondes...</french>
+        <spanish>Podrías conseguir este maravilloso diseño en no más de 8 segundos...</spanish>
+        <portuguese>Esta máscara maravilhosa pode ser tua em 8 segundos...</portuguese>
+        <italian>Puoi ottenere questa bellissima skin in soli 8 secondi...</italian>
+        <german>In nur 8 Sekunden kannst du dir diesen wunderschönen Skin holen ...</german>
+        <chinesesimplified>只要不到8秒您就可以得到这款不可思议的皮肤了……</chinesesimplified>
+        <chinesetraditional>你可以在8秒內拿到這款奇妙的球款……</chinesetraditional>
+        <japanese>8秒でこの最高なスキンが手に入るよ...</japanese>
+        <russian>Вы могли бы получить этот чудесный стиль всего за 8 секунд...</russian>
+    </text>
+    <text value="Last 8 seconds between 2 hoops during an endless game">
+        <french>Tiens 8 secondes entre 2 paniers en mode infini.</french>
+        <spanish>Tarda 8 segundos en pasar entre dos aros en una partida infinita</spanish>
+        <portuguese>Dura 8 segundos entre 2 cestos num jogo sem fim</portuguese>
+        <italian>Dura 8 secondi tra due canestri in una partita infinita</italian>
+        <german>Überstehe 8 Sekunden zwischen 2 Körben in einem Endlosspiel.</german>
+        <chinesesimplified>无尽游戏下在2个篮圈间持续8秒</chinesesimplified>
+        <chinesetraditional>連續遊戲期間，兩個籃框之間的最後8秒</chinesetraditional>
+        <japanese>エンドレスゲームで2つのリング間で8秒続けよう</japanese>
+        <russian>Последние 8 секунд между 2 кольцами в бесконечной игре</russian>
+    </text>
+    <text value="Score 50 or more using a Second Chance">
+        <french>Fais un score de 50 ou plus en utilisant l'option Seconde chance.</french>
+        <spanish>Consigue 50 puntos o más con una 2.ª oportunidad</spanish>
+        <portuguese>Alcança uma pontuação de 50 ou mais usando uma Segunda oportunidade</portuguese>
+        <italian>Segna 50 o più usando una seconda occasione</italian>
+        <german>Erziele mindestens 50 Punkte mit der Zweiten Chance.</german>
+        <chinesesimplified>使用第二次机会得到50分或更多</chinesesimplified>
+        <chinesetraditional>50分以上可使用「第二次機會」</chinesetraditional>
+        <japanese>セカンドチャンスを使って50点以上入れよう</japanese>
+        <russian>Наберите 50 очков или больше, используя Второй шанс</russian>
+    </text>
+    <text value="Play Flappy Dunk 7 days in a row">
+        <french>Joue à Flappy Dunk pendant 7 jours d'affilée.</french>
+        <spanish>Juega a Flappy Dunk 7 días seguidos</spanish>
+        <portuguese>Joga Flappy Dunk 7 dias seguidos</portuguese>
+        <italian>Gioca a Flappy Dunk per 7 giorni di fila</italian>
+        <german>Spiele Flappy Dunk 7 Tage in Folge.</german>
+        <chinesesimplified>连续7天玩Flappy Dunk</chinesesimplified>
+        <chinesetraditional>連續7天暢玩Flappy Dunk</chinesetraditional>
+        <japanese>Flappy Dunkを7日連続でプレイしよう</japanese>
+        <russian>Играйте в Flappy Dunk 7 дней подряд</russian>
+    </text>
+    <text value="Watch a video ad">
+        <french>Regarder une publicité vidéo</french>
+        <spanish>Ver un anuncio</spanish>
+        <portuguese>Vê um vídeo publicitário</portuguese>
+        <italian>Guarda una pubblicità</italian>
+        <german>Werbung ansehen</german>
+        <chinesesimplified>观看广告视频</chinesesimplified>
+        <chinesetraditional>觀看視訊廣告</chinesetraditional>
+        <japanese>動画広告を視聴</japanese>
+        <russian>Смотреть рекламный ролик</russian>
+    </text>
+    <text value="Share">
+        <french>Partager</french>
+        <spanish>Compartir</spanish>
+        <portuguese>Partilhar</portuguese>
+        <italian>Condividi</italian>
+        <german>Teilen</german>
+        <chinesesimplified>分享</chinesesimplified>
+        <chinesetraditional>分享</chinesetraditional>
+        <japanese>共有</japanese>
+        <russian>Поделиться</russian>
+    </text>
+    <text value="You are now a premium user!">
+        <french>Vous êtes maintenant un utilisateur premium !</french>
+        <spanish>¡Ahora eres usuario premium!</spanish>
+        <portuguese>Passaste a ser um utilizador premium!</portuguese>
+        <italian>Ora sei un utente premium!</italian>
+        <german>Du bist jetzt ein Premium-Nutzer!</german>
+        <chinesesimplified>你现在是高级用户了！</chinesesimplified>
+        <chinesetraditional>您現已成為高級會員玩家！</chinesetraditional>
+        <japanese>プレミアムユーザーになりました！</japanese>
+        <russian>Получен премиум-статус!</russian>
+    </text>
+    <text value="Thank you for your support, and enjoy Flappy Dunk! :)">
+        <french>Merci pour votre soutien et amusez-vous bien avec Flappy Dunk ! :)</french>
+        <spanish>Gracias por tu apoyo. ¡Disfruta de Flappy Dunk! :)</spanish>
+        <portuguese>Obrigado pelo apoio e diverte-te com Flappy Dunk! :)</portuguese>
+        <italian>Grazie per il tuo supporto, divertiti con Flappy Dunk! :)</italian>
+        <german>Danke für deine Unterstützung und viel Spaß mit Flappy Dunk! :)</german>
+        <chinesesimplified>感谢你的支持，尽情享受Flappy Dunk吧！:)</chinesesimplified>
+        <chinesetraditional>感謝您的支持，祝您遊戲愉快！\(^O^)/</chinesetraditional>
+        <japanese>応援していただき、ありがとうございます。Flappy Dunkをお楽しみください！:)</japanese>
+        <russian>Спасибо за вашу поддержку. Удачной игры в Flappy Dunk! :)</russian>
+    </text>
+    <text value="You're welcome!">
+        <french>De rien !</french>
+        <spanish>¡De nada!</spanish>
+        <portuguese>Muito obrigado!</portuguese>
+        <italian>Non c'è di che!</italian>
+        <german>Bitte sehr!</german>
+        <chinesesimplified>不用谢！</chinesesimplified>
+        <chinesetraditional>不會啦！</chinesetraditional>
+        <japanese>こちらこそ！</japanese>
+        <russian>Пожалуйста!</russian>
+    </text>
+    <text value="Purchase Error">
+        <french>Erreur de transaction</french>
+        <spanish>Error en la compra</spanish>
+        <portuguese>Erro de compra</portuguese>
+        <italian>Errore nell'acquisto</italian>
+        <german>Fehler beim Einkauf</german>
+        <chinesesimplified>购买错误</chinesesimplified>
+        <chinesetraditional>購買錯誤</chinesetraditional>
+        <japanese>購入エラー</japanese>
+        <russian>Ошибка</russian>
+    </text>
+    <text value="For some reason, the purchase of {0} failed. Sorry for that. Try again later!">
+        <french>Il semblerait que l'achat de {0} ait échoué. Nous sommes désolés. Veuillez réessayer plus tard !</french>
+        <spanish>Por alguna razón, la compra de {0} ha fallado. Disculpa. Inténtalo de nuevo más tarde.</spanish>
+        <portuguese>Por algum motivo, ocorreu uma falha na compra de {0}. Desculpa o incómodo. Tenta de novo mais tarde!</portuguese>
+        <italian>Siamo spiacenti, ma c'è stato un errore nell'acquisto di {0}. Riprova più tardi!</italian>
+        <german>Wegen eines Fehlers ist der Kauf von {0} fehlgeschlagen. Sorry. Versuche es später noch mal!</german>
+        <chinesesimplified>由于某些原因，购买{0}失败了。很抱歉。请稍后重试！</chinesesimplified>
+        <chinesetraditional>十分抱歉，由於某種原因，購買{0}時出現錯誤。請稍後再試！</chinesetraditional>
+        <japanese>何らかの理由で「{0}」の購入に失敗しました。申し訳ありませんが、後でもう一度お試しください。</japanese>
+        <russian>При покупке предмета {0} произошла ошибка. Приносим свои извинения. Попробуйте еще раз позже!</russian>
+    </text>
+    <text value="No problem">
+        <french>Pas de soucis</french>
+        <spanish>No hay problema</spanish>
+        <portuguese>Não há problema</portuguese>
+        <italian>Nessun problema</italian>
+        <german>Kein Problem</german>
+        <chinesesimplified>没问题</chinesesimplified>
+        <chinesetraditional>沒問題</chinesetraditional>
+        <japanese>了解</japanese>
+        <russian>Без проблем</russian>
+    </text>
+    <text value="Welcome back!">
+        <french>Bon retour !</french>
+        <spanish>¡Hola de nuevo!</spanish>
+        <portuguese>Bem-vindo de volta!</portuguese>
+        <italian>Ben tornato!</italian>
+        <german>Willkommen zurück!</german>
+        <chinesesimplified>欢迎回来！</chinesesimplified>
+        <chinesetraditional>歡迎回來！</chinesetraditional>
+        <japanese>おかえりなさい！</japanese>
+        <russian>Приветствуем!</russian>
+    </text>
+    <text value="All of your previous purchases have been restored!">
+        <french>Tous vos précédents achats ont été restaurés !</french>
+        <spanish>¡Se han recuperado todas tus compras anteriores!</spanish>
+        <portuguese>Todas as tuas compras foram restauradas!</portuguese>
+        <italian>Tutti i tuoi acquisti precedenti sono stati ripristinati!</italian>
+        <german>Alle früheren Einkäufe wurden wiederhergestellt!</german>
+        <chinesesimplified>你之前所有的购买记录都恢复了！</chinesesimplified>
+        <chinesetraditional>您之前的所有購買內容均已恢復！</chinesetraditional>
+        <japanese>以前の購入がすべて復元されました！</japanese>
+        <russian>Все ваши прошлые покупки восстановлены!</russian>
+    </text>
+    <text value="Thanks!">
+        <french>Merci !</french>
+        <spanish>¡Gracias!</spanish>
+        <portuguese>Obrigado!</portuguese>
+        <italian>Grazie!</italian>
+        <german>Danke!</german>
+        <chinesesimplified>谢谢！</chinesesimplified>
+        <chinesetraditional>謝謝！</chinesetraditional>
+        <japanese>ありがとうございます！</japanese>
+        <russian>Спасибо!</russian>
+    </text>
+    <text value="Video loading failed">
+        <french>Échec de chargement de la vidéo</french>
+        <spanish>Error al cargar el vídeo</spanish>
+        <portuguese>Falha ao carregar o vídeo</portuguese>
+        <italian>Caricamento video non riuscito</italian>
+        <german>Laden des Videos fehlgeschlagen</german>
+        <chinesesimplified>视频加载失败</chinesesimplified>
+        <chinesetraditional>視訊加載失敗</chinesetraditional>
+        <japanese>動画の読み込みに失敗しました</japanese>
+        <russian>Ошибка загрузки видео</russian>
+    </text>
+    <text value="We could not load any video ad. Please connect to the Internet or wait a few seconds.">
+        <french>Nous n'avons pas pu charger la publicité vidéo. Veuillez vous connecter à Internet ou attendre quelques secondes.</french>
+        <spanish>No hemos podido cargar ningún anuncio. Conéctate a internet o espera unos segundos.</spanish>
+        <portuguese>Não foi possível carregar vídeos publicitários. Liga-te à Internet ou aguarda alguns segundos.</portuguese>
+        <italian>Impossibile caricare pubblicità. Connettiti a Internet o attendi qualche secondo.</italian>
+        <german>Wir konnten keine Werbung laden. Bitte verbinde dich mit dem Internet oder warte kurz.</german>
+        <chinesesimplified>无法加载任何视频广告。请连接到互联网或者稍等片刻。</chinesesimplified>
+        <chinesetraditional>我們無法加載任何視訊廣告。請連線至網路或等待幾秒時間。</chinesetraditional>
+        <japanese>動画広告を読み込みできませんでした。インターネットに接続するか、数秒間お待ちください。</japanese>
+        <russian>Не удалось загрузить рекламный видеоролик. Проверьте подключение к Интернету или подождите.</russian>
+    </text>
+    <text value="New best:">
+        <french>Record battu :</french>
+        <spanish>Nuevo récord:</spanish>
+        <portuguese>Novo recorde:</portuguese>
+        <italian>Nuovo record:</italian>
+        <german>Neue Bestleistung:</german>
+        <chinesesimplified>最佳新成绩：</chinesesimplified>
+        <chinesetraditional>新最佳記錄：</chinesetraditional>
+        <japanese>新記録：</japanese>
+        <russian>Новый рекорд:</russian>
+    </text>
+    <text value="Stats">
+        <french>Statistiques</french>
+        <spanish>Estadísticas</spanish>
+        <portuguese>Estatísticas</portuguese>
+        <italian>Statistiche</italian>
+        <german>Statistiken</german>
+        <chinesesimplified>统计</chinesesimplified>
+        <chinesetraditional>統計記錄</chinesetraditional>
+        <japanese>統計</japanese>
+        <russian>Статистика</russian>
+    </text>
+    <text value="Top">
+        <french>Top</french>
+        <spanish>Top</spanish>
+        <portuguese>Top</portuguese>
+        <italian>Top</italian>
+        <german>Top</german>
+        <chinesesimplified>顶部</chinesesimplified>
+        <chinesetraditional>頂級排名</chinesetraditional>
+        <japanese>トップ</japanese>
+        <russian>Лучшее</russian>
+    </text>
+    <text value="Score:">
+        <french>Score :</french>
+        <spanish>Puntos:</spanish>
+        <portuguese>Pontuação:</portuguese>
+        <italian>Punteggio:</italian>
+        <german>Punkte:</german>
+        <chinesesimplified>分数：</chinesesimplified>
+        <chinesetraditional>分數：</chinesetraditional>
+        <japanese>スコア</japanese>
+        <russian>Очки:</russian>
+    </text>
+    <text value="Hoops:">
+        <french>Paniers :</french>
+        <spanish>Aros:</spanish>
+        <portuguese>Cestos:</portuguese>
+        <italian>Canestri:</italian>
+        <german>Körbe:</german>
+        <chinesesimplified>篮圈：</chinesesimplified>
+        <chinesetraditional>籃框：</chinesetraditional>
+        <japanese>リング：</japanese>
+        <russian>Кольца:</russian>
+    </text>
+    <text value="Swishes:">
+        <french>Perfects:</french>
+        <spanish>Limpias:</spanish>
+        <portuguese>Sem espinhas:</portuguese>
+        <italian>Ciuff:</italian>
+        <german>Perfects:</german>
+        <chinesesimplified>个空心球:</chinesesimplified>
+        <chinesetraditional>個空心球:</chinesetraditional>
+        <japanese>回決めよう:</japanese>
+        <russian>мяча:</russian>
+    </text>
+    <text value="Swish streak:">
+        <french>Suite de Perfects :</french>
+        <spanish>Racha de limpias:</spanish>
+        <portuguese>Sequência sem espinhas:</portuguese>
+        <italian>Scia di ciuff:</italian>
+        <german>Perfects-Reihe:</german>
+        <chinesesimplified>连续空心球：</chinesesimplified>
+        <chinesetraditional>連投空心球：</chinesetraditional>
+        <japanese>連続ゴール：</japanese>
+        <russian>Попадания:</russian>
+    </text>
+    <text value="Last game">
+        <french>Dernière partie</french>
+        <spanish>Última partida</spanish>
+        <portuguese>Último jogo</portuguese>
+        <italian>Ultima partita</italian>
+        <german>Letztes Spiel</german>
+        <chinesesimplified>上次游戏</chinesesimplified>
+        <chinesetraditional>上場比賽</chinesetraditional>
+        <japanese>前回のゲーム</japanese>
+        <russian>Последняя игра</russian>
+    </text>
+    <text value="Games:">
+        <french>Parties :</french>
+        <spanish>Partidas:</spanish>
+        <portuguese>Jogos:</portuguese>
+        <italian>Partite:</italian>
+        <german>Spiele:</german>
+        <chinesesimplified>游戏：</chinesesimplified>
+        <chinesetraditional>比賽次數：</chinesetraditional>
+        <japanese>ゲーム：</japanese>
+        <russian>Игры:</russian>
+    </text>
+    <text value="Total">
+        <french>Total</french>
+        <spanish>Total</spanish>
+        <portuguese>Total</portuguese>
+        <italian>Totale</italian>
+        <german>Insgesamt</german>
+        <chinesesimplified>合计</chinesesimplified>
+        <chinesetraditional>總得分</chinesetraditional>
+        <japanese>合計</japanese>
+        <russian>Всего</russian>
+    </text>
+    <text value="Hey! Check my stats on Flappy Dunk! Try to beat this!">
+        <french>Hé, regarde mes stats sur Flappy Dunk ! Essaie de battre ça !</french>
+        <spanish>¡Oye! ¡Mira mis estadísticas en Flappy Dunk! ¡Supéralas si puedes!</spanish>
+        <portuguese>Uau! Repara nas minhas estatísticas no Flappy Dunk! Tenta ultrapassar-me!</portuguese>
+        <italian>Ehi! Guarda le mie statistiche a Flappy Dunk! Prova a battermi!</italian>
+        <german>Hey! Schau dir meine Statistiken in Flappy Dunk an! Versuche mich zu überbieten!</german>
+        <chinesesimplified>嘿！看看我在Flappy Dunk中拿下的分数！试试打败我啊！</chinesesimplified>
+        <chinesetraditional>嘿！來看看我在Flappy Dunk上的記錄！快來打破這個記錄吧！</chinesetraditional>
+        <japanese>Flappy Dunkの個人統計をシェアします！挑戦者募集中！</japanese>
+        <russian>Посмотри мою статистику в Flappy Dunk! Сможешь так же?</russian>
+    </text>
+    <text value="Close">
+        <french>Fermer</french>
+        <spanish>Cerrar</spanish>
+        <portuguese>Fechar</portuguese>
+        <italian>Vicino</italian>
+        <german>Schließen</german>
+        <chinesesimplified>关闭</chinesesimplified>
+        <chinesetraditional>關閉</chinesetraditional>
+        <japanese>閉じる</japanese>
+        <russian>Закрыть</russian>
+    </text>
+    <text value="Skins">
+        <french>Apparences</french>
+        <spanish>Diseños</spanish>
+        <portuguese>Máscaras</portuguese>
+        <italian>Skin</italian>
+        <german>Skins</german>
+        <chinesesimplified>皮肤</chinesesimplified>
+        <chinesetraditional>皮膚</chinesetraditional>
+        <japanese>スキン</japanese>
+        <russian>Стили</russian>
+    </text>
+    <text value="Skins:">
+        <french>Apparences:</french>
+        <spanish>Diseños:</spanish>
+        <portuguese>Máscaras:</portuguese>
+        <italian>Skin:</italian>
+        <german>Skins:</german>
+        <chinesesimplified>皮肤:</chinesesimplified>
+        <chinesetraditional>皮膚:</chinesetraditional>
+        <japanese>スキン:</japanese>
+        <russian>Стили:</russian>
+    </text>
+    <text value="Pass 30 hoops in a single endless game">
+        <french>Marque 30 paniers dans une même partie en mode infini.</french>
+        <spanish>Pasa por 30 aros en una partida infinita</spanish>
+        <portuguese>Passa por 30 cestos num único jogo sem fim</portuguese>
+        <italian>Segna 30 canestri in una singola partita infinita</italian>
+        <german>Triff in einem einzigen Endlosspiel 30 Körbe</german>
+        <chinesesimplified>在单独一场无尽游戏中通过30个篮圈</chinesesimplified>
+        <chinesetraditional>在一次無盡遊戲中穿過30個籃框</chinesetraditional>
+        <japanese>1回のエンドレスゲームでリングに30回通そう</japanese>
+        <russian>Пройдите сквозь 30 колец в одиночной бесконечной игре</russian>
+    </text>
+    <text value="Achieve 15 swishes in a single endless game">
+        <french>Réalise 15 perfects dans une même partie en mode infini.</french>
+        <spanish>Consigue 15 limpias en una partida infinita</spanish>
+        <portuguese>Alcança 15 cestos sem espinhas num único jogo sem fim</portuguese>
+        <italian>Segna 15 ciuff in una singola partita infinita</italian>
+        <german>Wirf in einem einzigen Endlosspiel 15 Perfects</german>
+        <chinesesimplified>在单独一场无尽游戏中投出15个空心球</chinesesimplified>
+        <chinesetraditional>在一次無盡遊戲中成功投進15個空心球</chinesetraditional>
+        <japanese>1回のエンドレスゲームでゴールを15回決めよう</japanese>
+        <russian>Совершите 15 чистых попаданий в одиночной бесконечной игре</russian>
+    </text>
+    <text value="Play endless games with 12 different skins">
+        <french>Joue en mode infini avec 12 apparences différentes.</french>
+        <spanish>Juega partidas infinitas con 12 diseños distintos</spanish>
+        <portuguese>Entra em jogos sem fim com 12 máscaras diferentes</portuguese>
+        <italian>Gioca delle partite infinite con 12 skin diverse</italian>
+        <german>Spiele Endlosspiele mit 12 verschiedenen Skins</german>
+        <chinesesimplified>使用12种皮肤玩无尽游戏</chinesesimplified>
+        <chinesetraditional>使用12種皮膚闖關無盡遊戲械</chinesetraditional>
+        <japanese>12種類のスキンでエンドレスゲームをプレイしよう</japanese>
+        <russian>Сыграйте в бесконечную игру в 12 разных стилях</russian>
+    </text>
+    <text value="That was close...">
+        <french>C'était pas loin...</french>
+        <spanish>Por qué poco...</spanish>
+        <portuguese>Foi quase...</portuguese>
+        <italian>C'è mancato poco...</italian>
+        <german>Das war knapp …</german>
+        <chinesesimplified>已很接近了...</chinesesimplified>
+        <chinesetraditional>真懸啊……</chinesetraditional>
+        <japanese>危ない危ない...</japanese>
+        <russian>Почти...</russian>
+    </text>
+    <text value="You almost touched the floor between two hoops in endless mode">
+        <french>Tu as frôlé le sol entre deux paniers en mode infini.</french>
+        <spanish>Casi has tocado el suelo entre dos aros en una partida infinita</spanish>
+        <portuguese>Quase tocaste no piso entre dois cestos num jogo sem fim</portuguese>
+        <italian>Per poco non toccavi il pavimento tra due canestri durante una partita infinita</italian>
+        <german>Du hast in einem Endlosspiel zwischen zwei Körben beinahe den Boden berührt</german>
+        <chinesesimplified>在无尽游戏中，你在两个篮圈间差点就碰到地面了</chinesesimplified>
+        <chinesetraditional>在無盡遊戲模式裡，你差點在兩個籃框間觸地</chinesetraditional>
+        <japanese>エンドレスゲームでリング2本の間に着地するところだったね</japanese>
+        <russian>Вы едва не коснулись пола между двумя кольцами в бесконечной игре</russian>
+    </text>
+    <text value="Pass 1,000 hoops in total in endless mode">
+        <french>Marque 1 000 paniers au total en mode infini.</french>
+        <spanish>Pasa por 1000 aros en total en partidas infinitas</spanish>
+        <portuguese>Passa por um total de 1.000 cestos no modo sem fim</portuguese>
+        <italian>Segna 1.000 canestri in totale in modalità infinita</italian>
+        <german>Triff in Endlosspielen insgesamt 1.000 Körbe</german>
+        <chinesesimplified>在无尽模式下通过1000个篮圈</chinesesimplified>
+        <chinesetraditional>在無盡模式中總共穿過1,000個籃框</chinesetraditional>
+        <japanese>エンドレスモードで通算1,000本のリングに通そう</japanese>
+        <russian>Пройдите сквозь 1000 колец в бесконечном режиме</russian>
+    </text>
+    <text value="Pass 2,000 hoops in total in endless mode">
+        <french>Marque 2 000 paniers au total en mode infini.</french>
+        <spanish>Pasa por 2000 aros en total en partidas infinitas</spanish>
+        <portuguese>Passa por um total de 2.000 cestos no modo sem fim</portuguese>
+        <italian>Segna 2.000 canestri in totale in modalità infinita</italian>
+        <german>Triff in Endlosspielen insgesamt 2.000 Körbe</german>
+        <chinesesimplified>在无尽模式下通过2000个篮圈</chinesesimplified>
+        <chinesetraditional>在無盡模式中總共穿過2,000個籃框</chinesetraditional>
+        <japanese>エンドレスモードで通算2,000本のリングに通そう</japanese>
+        <russian>Пройдите сквозь 2000 колец в бесконечном режиме</russian>
+    </text>
+    <text value="Challenges">
+        <french>Défis</french>
+        <spanish>Desafíos</spanish>
+        <portuguese>Desafios</portuguese>
+        <italian>Sfide</italian>
+        <german>Herausforderungen</german>
+        <chinesesimplified>挑战</chinesesimplified>
+        <chinesetraditional>挑戰</chinesetraditional>
+        <japanese>チャレンジ</japanese>
+        <russian>Задания</russian>
+    </text>
+    <text value="Challenges:">
+        <french>Défis:</french>
+        <spanish>Desafíos:</spanish>
+        <portuguese>Desafios:</portuguese>
+        <italian>Sfide:</italian>
+        <german>Herausforderungen:</german>
+        <chinesesimplified>挑战:</chinesesimplified>
+        <chinesetraditional>挑戰:</chinesetraditional>
+        <japanese>チャレンジ:</japanese>
+        <russian>Задания:</russian>
+    </text>
+    <text value="Face the hoops!">
+        <french>Fais face aux paniers !</french>
+        <spanish>¡Enfréntate a los aros!</spanish>
+        <portuguese>Enfrenta os cestos!</portuguese>
+        <italian>Affronta i canestri!</italian>
+        <german>Stell dich den Körben!</german>
+        <chinesesimplified>面对篮圈！</chinesesimplified>
+        <chinesetraditional>向籃框衝擊！</chinesetraditional>
+        <japanese>リングにジャンプ！</japanese>
+        <russian>Проходите сквозь кольца!</russian>
+    </text>
+    <text value="Slide!">
+        <french>Glisse !</french>
+        <spanish>¡Desliza!</spanish>
+        <portuguese>Desliza!</portuguese>
+        <italian>Scivola!</italian>
+        <german>Und rutschen!</german>
+        <chinesesimplified>滑走了！</chinesesimplified>
+        <chinesetraditional>滑行！</chinesetraditional>
+        <japanese>スライドしよう！</japanese>
+        <russian>Скользите!</russian>
+    </text>
+    <text value="Tight level!">
+        <french>Niveau étroit !</french>
+        <spanish>¡Nivel estrecho!</spanish>
+        <portuguese>Nível apertado!</portuguese>
+        <italian>Che livello teso!</italian>
+        <german>Enges Level!</german>
+        <chinesesimplified>困难的一关！</chinesesimplified>
+        <chinesetraditional>精湛水平！</chinesetraditional>
+        <japanese>タイトなレベル！</japanese>
+        <russian>Непростой уровень!</russian>
+    </text>
+    <text value="Rollercoaster">
+        <french>Montagnes russes</french>
+        <spanish>Montaña rusa</spanish>
+        <portuguese>Montanha russa</portuguese>
+        <italian>Travolgente</italian>
+        <german>Achterbahn</german>
+        <chinesesimplified>过山车</chinesesimplified>
+        <chinesetraditional>過山車</chinesetraditional>
+        <japanese>ローラーコースター</japanese>
+        <russian>Веселые горки</russian>
+    </text>
+    <text value="Don't miss the train...">
+        <french>Ne rate pas le train...</french>
+        <spanish>No pierdas el tren...</spanish>
+        <portuguese>Não percas a carruagem...</portuguese>
+        <italian>Non perdere il treno...</italian>
+        <german>Nicht den Zug verpassen …</german>
+        <chinesesimplified>别错过火车...</chinesesimplified>
+        <chinesetraditional>別錯過列車……</chinesetraditional>
+        <japanese>電車を逃さないようにね...</japanese>
+        <russian>Не упустите свой шанс...</russian>
+    </text>
+    <text value="Step by step">
+        <french>Étape par étape</french>
+        <spanish>Paso a paso</spanish>
+        <portuguese>Passo a passo</portuguese>
+        <italian>Passo dopo passo</italian>
+        <german>Schritt für Schritt</german>
+        <chinesesimplified>一步一步</chinesesimplified>
+        <chinesetraditional>循序漸進</chinesetraditional>
+        <japanese>ステップ・バイ・ステップ</japanese>
+        <russian>Шаг за шагом</russian>
+    </text>
+    <text value="Don't touch the hoop sides!">
+        <french>Ne touche pas le bord des paniers !</french>
+        <spanish>¡No toques los lados del aro!</spanish>
+        <portuguese>Não toques nos aros!</portuguese>
+        <italian>Non toccare i bordi del canestro!</italian>
+        <german>Nicht den Ring berühren!</german>
+        <chinesesimplified>别碰篮圈的侧边！</chinesesimplified>
+        <chinesetraditional>別碰到籃框邊！</chinesetraditional>
+        <japanese>リングの縁に触れないようにしよう！</japanese>
+        <russian>Не касайтесь самих колец!</russian>
+    </text>
+    <text value="Pass all moving hoops">
+        <french>Marque dans tous les paniers en mouvement.</french>
+        <spanish>Pasa por todos los aros móviles</spanish>
+        <portuguese>Passa por todos os cestos em movimento</portuguese>
+        <italian>Segna in tutti i canestri in movimento</italian>
+        <german>Triff alle beweglichen Körbe</german>
+        <chinesesimplified>通过所有移动的篮圈</chinesesimplified>
+        <chinesetraditional>穿過所有移動籃框</chinesetraditional>
+        <japanese>動くリングすべてに通そう</japanese>
+        <russian>Пройдите сквозь все движущиеся кольца</russian>
+    </text>
+    <text value="Pass the hoop">
+        <french>Marque dans le panier.</french>
+        <spanish>Pasa por el aro</spanish>
+        <portuguese>Passa pelo cesto</portuguese>
+        <italian>Segna nel canestro</italian>
+        <german>Triff den Korb</german>
+        <chinesesimplified>通过篮圈</chinesesimplified>
+        <chinesetraditional>穿過籃框</chinesetraditional>
+        <japanese>リングに通そう</japanese>
+        <russian>Пройдите сквозь кольцо</russian>
+    </text>
+    <text value="Go down then up">
+        <french>Descend puis remonte.</french>
+        <spanish>Arriba, abajo</spanish>
+        <portuguese>Tudo o que sobe tem de descer</portuguese>
+        <italian>Vai giù, vai su</italian>
+        <german>Abwärts, aufwärts</german>
+        <chinesesimplified>向下，向上</chinesesimplified>
+        <chinesetraditional>上躥下跳</chinesetraditional>
+        <japanese>下がって上がろう</japanese>
+        <russian>Опускайтесь, поднимайтесь</russian>
+    </text>
+    <text value="Pass all 3 hoops">
+        <french>Marque dans les 3 paniers.</french>
+        <spanish>Pasa por los 3 aros</spanish>
+        <portuguese>Passa por 3 cestos</portuguese>
+        <italian>Segna nei 3 canestri</italian>
+        <german>Triff die 3 Körbe</german>
+        <chinesesimplified>通过3个篮圈</chinesesimplified>
+        <chinesetraditional>穿過3個籃框</chinesetraditional>
+        <japanese>3本のリングに通そう</japanese>
+        <russian>Пройдите сквозь 3 кольца</russian>
+    </text>
+    <text value="Two swishes. One shot. Aim well...">
+        <french>Deux Perfects. Un tir. Vise bien...</french>
+        <spanish>Dos limpias. Un lanzamiento. Apunta bien...</spanish>
+        <portuguese>Dois cestos sem espinhas. Um lançamento. Aponta bem...</portuguese>
+        <italian>Due ciuff. Un tiro. Mira bene...</italian>
+        <german>Zwei Perfects. Ein Wurf. Ziele weise …</german>
+        <chinesesimplified>两个空心球，一次投篮，瞄得准...</chinesesimplified>
+        <chinesetraditional>一次投籃，兩記空心球。瞄得真准……</chinesetraditional>
+        <japanese>ゴール2回。シュート1回。よく狙って...</japanese>
+        <russian>Один бросок. Два чистых попадания. Вот это точность...</russian>
+    </text>
+    <text value="Be careful of the floor and ceiling...">
+        <french>Attention au sol et au plafond...</french>
+        <spanish>Cuidado con el suelo y el techo...</spanish>
+        <portuguese>Tem cuidado com o piso e o teto...</portuguese>
+        <italian>Stai attento al pavimento e al soffitto...</italian>
+        <german>Achte auf den Boden und die Decke …</german>
+        <chinesesimplified>小心地板和天花板...</chinesesimplified>
+        <chinesetraditional>當心地板和天花板……</chinesetraditional>
+        <japanese>床と天井に気をつけて...</japanese>
+        <russian>Не касайтесь пола и потолка...</russian>
+    </text>
+    <text value="Pass the two mad hoops!">
+        <french>Marque dans les deux paniers fous !</french>
+        <spanish>¡Pasa por dos aros locos!</spanish>
+        <portuguese>Passa pelos dois cestos loucos!</portuguese>
+        <italian>Segna nei due canestri pazzi!</italian>
+        <german>Triff zwei wilde Körbe!</german>
+        <chinesesimplified>通过疯狂篮圈！</chinesesimplified>
+        <chinesetraditional>穿過兩個瘋狂籃框！</chinesetraditional>
+        <japanese>荒ぶるリング2本に通そう！</japanese>
+        <russian>Пройдите сквозь два бешеных кольца!</russian>
+    </text>
+    <text value="Don't touch the hoop sides... Again!">
+        <french>Ne touche pas le bord des paniers... Encore une fois !</french>
+        <spanish>No toques los lados del aro... ¡otra vez!</spanish>
+        <portuguese>Não toques nos aros. Tenta de novo!</portuguese>
+        <italian>Non toccare i bordi del canestro... Di nuovo!</italian>
+        <german>Nicht den Ring berühren! Noch einmal!</german>
+        <chinesesimplified>别碰篮圈的侧边...再说一次！</chinesesimplified>
+        <chinesetraditional>別碰到籃框邊..再來一次！</chinesetraditional>
+        <japanese>リングの縁に触れないようにしよう...もう1回！</japanese>
+        <russian>Не касайтесь самих колец... Еще раз!</russian>
+    </text>
+    <text value="Server unreachable">
+        <french>Serveur injoignable</french>
+        <spanish>Servidor no disponible</spanish>
+        <portuguese>Não é possível aceder ao servidor</portuguese>
+        <italian>Server non raggiungibile</italian>
+        <german>Server nicht erreichbar</german>
+        <chinesesimplified>服务器不可用</chinesesimplified>
+        <chinesetraditional>伺服器無法連結</chinesetraditional>
+        <japanese>サーバーに接続できません</japanese>
+        <russian>Сервер недоступен</russian>
+    </text>
+    <text value="Unable to reach the servers. Please check your Internet connection and try again.">
+        <french>Impossible de joindre les serveurs. Vérifiez votre connexion Internet et réessayez.</french>
+        <spanish>No se puede conectar con el servidor. Comprueba tu conexión e inténtalo de nuevo.</spanish>
+        <portuguese>Não é possível aceder aos servidores. Verifica a tua ligação à Internet e tenta de novo.</portuguese>
+        <italian>Impossibile raggiungere il server. Controlla la tua connessione internet e riprova.</italian>
+        <german>Server kann nicht erreicht werden. Bitte kontrolliere deine Internetverbindung und versuche es erneut.</german>
+        <chinesesimplified>无法连接到服务器。请检查您的网络连接然后重试。</chinesesimplified>
+        <chinesetraditional>無法連結到伺服器。請檢查網路連線後再試一次。</chinesetraditional>
+        <japanese>サーバーに接続できません。インターネット接続をご確認のうえ、もう一度お試しください。</japanese>
+        <russian>Невозможно подключиться к серверу. Проверьте соединение с Интернетом и попробуйте еще раз.</russian>
+    </text>
+    <text value="Play Flappy Dunk">
+        <french>Joue à Flappy Dunk</french>
+        <spanish>Jugar a Flappy Dunk</spanish>
+        <portuguese>Joga Flappy Dunk</portuguese>
+        <italian>Gioca a Flappy Dunk</italian>
+        <german>Flappy Dunk spielen</german>
+        <chinesesimplified>开始 Flappy Dunk</chinesesimplified>
+        <chinesetraditional>遊玩Flappy Dunk</chinesetraditional>
+        <japanese>Flappy Dunkをプレイ</japanese>
+        <russian>Сыграйте в Flappy Dunk</russian>
+    </text>
+    <text value="Normal">
+        <french>Normal</french>
+        <spanish>Normal</spanish>
+        <portuguese>Normal</portuguese>
+        <italian>Normale</italian>
+        <german>Normal</german>
+        <chinesesimplified>普通</chinesesimplified>
+        <chinesetraditional>一般</chinesetraditional>
+        <japanese>ノーマル</japanese>
+        <russian>Нормальный</russian>
+    </text>
+    <text value="Mirror">
+        <french>Miroir</french>
+        <spanish>Espejo</spanish>
+        <portuguese>Espelho</portuguese>
+        <italian>Speculare</italian>
+        <german>Spiegel</german>
+        <chinesesimplified>镜像</chinesesimplified>
+        <chinesetraditional>鏡像</chinesetraditional>
+        <japanese>ミラー</japanese>
+        <russian>Зеркальный</russian>
+    </text>
+    <text value="Complete 51 challenges in mirror mode">
+        <french>Termine 51 défis en mode Miroir.</french>
+        <spanish>Completa 51 desafíos en modo espejo</spanish>
+        <portuguese>Conclui 51 desafios no modo espelho</portuguese>
+        <italian>Completa 51 sfide in modalità speculare</italian>
+        <german>Schaffe 51 Herausforderungen im Spiegelmodus</german>
+        <chinesesimplified>在镜像模式中完成 51 个挑战</chinesesimplified>
+        <chinesetraditional>在鏡像模式中完成51個挑戰</chinesetraditional>
+        <japanese>ミラーモードでチャレンジを51個クリアしよう</japanese>
+        <russian>Завершите 51 задание в зеркальном режиме</russian>
+    </text>
+    <text value="Complete 30 challenges in normal mode">
+        <french>Termine 30 défis en mode Normal.</french>
+        <spanish>Completa 30 desafíos en modo normal</spanish>
+        <portuguese>Concluir 30 desafios no modo normal</portuguese>
+        <italian>Completa 30 sfide in modalità normale</italian>
+        <german>Schaffe 30 Herausforderungen im normalen Modus</german>
+        <chinesesimplified>在普通模式中完成 30 个挑战</chinesesimplified>
+        <chinesetraditional>在一般模式中完成30個挑戰</chinesetraditional>
+        <japanese>ノーマルモードでチャレンジを30個クリアしよう</japanese>
+        <russian>Завершите 30 заданий в нормальном режиме</russian>
+    </text>
+    <text value="Complete 51 challenges in normal mode">
+        <french>Termine 51 défis en mode Normal.</french>
+        <spanish>Completa 51 desafíos en modo normal</spanish>
+        <portuguese>Concluir 51 desafios no modo normal</portuguese>
+        <italian>Completa 51 sfide in modalità normale</italian>
+        <german>Schaffe 51 Herausforderungen im normalen Modus</german>
+        <chinesesimplified>在普通模式中完成 51 个挑战</chinesesimplified>
+        <chinesetraditional>在一般模式中完成51個挑戰</chinesetraditional>
+        <japanese>ノーマルモードでチャレンジを51個クリアしよう</japanese>
+        <russian>Завершите 51 заданий в нормальном режиме</russian>
+    </text>
+    <text value="Complete 15 challenges in normal mode">
+        <french>Termine 15 défis en mode Normal.</french>
+        <spanish>Completa 15 desafíos en modo normal</spanish>
+        <portuguese>Concluir 15 desafios no modo normal</portuguese>
+        <italian>Completa 15 sfide in modalità normale</italian>
+        <german>Schaffe 15 Herausforderungen im normalen Modus</german>
+        <chinesesimplified>在普通模式中完成 15 个挑战</chinesesimplified>
+        <chinesetraditional>在一般模式中完成15個挑戰</chinesetraditional>
+        <japanese>ノーマルモードでチャレンジを15個クリアしよう</japanese>
+        <russian>Завершите 15 заданий в нормальном режиме</russian>
+    </text>
+    <text value="Balls">
+        <french>Balles</french>
+        <spanish>Pelotas</spanish>
+        <portuguese>Bolas</portuguese>
+        <italian>Palle</italian>
+        <german>Bälle</german>
+        <chinesesimplified>篮球</chinesesimplified>
+        <chinesetraditional>球數</chinesetraditional>
+        <japanese>ボール</japanese>
+        <russian>Мячи</russian>
+    </text>
+    <text value="Wings">
+        <french>Ailes</french>
+        <spanish>Alas</spanish>
+        <portuguese>Asas</portuguese>
+        <italian>Ali</italian>
+        <german>Flügel</german>
+        <chinesesimplified>翅膀</chinesesimplified>
+        <chinesetraditional>翅膀數</chinesetraditional>
+        <japanese>ウィング</japanese>
+        <russian>Крылья</russian>
+    </text>
+    <text value="Hoops">
+        <french>Paniers</french>
+        <spanish>Aros</spanish>
+        <portuguese>Cestos</portuguese>
+        <italian>Canestri</italian>
+        <german>Körbe</german>
+        <chinesesimplified>篮圈</chinesesimplified>
+        <chinesetraditional>籃框數</chinesetraditional>
+        <japanese>リング</japanese>
+        <russian>Кольца</russian>
+    </text>
+    <text value="Chain 10 hoops in a row without swish in endless mode">
+        <french>Marque 10 paniers à la suite sans faire de Perfect en mode infini</french>
+        <spanish>Pasa por 10 aros sin limpias en modo infinito</spanish>
+        <portuguese>Passa por 10 cestos tocando neles no modo sem fim</portuguese>
+        <italian>Segna 10 canestri senza ciuff in modalità infinita</italian>
+        <german>Triff 10 Körbe ohne Perfect im Endlosmodus</german>
+        <chinesesimplified>在无尽模式中投进 10 个非空心球</chinesesimplified>
+        <chinesetraditional>在無盡模式中穿過10個籃框，不可投出空心球</chinesetraditional>
+        <japanese>エンドレスモードでスウィッシュせずにリングに10回通そう</japanese>
+        <russian>Пройдите сквозь 10 колец без чистых попаданий в бесконечном режиме</russian>
+    </text>
+    <text value="Bounce 5 times on a single hoop in endless mode">
+        <french>Rebondis 5 fois sur un même panier en mode infini.</french>
+        <spanish>Bota 5 veces en un solo aro en el modo infinito</spanish>
+        <portuguese>Ressalta 5 vezes num único cesto no modo sem fim</portuguese>
+        <italian>Rimbalza 5 volte su un solo canestro in modalità infinita</italian>
+        <german>Lass einen Ball im Endlosmodus 5-mal am selben Korb hüpfen</german>
+        <chinesesimplified>在无尽模式中，一个在篮圈上反复弹起 5 次</chinesesimplified>
+        <chinesetraditional>在無盡模式中彈跳於一個籃框上5次</chinesetraditional>
+        <japanese>エンドレスモードで1本のリングで5回バウンドさせよう</japanese>
+        <russian>Отскочите 5 раз от одного кольца в бесконечном режиме</russian>
+    </text>
+    <text value="Use 10 second chances">
+        <french>Utilise 10 fois l'option Seconde chance.</french>
+        <spanish>Utiliza 10 segundas oportunidades</spanish>
+        <portuguese>Usa 10 segundas oportunidades</portuguese>
+        <italian>Usa 10 seconde occasioni</italian>
+        <german>Benutze 10 zweite Chancen</german>
+        <chinesesimplified>使用 10 次第二次机会</chinesesimplified>
+        <chinesetraditional>使用10次第二次機會</chinesetraditional>
+        <japanese>セカンドチャンスを10回使おう</japanese>
+        <russian>Воспользуйтесь Вторым шансом 10 раз</russian>
+    </text>
+    <text value="Score 75 using the watermelon ball">
+        <french>Réalise un score de 75 en utilisant la balle pastèque.</french>
+        <spanish>Consigue 75 puntos usando la pelota sandía</spanish>
+        <portuguese>Consegue a pontuação de 75 com a bola melancia</portuguese>
+        <italian>Segna 75 usando la palla anguria</italian>
+        <german>Erziele 75 Punkte mit dem Wassermelonenball</german>
+        <chinesesimplified>使用西瓜球获得 75 分</chinesesimplified>
+        <chinesetraditional>使用西瓜球贏得75分</chinesetraditional>
+        <japanese>スイカボールを使って75点入れよう</japanese>
+        <russian>Наберите 75 очков арбузным мячом</russian>
+    </text>
+    <text value="Score {0} or more using the watermelon ball">
+        <french>Réalise un score de {0} ou plus en utilisant la balle pastèque</french>
+        <spanish>Marca {0} o más utilizando la pelota de sandía</spanish>
+        <portuguese>Marque {0} ou mais usando a bola de melancia</portuguese>
+        <italian>Realizza un punteggio di {0} o più utilizzando la palla di anguria</italian>
+        <german>Erziele {0} oder mehr Punkte mit dem Wassermelonenball</german>
+        <chinesesimplified>使用西瓜球得分达到{0}分或更多</chinesesimplified>
+        <chinesetraditional>使用西瓜球得分達到{0}分或更多</chinesetraditional>
+        <japanese>スイカのボールを使用して{0}以上のスコアを獲得</japanese>
+        <russian>Наберите {0} или более очков, используя арбузный мяч</russian>
+    </text>
+    <text value="Achieve 25 swishes in a single endless game">
+        <french>Réalise 25 perfects dans une même partie en mode Infini.</french>
+        <spanish>Consigue 25 limpias en una partida infinita</spanish>
+        <portuguese>Alcança 25 cestos sem espinhas num único jogo sem fim</portuguese>
+        <italian>Segna 25 ciuff in una singola partita infinita</italian>
+        <german>Wirf in einem einzigen Endlosspiel 25 Perfects</german>
+        <chinesesimplified>在单独一场无尽游戏中完成 75 个空心球</chinesesimplified>
+        <chinesetraditional>在一次無盡遊戲中成功投進25個空心球</chinesetraditional>
+        <japanese>1回のエンドレスゲームでスウィッシュを25回決めよう</japanese>
+        <russian>Выполните 25 чистых попаданий в одиночной бесконечной игре</russian>
+    </text>
+    <text value="Finish challenge 19 with swishes only">
+        <french>Termine le défi 19 en faisant uniquement des perfects.</french>
+        <spanish>Termina el desafío 19 solo con limpias</spanish>
+        <portuguese>Conclui o desafio 19 sempre sem espinhas</portuguese>
+        <italian>Completa la sfida 19 solo con ciuff</italian>
+        <german>Schließe Herausforderung 19 nur mit Perfects ab</german>
+        <chinesesimplified>只用空心球完成挑战 19</chinesesimplified>
+        <chinesetraditional>僅用空心球完成第19個挑戰</chinesetraditional>
+        <japanese>スウィッシュだけでチャレンジ19をクリアしよう</japanese>
+        <russian>Выполните 19 задание только с чистыми попаданиями</russian>
+    </text>
+    <text value="Score 25 or more using a second chance">
+        <french>Réalise un score de 25 ou plus en utilisant l'option Seconde chance.</french>
+        <spanish>Consigue 25 o más en una segunda oportunidad</spanish>
+        <portuguese>Consegue a pontuação de pelo menos 25 numa segunda oportunidade</portuguese>
+        <italian>Segna 25 o più usando una seconda occasione</italian>
+        <german>Erziele mind. 25 Punkte mit einer Zweiten Chance</german>
+        <chinesesimplified>在第二次机会中一口气拿下 25 分或更多</chinesesimplified>
+        <chinesetraditional>使用第二次機會獲得至少25分</chinesetraditional>
+        <japanese>セカンドチャンスで25点以上入れよう</japanese>
+        <russian>Наберите 25 очков или больше, используя Второй шанс</russian>
+    </text>
+    <text value="Pass 50 hoops in a single endless game">
+        <french>Marque 50 paniers dans une même partie en mode Infini.</french>
+        <spanish>Pasa por 50 aros en una partida infinita</spanish>
+        <portuguese>Passa por 50 cestos num único jogo sem fim</portuguese>
+        <italian>Segna 50 canestri in una singola partita infinita</italian>
+        <german>Triff in einem einzigen Endlosspiel 50 Körbe</german>
+        <chinesesimplified>在单独一场无尽游戏中投进 50 球</chinesesimplified>
+        <chinesetraditional>在一次無盡遊戲中穿過50個籃框</chinesetraditional>
+        <japanese>1回のエンドレスゲームでリングに50回通そう</japanese>
+        <russian>Пройдите сквозь 50 колец в одиночной бесконечной игре</russian>
+    </text>
+    <text value="Unlock 25 skins">
+        <french>Débloque 25 apparences.</french>
+        <spanish>Desbloquea 25 diseños</spanish>
+        <portuguese>Desbloqueia 25 máscaras</portuguese>
+        <italian>Sblocca 25 skin</italian>
+        <german>Schalte 25 Skins frei</german>
+        <chinesesimplified>解锁 25 款皮肤</chinesesimplified>
+        <chinesetraditional>解鎖25款球款</chinesetraditional>
+        <japanese>スキンを25個手に入れよう</japanese>
+        <russian>Откройте 25 стилей</russian>
+    </text>
+    <text value="Achieve 25 swishes using the watermelon ball in a single endless game">
+        <french>Réalise 25 perfects avec la balle pastèque dans une même partie en mode Infini.</french>
+        <spanish>Consigue 25 limpias usando la pelota sandía en una partida infinita</spanish>
+        <portuguese>Alcança 25 cestos sem espinhas com a bola melancia num único jogo sem fim</portuguese>
+        <italian>Segna 25 ciuff usando la palla anguria in una singola partita infinita</italian>
+        <german>Wirf mit dem Wassermelonenball in einem einzigen Endlosspiel 25 Perfects</german>
+        <chinesesimplified>在单独一场无尽游戏中用西瓜球完成 75 个空心球</chinesesimplified>
+        <chinesetraditional>在一次無盡遊戲中使用西瓜球投進25個空心球</chinesetraditional>
+        <japanese>1回のエンドレスゲームでスイカボールを使ってスウィッシュを25回決めよう</japanese>
+        <russian>Совершите 25 чистых попаданий арбузным мячом в одиночной бесконечной игре</russian>
+    </text>
+    <text value="Watch 5 video ads">
+        <french>Regarder 5 publicités vidéo</french>
+        <spanish>Ve 5 anuncios</spanish>
+        <portuguese>Assiste a 5 vídeos publicitários</portuguese>
+        <italian>Guarda 5 pubblicità</italian>
+        <german>Sieh dir 5 Werbungen an</german>
+        <chinesesimplified>观看 5 个视频广告</chinesesimplified>
+        <chinesetraditional>觀看5個影片廣告</chinesetraditional>
+        <japanese>動画広告を5つ視聴しよう</japanese>
+        <russian>Посмотрите 5 рекламных роликов</russian>
+    </text>
+    <text value="An error occurred with the video ad. Even so, we give you your second chance.">
+        <french>Une erreur est survenue avec l'annonce vidéo. Vous obtenez quand même votre seconde chance.</french>
+        <spanish>Se ha producido un error con el anuncio. Aun así, te daremos tu 2.ª oportunidad.</spanish>
+        <portuguese>Ocorreu um erro no vídeo publicitário. Mas não importa, vamos dar-te uma segunda oportunidade na mesma.</portuguese>
+        <italian>Si è verificato un errore con la pubblicità. Non preoccuparti, ti daremo una seconda occasione.</italian>
+        <german>Bei der Werbung ist ein Fehler aufgetreten. Aber du bekommst trotzdem deine Zweite Chance.</german>
+        <chinesesimplified>视频广告出错。尽管如此，你仍能获得第二次机会。</chinesesimplified>
+        <chinesetraditional>影片廣告發生錯誤。即便廣告不能正常播放，我們依然讓你的角色享受一次復活機會。</chinesetraditional>
+        <japanese>動画広告にエラーが発生しました。大丈夫、セカンドチャンスがあります。</japanese>
+        <russian>При воспроизведении рекламного ролика произошла ошибка, но вы все равно получаете Второй шанс.</russian>
+    </text>
+    <text value="You collected {0} medal!">
+        <french>Tu as collecté {0} médaille !</french>
+        <spanish>¡Has conseguido {0} medalla!</spanish>
+        <portuguese>Recolheste {0} medalha!</portuguese>
+        <italian>Hai raccolto {0} medaglia!</italian>
+        <german>Du hast {0} Medaille gesammelt!</german>
+        <chinesesimplified>你收集了{0}块奖章！</chinesesimplified>
+        <chinesetraditional>你收集到{0}個獎章！</chinesetraditional>
+        <japanese>メダルを{0}枚手に入れました！</japanese>
+        <russian>Вы получили {0} медаль!</russian>
+    </text>
+    <text value="You collected {0} medals!">
+        <french>Tu as collecté {0} médailles !</french>
+        <spanish>¡Has conseguido {0} medallas!</spanish>
+        <portuguese>Recolheste {0} medalhas!</portuguese>
+        <italian>Hai raccolto {0} medaglie!</italian>
+        <german>Du hast {0} Medaillen gesammelt!</german>
+        <chinesesimplified>你收集了{0}块奖章！</chinesesimplified>
+        <chinesetraditional>你收集到{0}個獎章！</chinesetraditional>
+        <japanese>メダルを{0}枚手に入れました！</japanese>
+        <russian>Вы получили {0} шт. медалей!</russian>
+    </text>
+    <text value="Bonus x10">
+        <french>Bonus x10</french>
+        <spanish>¿Bonus x10</spanish>
+        <portuguese>Bónus x10</portuguese>
+        <italian>Bonus x10</italian>
+        <german>x10-Bonus</german>
+        <chinesesimplified>奖金x10</chinesesimplified>
+        <chinesetraditional>獎勵x10</chinesetraditional>
+        <japanese>ボーナス×10</japanese>
+        <russian>бонус x10</russian>
+    </text>
+    <text value="Shop">
+        <french>Boutique</french>
+        <spanish>Tienda</spanish>
+        <portuguese>Loja</portuguese>
+        <italian>Negozio</italian>
+        <german>Shop</german>
+        <chinesesimplified>商店</chinesesimplified>
+        <chinesetraditional>商店</chinesetraditional>
+        <japanese>ショップ</japanese>
+        <russian>Магазин</russian>
+    </text>
+    <text value="Buy">
+        <french>Acheter</french>
+        <spanish>Comprar</spanish>
+        <portuguese>Comprar</portuguese>
+        <italian>Acquistare</italian>
+        <german>Kaufen</german>
+        <chinesesimplified>购买</chinesesimplified>
+        <chinesetraditional>購買</chinesetraditional>
+        <japanese>購入</japanese>
+        <russian>купить</russian>
+    </text>
+    <text value="Best: {0}">
+        <french>Best : {0}</french>
+        <spanish>Récord: {0}</spanish>
+        <portuguese>Melhor: {0}</portuguese>
+        <italian>Record: {0}</italian>
+        <german>Best:</german>
+        <chinesesimplified>最佳：{0}</chinesesimplified>
+        <chinesetraditional>最佳分數：{0}</chinesetraditional>
+        <japanese>ベスト: {0}</japanese>
+        <russian>Рекорд: {0}</russian>
+    </text>
+    <text value="Try">
+        <french>Essayer</french>
+        <spanish>Probar</spanish>
+        <portuguese>Experimente</portuguese>
+        <italian>Prova</italian>
+        <german>Ausprobieren</german>
+        <chinesesimplified>尝试</chinesesimplified>
+        <chinesetraditional>試試看</chinesetraditional>
+        <japanese>トライ</japanese>
+        <russian>Попробуйте</russian>
+    </text>
+    <text value="Halloween gift!">
+        <french>Cadeau d'Halloween!</french>
+        <spanish>¡Regalo de Halloween!</spanish>
+        <portuguese>Presente de Dia das Bruxas!</portuguese>
+        <italian>Regalo di Halloween!</italian>
+        <german>Halloween-Geschenk!</german>
+        <chinesesimplified>万圣节礼物！</chinesesimplified>
+        <chinesetraditional>萬聖節禮物！</chinesetraditional>
+        <japanese>ハロウィンギフト</japanese>
+        <russian>Подарок на Хеллоуин!</russian>
+    </text>
+    <text value="Come back tomorrow!">
+        <french>Rejoue demain !</french>
+        <spanish>¡Vuelve mañana!</spanish>
+        <portuguese>Volte amanhã!</portuguese>
+        <italian>Ritorna domani!</italian>
+        <german>Komm morgen wieder!</german>
+        <chinesesimplified>明天再来！</chinesesimplified>
+        <chinesetraditional>明天回來吧！</chinesetraditional>
+        <japanese>明日戻ってきてください！</japanese>
+        <russian>Возвращайтесь завтра!</russian>
+    </text>
+    <text value="Play 30 challenges">
+        <french>Joue 30 défis.</french>
+        <spanish>Juega 30 desafíos.</spanish>
+        <portuguese>Jogue 30 desafios</portuguese>
+        <italian>Completa 30 sfide</italian>
+        <german>Spiele 30 Herausforderungen</german>
+        <chinesesimplified>通过30个挑战</chinesesimplified>
+        <chinesetraditional>完成30個挑戰</chinesetraditional>
+        <japanese>チャレンジ30個をプレイ</japanese>
+        <russian>Сыграйте 30 миссий</russian>
+    </text>
+    <text value="Play with 25 different skins in endless mode">
+        <french>Joue en mode infini avec 25 apparences différentes.</french>
+        <spanish>Juega con 25 aspectos diferentes en el modo Infinito.</spanish>
+        <portuguese>Jogue com 25 aparências diferentes no modo infinito</portuguese>
+        <italian>Gioca con 25 skin diversi in modalità infinita</italian>
+        <german>Spiele mit 25 verschiedenen Skins im Endlosmodus</german>
+        <chinesesimplified>在无尽模式下玩25种篮球皮肤</chinesesimplified>
+        <chinesetraditional>在無盡模式下打25種不同表皮的籃球</chinesetraditional>
+        <japanese>エンドレスモードで異なる25個のスキンを使ってプレイ</japanese>
+        <russian>Сыграйте с 25 разными скинами в бесконечном режиме</russian>
+    </text>
+    <text value="Complete 10 different easy challenges in a row in normal mode without losing">
+        <french>Termine 10 défis faciles différents à la suite en mode normal sans perdre.</french>
+        <spanish>Completa 10 desafíos fáciles distintos seguidos en el modo Normal sin perder.</spanish>
+        <portuguese>Complete 10 desafios fáceis diferentes em sequência no modo normal sem perder</portuguese>
+        <italian>Completa 10 sfide facili di seguito in modalità normale senza perdere</italian>
+        <german>Schließe 10 unterschiedliche leichte Herausforderungen nacheinander im normalen Modus ab, ohne zu verlieren</german>
+        <chinesesimplified>在普通模式下，连续完成10个简单难度的挑战，保持不败</chinesesimplified>
+        <chinesetraditional>在一般模式下連勝10個簡單級挑戰</chinesetraditional>
+        <japanese>ノーマルモードで簡単な異なるチャレンジ10個を敗北せずに連続コンプリート</japanese>
+        <russian>Пройдите 10 разных легких миссий подряд в нормальном режиме, ни разу не проиграв</russian>
+    </text>
+    <text value="Achieve 100 swishes in total">
+        <french>Réalise 100 perfects au total.</french>
+        <spanish>Mete 100 canastas limpias</spanish>
+        <portuguese>100 espinhas no total</portuguese>
+        <italian>100 ciuff in totale</italian>
+        <german>Insgesamt 100 Perfects</german>
+        <chinesesimplified>共投出100个空心篮</chinesesimplified>
+        <chinesetraditional>共100次直接入網</chinesetraditional>
+        <japanese>スウィッシュを合計100回決める</japanese>
+        <russian>В целом 100 чистых попаданий</russian>
+    </text>
+    <text value="Achieve 200 swishes in total">
+        <french>Réalise 200 perfects au total.</french>
+        <spanish>Mete 200 canastas limpias</spanish>
+        <portuguese>200 espinhas no total</portuguese>
+        <italian>200 ciuff in totale</italian>
+        <german>Insgesamt 200 Perfects</german>
+        <chinesesimplified>共投出200个空心篮</chinesesimplified>
+        <chinesetraditional>共200次直接入網</chinesetraditional>
+        <japanese>スウィッシュを合計200回決める</japanese>
+        <russian>В целом 200 чистых попаданий</russian>
+    </text>
+    <text value="Complete 51 challenges in normal mode with the Rainbow ball">
+        <french>Termine tous les défis en mode normal en utilisant la balle arc-en-ciel.</french>
+        <spanish>Completa 51 desafíos distintos en el modo Normal con el balón arcoíris.</spanish>
+        <portuguese>Complete 51 desafios diferentes no modo normal com a bola Arco-íris</portuguese>
+        <italian>Completa 51 diverse sfide in modalità normale con la palla Arcobaleno</italian>
+        <german>Schließe 51 unterschiedliche Herausforderungen im normalen Modus mit dem Regenbogenball ab</german>
+        <chinesesimplified>在普通模式下使用彩虹球完成51个不同的挑战</chinesesimplified>
+        <chinesetraditional>在一般模式下以彩虹球完成51個挑戰</chinesetraditional>
+        <japanese>ノーマルモードでレインボーボールを使用して異なるチャレンジ51個をコンプリート</japanese>
+        <russian>Пройдите 51 разную миссию в нормальном режиме с мячом «Радуга»</russian>
+    </text>
+    <text value="End a game with a score of exactly 42">
+        <french>Finis une partie avec un score de 42 exactement.</french>
+        <spanish>Finaliza una partida con una puntuación exacta de 42.</spanish>
+        <portuguese>Termine um jogo com exatamente 42 pontos</portuguese>
+        <italian>Completa una partita con un punteggio esatto di 42</italian>
+        <german>Beende ein Spiel mit einer Punktzahl von genau 42</german>
+        <chinesesimplified>结束游戏时的得分正好是42</chinesesimplified>
+        <chinesetraditional>以剛剛好42分完成比賽</chinesetraditional>
+        <japanese>42点ぴったりでゲームを終了させる</japanese>
+        <russian>Завершите игру со счетом 42</russian>
+    </text>
+    <text value="Play Flappy Dunk 3 days in a row">
+        <french>Joue à Flappy Dunk pendant 3 jours d'affilée.</french>
+        <spanish>Juega a Flappy Dunk 3 días seguidos.</spanish>
+        <portuguese>Jogue Flappy Dunk 3 dias seguidos</portuguese>
+        <italian>Gioca a Flappy Dunk per 3 giorni di seguito</italian>
+        <german>Spiele Flappy Dunk 3 Tage nacheinander</german>
+        <chinesesimplified>连续3天玩Flappy Dunk</chinesesimplified>
+        <chinesetraditional>連續玩《Flappy Dunk》3天</chinesetraditional>
+        <japanese>フラッピーダンクを3日連続でプレイ</japanese>
+        <russian>Сыграйте в Flappy Dunk 3 дня подряд</russian>
+    </text>
+    <text value="Unlock 30 skins">
+        <french>Débloque 30 apparences.</french>
+        <spanish>Desbloquea 30 aspectos.</spanish>
+        <portuguese>Desbloqueie 30 aparências</portuguese>
+        <italian>Sblocca 30 skin</italian>
+        <german>Schalte 30 Skins frei</german>
+        <chinesesimplified>解锁30种皮肤</chinesesimplified>
+        <chinesetraditional>解鎖30款表皮</chinesetraditional>
+        <japanese>スキン30個をアンロック</japanese>
+        <russian>Откройте 30 скинов</russian>
+    </text>
+    <text value="7542 + 8731 = 16273 Complete challenges 1, 6, 2, 7 and 3 in that order">
+        <french>7542 + 8731 = 16273
+Termine les défis 1, 6, 2, 7 et 3 dans cet ordre.</french>
+        <spanish>7542 + 8731 = 16273
+Completa los desafíos 1, 6, 2, 7 y 3 en ese orden.</spanish>
+        <portuguese>7542 + 8731 = 16273
+Complete, nesta ordem, os desafios 1, 6, 2, 7 e 3</portuguese>
+        <italian>7542 + 8731 = 16273
+Completa le sfide 1, 6, 2, 7 e 3 in quest'ordine</italian>
+        <german>7542 + 8731 = 16273
+Schließe die Herausforderungen 1, 6, 2, 7 und 3 in der Reihenfolge ab</german>
+        <chinesesimplified>7542 + 8731 = 16273
+按顺依次完成第1、6、2、7和3个挑战</chinesesimplified>
+        <chinesetraditional>7542 + 8731 = 16273
+依次完成挑戰1、6、2、7及3</chinesetraditional>
+        <japanese>7542 + 8731 = 16273
+チャレンジ1、6、2、7、3をこの順序でコンプリート</japanese>
+        <russian>7542 + 8731 = 16273
+Пройдите миссии 1, 6, 2, 7 и 3 именно в таком порядке</russian>
+    </text>
+	
+	<text value="Christmas gift!">
+		<french>Cadeau de Noël !</french>
+		<spanish>¡Regalo de Navidad!</spanish>
+		<portuguese>Presente de Natal!</portuguese>
+		<italian>Regalo di Natale!</italian>
+		<german>Weihnachtsgeschenk!</german>
+		<chinesesimplified>圣诞礼物！</chinesesimplified>
+		<chinesetraditional>聖誕禮物！</chinesetraditional>
+		<japanese>クリスマスプレゼント！</japanese>
+		<russian>Рождественский подарок!</russian>
+	</text>
+	
+	<text value="No thanks">
+		<french>Non merci</french>
+		<spanish>No gracias</spanish>
+		<portuguese>"Não</portuguese>
+		<italian> obrigado"</italian>
+		<german>No grazie</german>
+		<chinesesimplified>Nein Danke</chinesesimplified>
+		<chinesetraditional>不，谢谢</chinesetraditional>
+		<japanese>不，謝謝</japanese>
+		<russian>ありがとう</russian>
+	</text>
+	
+	<text value="Flames">
+		<french>Flammes</french>
+		<spanish>Llamas</spanish>
+		<portuguese>Chamas</portuguese>
+		<italian>Fiamme</italian>
+		<german>Flammen</german>
+		<chinesesimplified>火焰</chinesesimplified>
+		<chinesetraditional>火焰</chinesetraditional>
+		<japanese>炎</japanese>
+		<russian>огонь</russian>
+	</text>
+	
+	<text value="Score 100 or more using a Second Chance">
+		<french>Fais un score de 100 ou plus en utilisant l'option Seconde chance.</french>
+		<spanish>Consigue 100 puntos o más con una 2.ª oportunidad</spanish>
+		<portuguese>Alcança uma pontuação de 100 ou mais usando uma Segunda oportunidade</portuguese>
+		<italian>Segna 100 o più usando una seconda occasione</italian>
+		<german>Erziele mindestens 100 Punkte mit der Zweiten Chance.</german>
+		<chinesesimplified>使用第二次机会得到100分或更多</chinesesimplified>
+		<chinesetraditional>100分以上可使用「第二次機會」</chinesetraditional>
+		<japanese>セカンドチャンスを使って100点以上入れよう</japanese>
+		<russian>"Наберите 100 очков или больше</russian>
+	</text>
+	
+	<text value="Achieve 350 swishes in total">
+		<french>Réalise 350 perfects au total.</french>
+		<spanish>Mete 350 canastas limpias</spanish>
+		<portuguese>350 espinhas no total</portuguese>
+		<italian>350 ciuff in totale</italian>
+		<german>Insgesamt 350 Perfects</german>
+		<chinesesimplified>共投出350个空心篮</chinesesimplified>
+		<chinesetraditional>共350次直接入網</chinesetraditional>
+		<japanese>スウィッシュを合計350回決める</japanese>
+		<russian>В целом 350 чистых попаданий</russian>
+	</text>
+	
+	<text value="Play 100 challenges">
+		<french>Joue 100 défis.</french>
+		<spanish>Juega 100 desafíos.</spanish>
+		<portuguese>Jogue 100 desafios</portuguese>
+		<italian>Completa 100 sfide</italian>
+		<german>Spiele 100 Herausforderungen</german>
+		<chinesesimplified>通过100个挑战</chinesesimplified>
+		<chinesetraditional>完成100個挑戰</chinesetraditional>
+		<japanese>チャレンジ100個をプレイ</japanese>
+		<russian>Сыграйте 100 миссий</russian>
+	</text>
+	
+	<text value="Play with 35 different skins in endless mode">
+		<french>Joue en mode infini avec 35 apparences différentes.</french>
+		<spanish>Juega con 35 aspectos diferentes en el modo Infinito.</spanish>
+		<portuguese>Jogue com 35 aparências diferentes no modo infinito</portuguese>
+		<italian>Gioca con 35 skin diversi in modalità infinita</italian>
+		<german>Spiele mit 35 verschiedenen Skins im Endlosmodus</german>
+		<chinesesimplified>在无尽模式下玩35种篮球皮肤</chinesesimplified>
+		<chinesetraditional>在無盡模式下打35種不同表皮的籃球</chinesetraditional>
+		<japanese>エンドレスモードで異なる35個のスキンを使ってプレイ</japanese>
+		<russian>Сыграйте с 35 разными скинами в бесконечном режиме</russian>
+	</text>
+	
+	<text value="Unlock 40 skins">
+		<french>Débloque 40 apparences.</french>
+		<spanish>Desbloquea 40 aspectos.</spanish>
+		<portuguese>Desbloqueie 40 aparências</portuguese>
+		<italian>Sblocca 40 skin</italian>
+		<german>Schalte 40 Skins frei</german>
+		<chinesesimplified>解锁40种皮肤</chinesesimplified>
+		<chinesetraditional>解鎖40款表皮</chinesetraditional>
+		<japanese>スキン40個をアンロック</japanese>
+		<russian>Откройте 40 скинов</russian>
+	</text>
+	
+	<text value="Play 300 endless games">
+		<french>Joue 300 parties en mode infini.</french>
+		<spanish>Juega 300 partidas infinitas</spanish>
+		<portuguese>Joga 300 jogos sem fim</portuguese>
+		<italian>Gioca 300 partite infinite</italian>
+		<german>Spiele 300 Endlosspiele.</german>
+		<chinesesimplified>玩300次无尽游戏</chinesesimplified>
+		<chinesetraditional>連續玩300次遊戲</chinesetraditional>
+		<japanese>エンドレスゲームを300回プレイしよう</japanese>
+		<russian>Сыграйте 300 раз в бесконечную игру</russian>
+	</text>
+	
+	<text value="Unlock two mystery skins">
+		<french>Débloque deux apparences mystères.</french>
+		<spanish>Desbloquea dos diseños misteriosos</spanish>
+		<portuguese>Desbloqueia duas máscaras mistério</portuguese>
+		<italian>Sblocca 2 skin misteriose</italian>
+		<german>Schalte beide geheimen Skins frei</german>
+		<chinesesimplified>解锁两款神秘皮肤</chinesesimplified>
+		<chinesetraditional>解鎖兩個神祕球款</chinesetraditional>
+		<japanese>2つのミステリースキンを手に入れよう</japanese>
+		<russian>Откройте два таинственных стиля</russian>
+	</text>
+	
+	<text value="Buying Flappy Dunk Premium will remove all banner ads and interstitial ads (fullscreens between games). You will however still have rewarded ads to revive, to try locked skins and to unlock tennis ball skin and yellow hoop skin.">
+		<french>Acheter Flappy Dunk Premium enlevera toutes les bannières et les pubs interstitielles (entre les parties). Par contre, les vidéos seront toujours présentes pour revivre, pour essayer des apparences bloquées et pour débloquer les apparences de la balle de tennis et du panier jaune.</french>
+		<spanish>Si compras Flappy Dunk Premium, se eliminarán todos los anuncios banner y anuncios intersticiales (pantallas completas entre juegos). Sin embargo, todavía verás anuncios con recompensas ​​para resucitar, podrás probar los fondos de pantalla bloqueados y desbloquear el fondo de pelota de tenis y el fondo de aro amarillo.</spanish>
+		<portuguese>Comprar o Flappy Dunk Premium vai remover todos os banners de anúncios e anúncios de intervalo (anúncios de ecrã interior entre jogos). Vais poder, todavia, aproveitar os anúncios para ressuscitar, experimentar temas bloqueados e desbloquear o tema de bola de ténis e o tema do arco amarelo.</portuguese>
+		<italian>Con l'acquisto di Flappy Dunk Premium verranno eliminati tutti i banner pubblicitari e gli annunci interstiziali (annunci a schermo intero tra le partite). Tuttavia, continuerai a visualizzare gli annunci con ricompensa per ottenere nuove vite, provare skin bloccate e sbloccare la skin palla da tennis e la skin canestro giallo.</italian>
+		<german>Durch den Erwerb von Flappy Dunk Premium wird jegliche Bannerwerbung und Zwischenwerbung (Vollbildwerbung zwischen Spielen) entfernt. Allerdings verbleiben immer noch Werbespots beim Wiederbeleben, beim Ausprobieren von gesperrten Skins und das Freischalten des Tennisballskins und des Gelber-Reifen-Skins.</german>
+		<chinesesimplified>购买Flappy Dunk高级版后将移除所有横幅广告和插播广告（游戏间的全屏广告）。不过你仍然可以看奖励广告来复活，尝试锁定的皮肤并解锁网球皮肤和黄色篮圈皮肤。</chinesesimplified>
+		<chinesetraditional>付費購買 Flappy Dunk Premium，將刪除所有橫額及插頁式廣告，享受全屏幕遊戲體驗。但你仍然可以透過觀看獎勵廣告復活、試用未解鎖的皮膚、及解鎖網球款式和黃色籃框設計。</chinesetraditional>
+		<japanese>Flappy Dunk Premiumを購入すると、すべてのバナー広告とインタースティシャル広告（ゲーム間のフルスクリーン）が削除されます。 また、復活のための報酬を得て、ロックされたスキンを試して、テニスボールスキンと黄色のフープスキンをアンロックできます。</japanese>
+		<russian>Купив премиум-версию Flappy Dunk, вы уберете все рекламные баннеры и полноэкранную рекламу между играми. При этом в игре останется реклама, посмотрев которую, можно ожить, попробовать закрытые облики и открыть облики «теннисный мяч» и «желтое кольцо».
+</russian>
+	</text>
+	
+	<text value="Watch 1 ad to revive">
+		<french>Regarder 1 pub pour revivre</french>
+		<spanish>Visualiza 1 anuncio para resucitar</spanish>
+		<portuguese>Vê 1 anúncio para ressuscitares</portuguese>
+		<italian>Guarda 1 video per una nuova vita</italian>
+		<german>Zum Wiederbeleben 1 Werbung anschauen</german>
+		<chinesesimplified>观看1条广告可复活</chinesesimplified>
+		<chinesetraditional>觀看 1 段廣告以復活</chinesetraditional>
+		<japanese>復活のために1つの広告を見る</japanese>
+		<russian>Посмотрите рекламу, чтобы ожить</russian>
+	</text>
+	
+	<text value="Flappy Dunk Premium will remove banner and fullscreen ads between games; you can still choose to watch ads to revive between games.">
+		<french>Acheter Flappy Dunk Premium enlevera les bannières et les pubs interstitielles entre les parties. Vous pourrez toujours choisir de regarder une pub vidéo pour revivre à la fin d'une partie.</french>
+		<spanish>Flappy Dunk Premium eliminará los banner y los anuncios de pantalla completa entre partidas; todavía puedes elegir ver anuncios entre partidas.</spanish>
+		<portuguese>Flappy Dunk Premium irá remover os anúncios de banner e de ecrã inteiro entre os jogos; ainda pode escolher ver os anúncios para ressuscitar entre jogos.</portuguese>
+		<italian>Con l'acquisto di Flappy Dunk Premium verranno eliminati tutti i banner pubblicitari e gli annunci interstiziali; puoi ancora decidere di guardare gli annunci pubblicitari per ottenere nuove vive tra una partita e l'altra.</italian>
+		<german>Flappy Dunk Premium entfernt jegliche Bannerwerbung und Vollbildwerbung zwischen Spielen – sie können sich allerdings trotzdem dafür entscheiden, Werbung anzusehen, um Spiele weiterzuspielen.</german>
+		<chinesesimplified>购买Flappy Dunk高级版后将去除所有横幅广告和游戏间的全屏广告。不过在游戏之间你仍然可以选择观看广告以恢复能量。</chinesesimplified>
+		<chinesetraditional>Flappy Dunk 高級版將刪除遊戲之間的橫幅廣告和全屏廣告，您仍然可以選擇觀看廣告以在遊戲之間復活。</chinesetraditional>
+		<japanese>Flappy Dunk Premiumを購入すると、すべてのバナー広告とゲーム間のフルスクリーン広告が削除されます。なお、ゲーム間に広告を表示して生き返るオプションを選ぶこともできます。</japanese>
+		<russian>В премиум-версии Flappy Dunk нет баннеров и полноэкранной рекламы между играми. Тем не менее вы при желании сможете просматривать рекламу между играми для воскрешения.</russian>
+	</text>
+	
+	<text value="Limited Ads">
+		<french>Pubs limitées</french>
+		<spanish>Anuncios limitados</spanish>
+		<portuguese>Anúncios limitados</portuguese>
+		<italian>Pubblicità limitata</italian>
+		<german>Begrenzte Werbung</german>
+		<chinesesimplified>部分广告</chinesesimplified>
+		<chinesetraditional>有限的廣告</chinesetraditional>
+		<japanese>限定的な広告</japanese>
+		<russian>Ограниченная реклама</russian>
+	</text>
+
+    <text value="Try skin">
+        <french>Essayer l'apparence</french>
+        <spanish>Probar la apariencia</spanish>
+        <portuguese>Experimente a aparência</portuguese>
+        <italian>Prova la skin</italian>
+        <german>Skin ausprobieren</german>
+        <chinesesimplified>试试皮肤</chinesesimplified>
+        <chinesetraditional>試試皮膚</chinesetraditional>
+        <japanese>スキンを試す</japanese>
+        <russian>Попробовать скин</russian>
+    </text>
+    <text value="Best deal">
+        <french>Meilleure offre</french>
+        <spanish>Mejor oferta</spanish>
+        <portuguese>Melhor oferta</portuguese>
+        <italian>Miglior affare</italian>
+        <german>Bestes Angebot</german>
+        <chinesesimplified>最佳交易</chinesesimplified>
+        <chinesetraditional>最佳交易</chinesetraditional>
+        <japanese>最高のディール</japanese>
+        <russian>Лучшее предложение</russian>
+    </text>
+    <text value="Remove ads">
+        <french>Pas de pubs</french>
+        <spanish>Eliminar anuncios</spanish>
+        <portuguese>Remover anúncios</portuguese>
+        <italian>Rimuovi annunci</italian>
+        <german>Werbung entfernen</german>
+        <chinesesimplified>移除广告</chinesesimplified>
+        <chinesetraditional>移除廣告</chinesetraditional>
+        <japanese>広告を削除する</japanese>
+        <russian>Убрать рекламу</russian>
+    </text>
+    <text value="Hats">
+        <french>Chapeaux</french>
+        <spanish>Gorros</spanish>
+        <portuguese>Chapéus</portuguese>
+        <italian>Cappelli</italian>
+        <german>Hüte</german>
+        <chinesesimplified>帽子</chinesesimplified>
+        <chinesetraditional>帽子</chinesetraditional>
+        <japanese>帽子</japanese>
+        <russian>Шляпы</russian>
+    </text>
+    <text value="Used to get a reward without watching a video!">
+        <french>Sert à avoir une récompense sans regarder de vidéo !</french>
+        <spanish>¡Usado para obtener una recompensa sin ver un video!</spanish>
+        <portuguese>Usado para obter uma recompensa sem assistir a um vídeo!</portuguese>
+        <italian>Usato per ottenere una ricompensa senza guardare un video!</italian>
+        <german>Verwendet, um eine Belohnung ohne Ansehen eines Videos zu erhalten!</german>
+        <chinesesimplified>用于在不观看视频的情况下获得奖励！</chinesesimplified>
+        <chinesetraditional>用於在不觀看視頻的情況下獲得獎勵！</chinesetraditional>
+        <japanese>ビデオを視聴せずに報酬を手に入れるために使用します！</japanese>
+        <russian>Используется для получения вознаграждения без просмотра видео!</russian>
+    </text>
+        <text value="Reach Bronze rank (Score: 10)">
+        <french>Atteins le rang Bronze (Score : 10).</french>
+        <spanish>Alcanza el rango Bronce (Puntuación: 10).</spanish>
+        <portuguese>Atinge o ranking Bronze (Pontuação: 10).</portuguese>
+        <italian>Raggiungi il rango Bronzo (Punteggio: 10).</italian>
+        <german>Erreiche den Bronze Rang (Punktzahl: 10).</german>
+        <chinesesimplified>达到青铜段位（得分：10）。</chinesesimplified>
+        <chinesetraditional>達到青銅段位（得分：10）。</chinesetraditional>
+        <japanese>ブロンズランクに到達する（スコア：10）。</japanese>
+        <russian>Достигните ранга Бронза (Очки: 10).</russian>
+    </text>
+    <text value="Reach Silver rank (Score: 25)">
+        <french>Atteins le rang Argent (Score : 25).</french>
+        <spanish>Alcanza el rango Plata (Puntuación: 25).</spanish>
+        <portuguese>Atinge o ranking Prata (Pontuação: 25).</portuguese>
+        <italian>Raggiungi il rango Argento (Punteggio: 25).</italian>
+        <german>Erreiche den Silber Rang (Punktzahl: 25).</german>
+        <chinesesimplified>达到白银段位（得分：25）。</chinesesimplified>
+        <chinesetraditional>達到白銀段位（得分：25）。</chinesetraditional>
+        <japanese>シルバーランクに到達する（スコア：25）。</japanese>
+        <russian>Достигните ранга Серебро (Очки: 25).</russian>
+    </text>
+    <text value="Reach Gold rank (Score: 55)">
+        <french>Atteins le rang Or (Score : 55).</french>
+        <spanish>Alcanza el rango Oro (Puntuación: 55).</spanish>
+        <portuguese>Atinge o ranking Ouro (Pontuação: 55).</portuguese>
+        <italian>Raggiungi il rango Oro (Punteggio: 55).</italian>
+        <german>Erreiche den Gold Rang (Punktzahl: 55).</german>
+        <chinesesimplified>达到黄金段位（得分：55）。</chinesesimplified>
+        <chinesetraditional>達到黃金段位（得分：55）。</chinesetraditional>
+        <japanese>ゴールドランクに到達する（スコア：55）。</japanese>
+        <russian>Достигните ранга Золото (Очки: 55).</russian>
+    </text>
+    <text value="Reach Platinum rank (Score: 100)">
+        <french>Atteins le rang Platine (Score : 100).</french>
+        <spanish>Alcanza el rango Platino (Puntuación: 100).</spanish>
+        <portuguese>Atinge o ranking Platina (Pontuação: 100).</portuguese>
+        <italian>Raggiungi il rango Platino (Punteggio: 100).</italian>
+        <german>Erreiche den Platin Rang (Punktzahl: 100).</german>
+        <chinesesimplified>达到白金段位（得分：100）。</chinesesimplified>
+        <chinesetraditional>達到白金段位（得分：100）。</chinesetraditional>
+        <japanese>プラチナランクに到達する（スコア：100）。</japanese>
+        <russian>Достигните ранга Платина (Очки: 100).</russian>
+    </text>
+    <text value="Reach Diamond rank (Score: 190)">
+        <french>Atteins le rang Diamant (Score : 190).</french>
+        <spanish>Alcanza el rango Diamante (Puntuación: 190).</spanish>
+        <portuguese>Atinge o ranking Diamante (Pontuação: 190).</portuguese>
+        <italian>Raggiungi il rango Diamante (Punteggio: 190).</italian>
+        <german>Erreiche den Diamant Rang (Punktzahl: 190).</german>
+        <chinesesimplified>达到钻石段位（得分：190）。</chinesesimplified>
+        <chinesetraditional>達到鑽石段位（得分：190）。</chinesetraditional>
+        <japanese>ダイヤモンドランクに到達する（スコア：190）。</japanese>
+        <russian>Достигните ранга Алмаз (Очки: 190).</russian>
+    </text>
+    <text value="Reach Challenger rank (Score: 400)">
+        <french>Atteins le rang Challenger (Score : 400).</french>
+        <spanish>Alcanza el rango Retador (Puntuación: 400).</spanish>
+        <portuguese>Atinge o ranking Desafiante (Pontuação: 400).</portuguese>
+        <italian>Raggiungi il rango Challenger (Punteggio: 400).</italian>
+        <german>Erreiche den Herausforderer Rang (Punktzahl: 400).</german>
+        <chinesesimplified>达到挑战者段位（得分：400）。</chinesesimplified>
+        <chinesetraditional>達到挑戰者段位（得分：400）。</chinesetraditional>
+        <japanese>チャレンジャーランクに到達する（スコア：400）。</japanese>
+        <russian>Достигните ранга Испытатель (Очки: 400).</russian>
+    </text>
+    <text value="Reach Noob rank (Score: 850)">
+        <french>Atteins le rang Noob (Score : 850).</french>
+        <spanish>Alcanza el rango Novato (Puntuación: 850).</spanish>
+        <portuguese>Atinge o ranking Noob (Pontuação: 850).</portuguese>
+        <italian>Raggiungi il rango Noob (Punteggio: 850).</italian>
+        <german>Erreiche den Noob Rang (Punktzahl: 850).</german>
+        <chinesesimplified>达到新手段位（得分：850）。</chinesesimplified>
+        <chinesetraditional>達到新手段位（得分：850）。</chinesetraditional>
+        <japanese>ヌーブランクに到達する（スコア：850）。</japanese>
+        <russian>Достигните ранга Нуб (Очки: 850).</russian>
+    </text>
+    <text value="Rare Card">
+        <french>Carte Rare</french>
+        <spanish>Carta Rara</spanish>
+        <portuguese>Carta Rara</portuguese>
+        <italian>Carta Rara</italian>
+        <german>Seltene Karte</german>
+        <chinesesimplified>稀有卡牌</chinesesimplified>
+        <chinesetraditional>稀有卡片</chinesetraditional>
+        <japanese>レアカード</japanese>
+        <russian>Редкая карта</russian>
+    </text>
+    <text value="Next in: {0}">
+        <french>Prochain dans : {0}</french>
+        <spanish>Próximo en: {0}</spanish>
+        <portuguese>Próximo em: {0}</portuguese>
+        <italian>Prossimo in: {0}</italian>
+        <german>Nächstes in: {0}</german>
+        <chinesesimplified>下一個：{0}</chinesesimplified>
+        <chinesetraditional>下一個：{0}</chinesetraditional>
+        <japanese>次は：{0}</japanese>
+        <russian>Следующее: {0}</russian>
+    </text>
+        <text value="Epic Card">
+        <french>Carte Épique</french>
+        <spanish>Carta Épica</spanish>
+        <portuguese>Carta Épica</portuguese>
+        <italian>Carta Epica</italian>
+        <german>Epische Karte</german>
+        <chinesesimplified>史诗卡牌</chinesesimplified>
+        <chinesetraditional>史詩卡片</chinesetraditional>
+        <japanese>エピックカード</japanese>
+        <russian>Эпическая карта</russian>
+    </text>
+
+    <text value="Legendary Card">
+        <french>Carte Légendaire</french>
+        <spanish>Carta Legendaria</spanish>
+        <portuguese>Carta Lendária</portuguese>
+        <italian>Carta Leggendaria</italian>
+        <german>Legendäre Karte</german>
+        <chinesesimplified>传奇卡牌</chinesesimplified>
+        <chinesetraditional>傳奇卡片</chinesetraditional>
+        <japanese>伝説のカード</japanese>
+        <russian>Легендарная карта</russian>
+    </text>
+
+    <text value="Mythic Card">
+        <french>Carte Mythique</french>
+        <spanish>Carta Mítica</spanish>
+        <portuguese>Carta Mítica</portuguese>
+        <italian>Carta Mitica</italian>
+        <german>Mythische Karte</german>
+        <chinesesimplified>神话卡牌</chinesesimplified>
+        <chinesetraditional>神話卡片</chinesetraditional>
+        <japanese>神話のカード</japanese>
+        <russian>Мифическая карта</russian>
+    </text>
+
+    <text value="Each Card has {0} chance to be">
+        <french>Chaque carte a {0} chance d'être</french>
+        <spanish>Cada carta tiene {0} de probabilidad de ser</spanish>
+        <portuguese>Cada carta tem {0} de chance de ser</portuguese>
+        <italian>Ogni carta ha {0} probabilità di essere</italian>
+        <german>Jede Karte hat eine Chance von {0},</german>
+        <chinesesimplified>每张卡牌有 {0} 的几率成为</chinesesimplified>
+        <chinesetraditional>每張卡片有 {0} 的機會成為</chinesetraditional>
+        <japanese>各カードは {0} の確率であります</japanese>
+        <russian>У каждой карты есть {0} шанс стать</russian>
+    </text>
+
+    <text value="Cards only unlockable in card packs">
+        <french>Cartes uniquement déblocables dans les paquets de cartes</french>
+        <spanish>Cartas solo desbloqueables en paquetes de cartas</spanish>
+        <portuguese>Cartas apenas desbloqueáveis em pacotes de cartas</portuguese>
+        <italian>Carte sbloccabili solo nei pacchetti di carte</italian>
+        <german>Karten nur in Kartensets freischaltbar</german>
+        <chinesesimplified>卡片只能在卡包中解锁</chinesesimplified>
+        <chinesetraditional>卡片只能在卡包中解鎖</chinesetraditional>
+        <japanese>カードはカードパックでのみアンロック可能</japanese>
+        <russian>Карты можно разблокировать только в пакетах карт</russian>
+    </text>
+
+    <text value="Cards only unlockable by achieving triumphs">
+        <french>Cartes uniquement débloquables en réalisant des triomphes</french>
+        <spanish>Cartas solo desbloqueables al lograr triunfos</spanish>
+        <portuguese>Cartas apenas desbloqueáveis ao alcançar triunfos</portuguese>
+        <italian>Carte sbloccabili solo raggiungendo trionfi</italian>
+        <german>Karten können nur durch das Erreichen von Triumphen freigeschaltet werden</german>
+        <chinesesimplified>只能通过取得胜利来解锁的卡片</chinesesimplified>
+        <chinesetraditional>只能通過取得勝利來解鎖的卡片</chinesetraditional>
+        <japanese>トライアンフを達成してのみアンロック可能なカード</japanese>
+        <russian>Карты можно разблокировать только достигнув триумфов</russian>
+    </text>
+
+    <text value="Get">
+        <french>Obtenir</french>
+        <spanish>Obtener</spanish>
+        <portuguese>Obter</portuguese>
+        <italian>Ottieni</italian>
+        <german>Erhalten</german>
+        <chinesesimplified>获取</chinesesimplified>
+        <chinesetraditional>獲取</chinesetraditional>
+        <japanese>取得</japanese>
+        <russian>Получить</russian>
+    </text>
+
+    <text value="Triumph:">
+        <french>Triomphe :</french>
+        <spanish>Triunfo:</spanish>
+        <portuguese>Triunfo:</portuguese>
+        <italian>Trionfo:</italian>
+        <german>Triumph:</german>
+        <chinesesimplified>胜利：</chinesesimplified>
+        <chinesetraditional>勝利：</chinesetraditional>
+        <japanese>トライアンフ:</japanese>
+        <russian>Триумф:</russian>
+    </text>
+
+    <text value="Rarity loot chances:">
+        <french>Chances de butin par rareté :</french>
+        <spanish>Probabilidades de botín por rareza:</spanish>
+        <portuguese>Chances de saque por raridade:</portuguese>
+        <italian>Probabilità di bottino per rarità:</italian>
+        <german>Chancen auf Beute nach Seltenheit:</german>
+        <chinesesimplified>稀有度战利品概率：</chinesesimplified>
+        <chinesetraditional>稀有度戰利品概率：</chinesetraditional>
+        <japanese>レアリティの戦利品の確率：</japanese>
+        <russian>Вероятность добычи по редкости:</russian>
+    </text>
+
+    <text value="Holographic">
+        <french>Holographique</french>
+        <spanish>Holográfico</spanish>
+        <portuguese>Holográfico</portuguese>
+        <italian>Olografico</italian>
+        <german>Holografisch</german>
+        <chinesesimplified>全息</chinesesimplified>
+        <chinesetraditional>全息</chinesetraditional>
+        <japanese>ホログラフィック</japanese>
+        <russian>Голографический</russian>
+    </text>
+
+    <text value="Free!">
+        <french>Gratuit !</french>
+        <spanish>¡Gratis!</spanish>
+        <portuguese>Grátis!</portuguese>
+        <italian>Gratis!</italian>
+        <german>Kostenlos!</german>
+        <chinesesimplified>免费！</chinesesimplified>
+        <chinesetraditional>免費！</chinesetraditional>
+        <japanese>無料！</japanese>
+        <russian>Бесплатно!</russian>
+    </text>
+
+    <text value="Open">
+        <french>Ouvrir</french>
+        <spanish>Abrir</spanish>
+        <portuguese>Abrir</portuguese>
+        <italian>Apri</italian>
+        <german>Öffnen</german>
+        <chinesesimplified>打开</chinesesimplified>
+        <chinesetraditional>打開</chinesetraditional>
+        <japanese>開く</japanese>
+        <russian>Открыть</russian>
+    </text>
+
+    <text value="Card packs">
+        <french>Paquets de cartes</french>
+        <spanish>Paquetes de cartas</spanish>
+        <portuguese>Pacotes de cartas</portuguese>
+        <italian>Pacchetti di carte</italian>
+        <german>Kartensets</german>
+        <chinesesimplified>卡包</chinesesimplified>
+        <chinesetraditional>卡包</chinesetraditional>
+        <japanese>カードパック</japanese>
+        <russian>Наборы карт</russian>
+    </text>
+
+    <text value="We noticed that iCloud is unavailable on your iPhone. We encourage you to activate iCloud to save your game progress and all collected goods across your devices. This will prevent unwanted loss of data.">
+        <french>Nous avons remarqué qu'iCloud n'est pas disponible sur votre iPhone. Nous vous encourageons à activer iCloud pour sauvegarder la progression de votre jeu et tous les biens collectés sur vos appareils. Cela évitera toute perte de données indésirable.</french>
+        <spanish>Hemos notado que iCloud no está disponible en tu iPhone. Te recomendamos activar iCloud para guardar el progreso de tu juego y todos los objetos recolectados en tus dispositivos. Esto evitará la pérdida no deseada de datos.</spanish>
+        <portuguese>Percebemos que o iCloud não está disponível no seu iPhone. Incentivamos você a ativar o iCloud para salvar o progresso do seu jogo e todos os itens coletados em seus dispositivos. Isso evitará a perda indesejada de dados.</portuguese>
+        <italian>Abbiamo notato che iCloud non è disponibile sul tuo iPhone. Ti incoraggiamo ad attivare iCloud per salvare il progresso del gioco e tutti i beni collezionati sui tuoi dispositivi. Questo eviterà la perdita indesiderata di dati.</italian>
+        <german>Wir haben festgestellt, dass iCloud auf deinem iPhone nicht verfügbar ist. Wir empfehlen dir, iCloud zu aktivieren, um deinen Spielfortschritt und alle gesammelten Güter auf deinen Geräten zu speichern. Dadurch wird unerwünschter Datenverlust verhindert.</german>
+        <chinesesimplified>我们注意到您的 iPhone 上没有启用 iCloud。我们鼓励您启用 iCloud，以保存游戏进度和所有在您的设备上收集的物品。这将防止不必要的数据丢失。</chinesesimplified>
+        <chinesetraditional>我們注意到您的 iPhone 上沒有啟用 iCloud。我們鼓勵您啟用 iCloud，以保存遊戲進度和所有在您的設備上收集的物品。這將防止不必要的數據遺失。</chinesetraditional>
+        <japanese>iCloud があなたの iPhone では利用できないことに気付きました。ゲームの進行状況とすべての収集したアイテムをデバイス間で保存するために iCloud を有効にすることをお勧めします。これにより、データの意図しない損失が防止されます。</japanese>
+        <russian>Мы заметили, что на вашем iPhone недоступен iCloud. Мы настоятельно рекомендуем вам активировать iCloud, чтобы сохранить прогресс игры и все собранные товары на ваших устройствах. Это поможет избежать нежелательной потери данных.</russian>
+    </text>
+
+    <text value="We encourage you to have iCloud connected on your device to save your game progress and all collected goods across your devices. This will prevent unwanted loss of data.">
+        <french>Nous vous encourageons à connecter iCloud sur votre appareil pour sauvegarder votre progression dans le jeu et tous les biens collectés sur tous vos appareils. Cela évitera toute perte de données indésirable.</french>
+        <spanish>Te recomendamos tener iCloud conectado en tu dispositivo para guardar el progreso del juego y todos los objetos coleccionados en todos tus dispositivos. Esto evitará pérdidas no deseadas de datos.</spanish>
+        <portuguese>Recomendamos que tenha o iCloud conectado no seu dispositivo para salvar o progresso do jogo e todos os itens coletados em todos os seus dispositivos. Isso evitará perda indesejada de dados.</portuguese>
+        <italian>Ti incoraggiamo ad avere iCloud connesso sul tuo dispositivo per salvare il progresso di gioco e tutti gli oggetti raccolti su tutti i tuoi dispositivi. Questo impedirà la perdita indesiderata di dati.</italian>
+        <german>Wir empfehlen Ihnen, iCloud auf Ihrem Gerät verbunden zu haben, um Ihren Spielfortschritt und alle gesammelten Güter über all Ihre Geräte hinweg zu speichern. Dadurch wird unerwünschter Datenverlust verhindert.</german>
+        <chinesesimplified>我们鼓励您在设备上连接iCloud，以便在您的所有设备上保存游戏进度和所有收集的物品。这将防止不必要的数据丢失。</chinesesimplified>
+        <chinesetraditional>我們鼓勵您在裝置上連接iCloud，以便在您的所有裝置上儲存遊戲進度和所有收集的物品。這將防止不必要的數據遺失。</chinesetraditional>
+        <japanese>ゲームの進行状況とすべての収集したアイテムをデバイス間で保存するために、デバイスにiCloudを接続することをお勧めします。これにより、データの不要な損失が防止されます。</japanese>
+        <russian>Мы рекомендуем подключить iCloud к вашему устройству, чтобы сохранить прогресс игры и все собранные предметы на всех ваших устройствах. Это поможет избежать нежелательной потери данных.</russian>
+    </text>
+
+    <text value="You just unlocked your first {0} cards!">
+        <french>Vous venez de débloquer vos premières cartes {0} !</french>
+        <spanish>¡Acabas de desbloquear tus primeras cartas {0}!</spanish>
+        <portuguese>Você acaba de desbloquear suas primeiras cartas {0}!</portuguese>
+        <italian>Hai appena sbloccato le tue prime carte {0}!</italian>
+        <german>Du hast gerade deine ersten {0} Karten freigeschaltet!</german>
+        <chinesesimplified>您刚刚解锁了您的第一批 {0} 张卡牌！</chinesesimplified>
+        <chinesetraditional>您剛剛解鎖了您的第一批 {0} 張卡片！</chinesetraditional>
+        <japanese>あなたはちょうど {0} 枚目のカードをアンロックしました！</japanese>
+        <russian>Вы только что разблокировали свои первые {0} карты!</russian>
+    </text>
+
+    <text value="Unlock amazing Flappy Dunk collectible cards!">
+        <french>Débloquez d'incroyables cartes à collectionner Flappy Dunk !</french>
+        <spanish>¡Desbloquea increíbles cartas coleccionables de Flappy Dunk!</spanish>
+        <portuguese>Desbloqueie incríveis cartas colecionáveis do Flappy Dunk!</portuguese>
+        <italian>Sblocca fantastiche carte collezionabili di Flappy Dunk!</italian>
+        <german>Entsperre erstaunliche Flappy Dunk Sammelkarten!</german>
+        <chinesesimplified>解锁令人惊叹的飞扬灌篮收藏卡！</chinesesimplified>
+        <chinesetraditional>解鎖令人驚嘆的飛揚灌籃收藏卡！</chinesetraditional>
+        <japanese>素晴らしいFlappy Dunkのコレクションカードをアンロック！</japanese>
+        <russian>Разблокируйте удивительные коллекционные карты Flappy Dunk!</russian>
+    </text>
+
+    <text value="Daily free pack!">
+        <french>Paquet gratuit quotidien !</french>
+        <spanish>¡Paquete diario gratuito!</spanish>
+        <portuguese>Pacote diário gratuito!</portuguese>
+        <italian>Pacco gratuito giornaliero!</italian>
+        <german>Tägliches Gratispaket!</german>
+        <chinesesimplified>每日免费卡包！</chinesesimplified>
+        <chinesetraditional>每日免費卡包！</chinesetraditional>
+        <japanese>毎日無料パック！</japanese>
+        <russian>Ежедневный бесплатный пакет!</russian>
+    </text>
+
+    <text value="Stadium">
+        <french>Stade</french>
+        <spanish>Estadio</spanish>
+        <portuguese>Estádio</portuguese>
+        <italian>Stadio</italian>
+        <german>Stadion</german>
+        <chinesesimplified>体育场</chinesesimplified>
+        <chinesetraditional>體育場</chinesetraditional>
+        <japanese>スタジアム</japanese>
+        <russian>Стадион</russian>
+    </text>
+
+    <text value="Card packs information">
+        <french>Informations sur les paquets de cartes</french>
+        <spanish>Información sobre paquetes de cartas</spanish>
+        <portuguese>Informações sobre pacotes de cartas</portuguese>
+        <italian>Informazioni sui pacchetti di carte</italian>
+        <german>Kartensets-Informationen</german>
+        <chinesesimplified>卡包信息</chinesesimplified>
+        <chinesetraditional>卡包信息</chinesetraditional>
+        <japanese>カードパック情報</japanese>
+        <russian>Информация о наборах карт</russian>
+    </text>
+
+    <text value="Congratulations!">
+        <french>Félicitations !</french>
+        <spanish>¡Felicidades!</spanish>
+        <portuguese>Parabéns!</portuguese>
+        <italian>Congratulazioni!</italian>
+        <german>Herzlichen Glückwunsch!</german>
+        <chinesesimplified>恭喜！</chinesesimplified>
+        <chinesetraditional>恭喜！</chinesetraditional>
+        <japanese>おめでとうございます！</japanese>
+        <russian>Поздравляем!</russian>
+    </text>
+
+    <text value="Most popular">
+        <french>Le plus populaire</french>
+        <spanish>Más popular</spanish>
+        <portuguese>Mais popular</portuguese>
+        <italian>Più popolare</italian>
+        <german>Am beliebtesten</german>
+        <chinesesimplified>最受欢迎</chinesesimplified>
+        <chinesetraditional>最受歡迎</chinesetraditional>
+        <japanese>最も人気</japanese>
+        <russian>Самое популярное</russian>
+    </text>
+
+    <text value="Settings">
+        <french>Paramètres</french>
+        <spanish>Configuración</spanish>
+        <portuguese>Configurações</portuguese>
+        <italian>Impostazioni</italian>
+        <german>Einstellungen</german>
+        <chinesesimplified>设置</chinesesimplified>
+        <chinesetraditional>設置</chinesetraditional>
+        <japanese>設定</japanese>
+        <russian>Настройки</russian>
+    </text>
+
+    <text value="{0} Pack = {1} Cards">
+        <french>{0} Paquet = {1} Cartes</french>
+        <spanish>{0} Paquete = {1} Cartas</spanish>
+        <portuguese>{0} Pacote = {1} Cartas</portuguese>
+        <italian>{0} Pacchetto = {1} Carte</italian>
+        <german>{0} Set = {1} Karten</german>
+        <chinesesimplified>{0} 包 = {1} 张卡牌</chinesesimplified>
+        <chinesetraditional>{0} 包 = {1} 張卡片</chinesetraditional>
+        <japanese>{0} パック = {1} 枚のカード</japanese>
+        <russian>{0} Набор = {1} Карты</russian>
+    </text>
+
+    <text value="You can loot multiple copies of the same card. You can convert extra copies into free card packs.">
+        <french>Vous pouvez obtenir plusieurs exemplaires de la même carte. Vous pouvez convertir les exemplaires supplémentaires en paquets de cartes gratuits.</french>
+        <spanish>Puedes saquear múltiples copias de la misma carta. Puedes convertir copias extra en paquetes de cartas gratis.</spanish>
+        <portuguese>Você pode saquear múltiplas cópias da mesma carta. Você pode converter cópias extras em pacotes de cartas grátis.</portuguese>
+        <italian>Puoi ottenere più copie della stessa carta. Puoi convertire le copie extra in pacchetti di carte gratuiti.</italian>
+        <german>Du kannst mehrere Kopien derselben Karte plündern. Du kannst zusätzliche Kopien in kostenlose Kartensets umwandeln.</german>
+        <chinesesimplified>您可以掠夺多份相同的卡牌。您可以将额外的副本转换为免费的卡牌包。</chinesesimplified>
+        <chinesetraditional>您可以搶奪多份相同的卡片。您可以將額外的副本轉換為免費的卡片包。</chinesetraditional>
+        <japanese>同じカードの複数のコピーを手に入れることができます。余分なコピーを無料のカードパックに変換できます。</japanese>
+        <russian>Вы можете получить несколько копий одной и той же карты. Вы можете преобразовать дополнительные копии в бесплатные пакеты карт.</russian>
+    </text>
+
+    <text value="Loot">
+        <french>Butin</french>
+        <spanish>Botín</spanish>
+        <portuguese>Despojo</portuguese>
+        <italian>Bottino</italian>
+        <german>Beute</german>
+        <chinesesimplified>掠夺</chinesesimplified>
+        <chinesetraditional>掠奪</chinesetraditional>
+        <japanese>ルート</japanese>
+        <russian>Добыча</russian>
+    </text>
+
+    <text value="Rare">
+        <french>Rare</french>
+        <spanish>Raro</spanish>
+        <portuguese>Raro</portuguese>
+        <italian>Raro</italian>
+        <german>Rar</german>
+        <chinesesimplified>稀有</chinesesimplified>
+        <chinesetraditional>稀有</chinesetraditional>
+        <japanese>レア</japanese>
+        <russian>Редкий</russian>
+    </text>
+
+    <text value="Holo">
+        <french>Holo</french>
+        <spanish>Holo</spanish>
+        <portuguese>Holo</portuguese>
+        <italian>Holo</italian>
+        <german>Holo</german>
+        <chinesesimplified>全息</chinesesimplified>
+        <chinesetraditional>全息</chinesetraditional>
+        <japanese>ホロ</japanese>
+        <russian>Голо</russian>
+    </text>
+
+    <text value="Epic">
+        <french>Épique</french>
+        <spanish>Épico</spanish>
+        <portuguese>Épico</portuguese>
+        <italian>Epico</italian>
+        <german>Episch</german>
+        <chinesesimplified>史诗</chinesesimplified>
+        <chinesetraditional>史詩</chinesetraditional>
+        <japanese>エピック</japanese>
+        <russian>Эпический</russian>
+    </text>
+
+    <text value="Triumph">
+        <french>Triomphe</french>
+        <spanish>Triunfo</spanish>
+        <portuguese>Triunfo</portuguese>
+        <italian>Trionfo</italian>
+        <german>Triumph</german>
+        <chinesesimplified>胜利</chinesesimplified>
+        <chinesetraditional>勝利</chinesetraditional>
+        <japanese>トライアンフ</japanese>
+        <russian>Триумф</russian>
+    </text>
+
+    <text value="Legendary">
+        <french>Légendaire</french>
+        <spanish>Legendario</spanish>
+        <portuguese>Legendário</portuguese>
+        <italian>Leggendario</italian>
+        <german>Legendär</german>
+        <chinesesimplified>传奇</chinesesimplified>
+        <chinesetraditional>傳奇</chinesetraditional>
+        <japanese>伝説の</japanese>
+        <russian>Легендарный</russian>
+    </text>
+
+    <text value="Mythic">
+        <french>Mythique</french>
+        <spanish>Mítico</spanish>
+        <portuguese>Mítico</portuguese>
+        <italian>Mitico</italian>
+        <german>Mythisch</german>
+        <chinesesimplified>神话</chinesesimplified>
+        <chinesetraditional>神話</chinesetraditional>
+        <japanese>神話の</japanese>
+        <russian>Мифический</russian>
+    </text>
+
+    <text value="Free card pack unlocked!">
+        <french>Paquet de cartes gratuit débloqué !</french>
+        <spanish>¡Paquete de cartas gratis desbloqueado!</spanish>
+        <portuguese>Pacote de cartas grátis desbloqueado!</portuguese>
+        <italian>Pacchetto di carte gratuito sbloccato!</italian>
+        <german>Kostenloses Kartenset freigeschaltet!</german>
+        <chinesesimplified>免费卡包解锁！</chinesesimplified>
+        <chinesetraditional>免費卡包解鎖！</chinesetraditional>
+        <japanese>無料のカードパックがアンロックされました！</japanese>
+        <russian>Бесплатный набор карт разблокирован!</russian>
+    </text>
+
+    <text value="Cards">
+        <french>Cartes</french>
+        <spanish>Cartas</spanish>
+        <portuguese>Cartas</portuguese>
+        <italian>Carte</italian>
+        <german>Karten</german>
+        <chinesesimplified>卡牌</chinesesimplified>
+        <chinesetraditional>卡片</chinesetraditional>
+        <japanese>カード</japanese>
+        <russian>Карты</russian>
+    </text>
+
+    <text value="Use dunks to unlock card packs and other game content">
+        <french>Utilisez des dunks pour débloquer des paquets de cartes et d'autres contenus de jeu</french>
+        <spanish>Usa dunks para desbloquear paquetes de cartas y otros contenidos del juego</spanish>
+        <portuguese>Use dunks para desbloquear pacotes de cartas e outros conteúdos do jogo</portuguese>
+        <italian>Usa dunks per sbloccare pacchetti di carte e altri contenuti del gioco</italian>
+        <german>Verwende Dunks, um Kartensets und andere Spielinhalte freizuschalten</german>
+        <chinesesimplified>使用扣篮解锁卡包和其他游戏内容</chinesesimplified>
+        <chinesetraditional>使用扣籃解鎖卡包和其他遊戲內容</chinesetraditional>
+        <japanese>ダンクを使用してカードパックや他のゲームコンテンツをアンロック</japanese>
+        <russian>Используйте данки, чтобы разблокировать наборы карт и другой игровой контент</russian>
+    </text>
+
+    <text value="Use dunks to unlock card packs">
+        <french>Utilisez des dunks pour débloquer des paquets de cartes</french>
+        <spanish>Usa mates para desbloquear paquetes de cartas</spanish>
+        <portuguese>Use enterradas para desbloquear pacotes de cartas</portuguese>
+        <italian>Usa schiacciate per sbloccare pacchetti di carte</italian>
+        <german>Verwende Dunkings, um Kartenpacks freizuschalten</german>
+        <chinesesimplified>使用扣篮来解锁卡包</chinesesimplified>
+        <chinesetraditional>使用扣籃來解鎖卡包</chinesetraditional>
+        <japanese>ダンクシュートを使ってカードパックをアンロック</japanese>
+        <russian>Используйте данки для открытия карт-паков</russian>
+    </text>
+
+    <text value="Dunks">
+        <french>Dunks</french>
+        <spanish>Dunks</spanish>
+        <portuguese>Dunks</portuguese>
+        <italian>Dunks</italian>
+        <german>Dunks</german>
+        <chinesesimplified>扣篮</chinesesimplified>
+        <chinesetraditional>扣籃</chinesetraditional>
+        <japanese>ダンク</japanese>
+        <russian>Данки</russian>
+    </text>
+
+    <text value="Move your finger around to rotate the card">
+        <french>Déplacez votre doigt autour pour faire tourner la carte</french>
+        <spanish>Mueve el dedo alrededor para girar la carta</spanish>
+        <portuguese>Mova o dedo ao redor para girar a carta</portuguese>
+        <italian>Muovi il dito intorno per ruotare la carta</italian>
+        <german>Bewege deinen Finger, um die Karte zu drehen</german>
+        <chinesesimplified>用手指在周围移动以旋转卡片</chinesesimplified>
+        <chinesetraditional>用手指在周圍移動以旋轉卡片</chinesetraditional>
+        <japanese>指を動かしてカードを回転させます</japanese>
+        <russian>Перемещайте палец, чтобы повернуть карту</russian>
+    </text>
+
+    <text value="Move your finger on the card to enjoy the shiny effect">
+        <french>Déplacez votre doigt sur la carte pour profiter de l'effet brillant</french>
+        <spanish>Mueve el dedo sobre la carta para disfrutar del efecto brillante</spanish>
+        <portuguese>Mova o dedo sobre a carta para aproveitar o efeito brilhante</portuguese>
+        <italian>Sposta il dito sulla carta per goderti l'effetto lucente</italian>
+        <german>Bewege deinen Finger über die Karte, um den glänzenden Effekt zu genießen</german>
+        <chinesesimplified>在卡片上移动手指，享受闪亮效果</chinesesimplified>
+        <chinesetraditional>在卡片上移動手指，享受閃亮效果</chinesetraditional>
+        <japanese>カード上で指を動かして輝く効果を楽しんでください</japanese>
+        <russian>Перемещайте палец по карте, чтобы насладиться блестящим эффектом</russian>
+    </text>
+
+    <text value="Free daily card pack!">
+        <french>Paquet de cartes gratuit quotidien !</french>
+        <spanish>¡Paquete de cartas diario gratis!</spanish>
+        <portuguese>Pacote de cartas diário grátis!</portuguese>
+        <italian>Pacchetto di carte gratuito giornaliero!</italian>
+        <german>Kostenloses tägliches Kartenset!</german>
+        <chinesesimplified>每日免费卡包！</chinesesimplified>
+        <chinesetraditional>每日免費卡包！</chinesetraditional>
+        <japanese>毎日無料のカードパック！</japanese>
+        <russian>Ежедневный бесплатный набор карт!</russian>
+    </text>
+
+    <text value="New">
+        <french>Nouveau</french>
+        <spanish>Nuevo</spanish>
+        <portuguese>Novo</portuguese>
+        <italian>Nuovo</italian>
+        <german>Neu</german>
+        <chinesesimplified>新</chinesesimplified>
+        <chinesetraditional>新</chinesetraditional>
+        <japanese>新着</japanese>
+        <russian>Новое</russian>
+    </text>
+
+    <text value="Special">
+        <french>Spécial</french>
+        <spanish>Especial</spanish>
+        <portuguese>Especial</portuguese>
+        <italian>Speciale</italian>
+        <german>Spezial</german>
+        <chinesesimplified>特别</chinesesimplified>
+        <chinesetraditional>特別</chinesetraditional>
+        <japanese>特別</japanese>
+        <russian>Специальное</russian>
+    </text>
+
+    <text value="Claim pack">
+        <french>Réclamer le paquet</french>
+        <spanish>Reclamar paquete</spanish>
+        <portuguese>Reivindicar pacote</portuguese>
+        <italian>Riscatta pacchetto</italian>
+        <german>Paket beanspruchen</german>
+        <chinesesimplified>领取卡包</chinesesimplified>
+        <chinesetraditional>領取卡包</chinesetraditional>
+        <japanese>パックを受け取る</japanese>
+        <russian>Получить набор</russian>
+    </text>
+
+    <text value="Extra cards">
+        <french>Cartes supplémentaires</french>
+        <spanish>Cartas extra</spanish>
+        <portuguese>Cartas extras</portuguese>
+        <italian>Carte extra</italian>
+        <german>Zusätzliche Karten</german>
+        <chinesesimplified>额外卡牌</chinesesimplified>
+        <chinesetraditional>額外卡片</chinesetraditional>
+        <japanese>余分なカード</japanese>
+        <russian>Дополнительные карты</russian>
+    </text>
+
+    <text value="Card">
+        <french>Carte</french>
+        <spanish>Carta</spanish>
+        <portuguese>Carta</portuguese>
+        <italian>Carta</italian>
+        <german>Karte</german>
+        <chinesesimplified>卡牌</chinesesimplified>
+        <chinesetraditional>卡片</chinesetraditional>
+        <japanese>カード</japanese>
+        <russian>Карта</russian>
+    </text>
+
+    <text value="*blank*">
+        <french>*vide*</french>
+        <spanish>*en blanco*</spanish>
+        <portuguese>*em branco*</portuguese>
+        <italian>*vuoto*</italian>
+        <german>*leer*</german>
+        <chinesesimplified>*空白*</chinesesimplified>
+        <chinesetraditional>*空白*</chinesetraditional>
+        <japanese>*空白*</japanese>
+        <russian>*пусто*</russian>
+    </text>
+
+    <text value="Play {0} games in endless mode">
+        <french>Jouez {0} parties en mode infini</french>
+        <spanish>Juega {0} partidas en el modo infinito</spanish>
+        <portuguese>Jogue {0} partidas no modo infinito</portuguese>
+        <italian>Gioca {0} partite in modalità infinita</italian>
+        <german>Spiele {0} Spiele im Endlosmodus</german>
+        <chinesesimplified>在无尽模式下玩 {0} 局游戏</chinesesimplified>
+        <chinesetraditional>在無盡模式下玩 {0} 局遊戲</chinesetraditional>
+        <japanese>エンドレスモードで{0}回プレイ</japanese>
+        <russian>Сыграйте {0} партий в бесконечном режиме</russian>
+    </text>
+
+    <text value="Unlock {0} skins">
+        <french>Débloquez {0} skins</french>
+        <spanish>Desbloquea {0} skins</spanish>
+        <portuguese>Desbloqueie {0} skins</portuguese>
+        <italian>Sblocca {0} skin</italian>
+        <german>Entsperre {0} Skins</german>
+        <chinesesimplified>解锁 {0} 个皮肤</chinesesimplified>
+        <chinesetraditional>解鎖 {0} 個皮膚</chinesetraditional>
+        <japanese>{0}種類のスキンをアンロック</japanese>
+        <russian>Разблокируйте {0} скинов</russian>
+    </text>
+
+    <text value="Play {0} days in a row">
+        <french>Jouez {0} jours d'affilée</french>
+        <spanish>Juega {0} días seguidos</spanish>
+        <portuguese>Jogue {0} dias seguidos</portuguese>
+        <italian>Gioca per {0} giorni consecutivi</italian>
+        <german>Spiele {0} Tage hintereinander</german>
+        <chinesesimplified>连续玩 {0} 天</chinesesimplified>
+        <chinesetraditional>連續玩 {0} 天</chinesetraditional>
+        <japanese>{0}日間連続でプレイ</japanese>
+        <russian>Играйте {0} дней подряд</russian>
+    </text>
+
+    <text value="Open {0} card packs">
+        <french>Ouvrez {0} paquets de cartes</french>
+        <spanish>Abre {0} paquetes de cartas</spanish>
+        <portuguese>Abra {0} pacotes de cartas</portuguese>
+        <italian>Apri {0} pacchetti di carte</italian>
+        <german>Öffne {0} Kartensets</german>
+        <chinesesimplified>开启 {0} 套卡包</chinesesimplified>
+        <chinesetraditional>開啟 {0} 套卡包</chinesetraditional>
+        <japanese>{0}個のカードパックを開ける</japanese>
+        <russian>Откройте {0} наборов карт</russian>
+    </text>
+
+    <text value="Chain {0} hoops in endless mode">
+        <french>Enchaînez {0} paniers en mode infini</french>
+        <spanish>Encadena {0} aros en el modo infinito</spanish>
+        <portuguese>Encadeie {0} cestas no modo infinito</portuguese>
+        <italian>Collega {0} canestri in modalità infinita</italian>
+        <german>Kette {0} Reifen im Endlosmodus</german>
+        <chinesesimplified>在无尽模式下连续进行 {0} 次篮球投篮</chinesesimplified>
+        <chinesetraditional>在無盡模式下連續進行 {0} 次籃球投籃</chinesetraditional>
+        <japanese>エンドレスモードで{0}回のフープをつなげる</japanese>
+        <russian>Сделайте {0} мячей в бесконечном режиме</russian>
+    </text>
+
+    <text value="Collect {0} different cards">
+        <french>Collectionnez {0} cartes différentes</french>
+        <spanish>Recoge {0} cartas diferentes</spanish>
+        <portuguese>Colete {0} cartas diferentes</portuguese>
+        <italian>Raccogli {0} carte diverse</italian>
+        <german>Sammle {0} verschiedene Karten</german>
+        <chinesesimplified>收集 {0} 张不同的卡牌</chinesesimplified>
+        <chinesetraditional>收集 {0} 張不同的卡片</chinesetraditional>
+        <japanese>{0}枚の異なるカードを集める</japanese>
+        <russian>Соберите {0} различных карт</russian>
+    </text>
+
+    <text value="Chain {0} different normal challenges without losing">
+        <french>Enchaînez {0} défis normaux différents sans perdre</french>
+        <spanish>Encadena {0} desafíos normales diferentes sin perder</spanish>
+        <portuguese>Encadeie {0} desafios normais diferentes sem perder</portuguese>
+        <italian>Collega {0} sfide normali diverse senza perdere</italian>
+        <german>Kette {0} verschiedene normale Herausforderungen hintereinander ohne zu verlieren</german>
+        <chinesesimplified>在不失败的情况下连续完成 {0} 种不同的普通挑战</chinesesimplified>
+        <chinesetraditional>在不失敗的情況下連續完成 {0} 種不同的普通挑戰</chinesetraditional>
+        <japanese>失敗せずに異なる通常のチャレンジ{0}回をつなげる</japanese>
+        <russian>Сделайте {0} различных обычных вызовов подряд без проигрыша</russian>
+    </text>
+
+    <text value="Chain {0} swishes in endless mode">
+        <french>Enchaînez {0} Perfects en mode infini</french>
+        <spanish>Encadena {0} ¡Limpias en el modo infinito</spanish>
+        <portuguese>Encadeie {0} Acertous em cheios em modo infinito</portuguese>
+        <italian>Collega {0} Ciuff in modalità infinita</italian>
+        <german>Kette {0} Perfect im Endlosmodus</german>
+        <chinesesimplified>在无尽模式下连续 {0} 次空心球</chinesesimplified>
+        <chinesetraditional>在無盡模式下連續 {0} 次空心球</chinesetraditional>
+        <japanese>エンドレスモードで {0} 回スパッをつなげる</japanese>
+        <russian>Сделайте {0} подряд "Чистое попадание" в бесконечном режиме</russian>
+    </text>
+
+    <text value="Complete {0} different normal challenges in under one hour">
+        <french>Terminez {0} défis normaux différents en moins d'une heure</french>
+        <spanish>Completa {0} desafíos normales diferentes en menos de una hora</spanish>
+        <portuguese>Complete {0} desafios normais diferentes em menos de uma hora</portuguese>
+        <italian>Completa {0} sfide normali diverse in meno di un'ora</italian>
+        <german>Beende {0} verschiedene normale Herausforderungen in weniger als einer Stunde</german>
+        <chinesesimplified>在一个小时内完成 {0} 种不同的普通挑战</chinesesimplified>
+        <chinesetraditional>在一個小時內完成 {0} 種不同的普通挑战</chinesetraditional>
+        <japanese>異なる通常のチャレンジ{0}回を1時間以内にクリア</japanese>
+        <russian>Завершите {0} различных обычных вызовов за менее чем один час</russian>
+    </text>
+
+    <text value="Complete all normal challenges in under one hour">
+        <french>Terminez tous les défis normaux en moins d'une heure</french>
+        <spanish>Completa todos los desafíos normales en menos de una hora</spanish>
+        <portuguese>Complete todos os desafios normais em menos de uma hora</portuguese>
+        <italian>Completa tutte le sfide normali in meno di un'ora</italian>
+        <german>Beende alle normalen Herausforderungen in weniger als einer Stunde</german>
+        <chinesesimplified>在一个小时内完成所有普通挑战</chinesesimplified>
+        <chinesetraditional>在一個小時內完成所有普通挑戰</chinesetraditional>
+        <japanese>すべての通常のチャレンジを1時間以内にクリア</japanese>
+        <russian>Завершите все обычные вызовы за менее чем один час</russian>
+    </text>
+
+    <text value="Meow">
+        <french>Meow</french>
+        <spanish>Meow</spanish>
+        <portuguese>Meow</portuguese>
+        <italian>Meow</italian>
+        <german>Meow</german>
+        <chinesesimplified>喵</chinesesimplified>
+        <chinesetraditional>喵</chinesetraditional>
+        <japanese>にゃー</japanese>
+        <russian>Мяу</russian>
+    </text>
+
+    <text value="Collect {0} Series {1} cards">
+        <french>Collectionnez {0} cartes de la Série {1}</french>
+        <spanish>Recoge {0} cartas de la Serie {1}</spanish>
+        <portuguese>Colete {0} cartas da Série {1}</portuguese>
+        <italian>Raccogli {0} carte della Serie {1}</italian>
+        <german>Sammle {0} Serie-{1}-Karten</german>
+        <chinesesimplified>收集 {0} 张{1}系列卡牌</chinesesimplified>
+        <chinesetraditional>收集 {0} 張{1}系列卡片</chinesetraditional>
+        <japanese>シリーズ{1}のカードを{0}枚集める</japanese>
+        <russian>Соберите {0} карт серии {1}</russian>
+    </text>
+
+    <text value="Collect {0} different Series {1} cards">
+        <french>Collectionne {0} cartes différentes de la série {1}</french>
+        <spanish>Recoge {0} cartas diferentes de la serie {1}</spanish>
+        <portuguese>Colete {0} cartas diferentes da série {1}</portuguese>
+        <italian>Raccogli {0} carte diverse della serie {1}</italian>
+        <german>Sammle {0} verschiedene Serie {1} Karten</german>
+        <chinesesimplified>收集{0}张不同的{1}系列卡片</chinesesimplified>
+        <chinesetraditional>收集{0}張不同的{1}系列卡片</chinesetraditional>
+        <japanese>異なるシリーズ{1}カードを{0}枚集める</japanese>
+        <russian>Соберите {0} разных карт Серии {1}</russian>
+    </text>
+
+    <text value="Collect all Series {0} Triumph cards">
+        <french>Collectionnez toutes les cartes Triomphe de la Série {0}</french>
+        <spanish>Recoge todas las cartas Triunfo de la Serie {0}</spanish>
+        <portuguese>Colete todas as cartas Triunfo da Série {0}</portuguese>
+        <italian>Raccogli tutte le carte Trionfo della Serie {0}</italian>
+        <german>Sammle alle Serie-{0}-Triumphkarten</german>
+        <chinesesimplified>收集所有{0}系列胜利卡</chinesesimplified>
+        <chinesetraditional>收集所有{0}系列勝利卡</chinesetraditional>
+        <japanese>シリーズ{0}のトライアンフカードをすべて集める</japanese>
+        <russian>Соберите все карты триумфа серии {0}</russian>
+    </text>
+
+    <text value="Collect {0} Series {1} Triumph cards">
+        <french>Collectionnez {0} cartes Triomphe de la Série {1}</french>
+        <spanish>Recoge {0} cartas Triunfo de la Serie {1}</spanish>
+        <portuguese>Colete {0} cartas Triunfo da Série {1}</portuguese>
+        <italian>Raccogli {0} carte Trionfo della Serie {1}</italian>
+        <german>Sammle {0} Serie-{1}-Triumphkarten</german>
+        <chinesesimplified>收集 {0} 张{1}系列胜利卡</chinesesimplified>
+        <chinesetraditional>收集 {0} 張{1}系列勝利卡</chinesetraditional>
+        <japanese>シリーズ{1}のトライアンフカードを{0}枚集める</japanese>
+        <russian>Соберите {0} карт триумфа серии {1}</russian>
+    </text>
+
+    <text value="Draw an empty ball while having white wing and white hoops equipped">
+        <french>Dessine un ballon vide tout en ayant l'aile blanche et les paniers blancs équipés</french>
+        <spanish>Dibuja una pelota vacía mientras tienes el ala blanca y los aros blancos equipados</spanish>
+        <portuguese>Desenhe uma bola vazia enquanto estiver com a asa branca e os aros brancos equipados</portuguese>
+        <italian>Disegna una palla vuota mentre hai l'ala bianca e gli anelli bianchi equipaggiati</italian>
+        <german>Zeichne einen leeren Ball, während du den weißen Flügel und die weißen Körbe ausgerüstet hast</german>
+        <chinesesimplified>在装备白色翅膀和白色篮圈的情况下画一个空球</chinesesimplified>
+        <chinesetraditional>在裝備白色翅膀和白色籃圈的情況下畫一個空球</chinesetraditional>
+        <japanese>白い翼と白いフープを装備した状態で空のボールを描け</japanese>
+        <russian>Нарисуйте пустой мяч, когда у вас есть белое крыло и белые обручи</russian>
+    </text>
+
+    <text value="Collect {0} Holographic cards">
+        <french>Collectionnez {0} cartes holographiques</french>
+        <spanish>Recoge {0} cartas holográficas</spanish>
+        <portuguese>Colete {0} cartas holográficas</portuguese>
+        <italian>Raccogli {0} carte olografiche</italian>
+        <german>Sammle {0} Holographische Karten</german>
+        <chinesesimplified>收集 {0} 张全息卡牌</chinesesimplified>
+        <chinesetraditional>收集 {0} 張全息卡片</chinesetraditional>
+        <japanese>ホログラフィックカードを{0}枚集める</japanese>
+        <russian>Соберите {0} голографических карт</russian>
+    </text>
+
+    <text value="Collect {0} different holographic cards">
+        <french>Collectionne {0} cartes holographiques différentes</french>
+        <spanish>Recoge {0} cartas holográficas diferentes</spanish>
+        <portuguese>Colete {0} cartas holográficas diferentes</portuguese>
+        <italian>Raccogli {0} carte olografiche diverse</italian>
+        <german>Sammle {0} verschiedene holografische Karten</german>
+        <chinesesimplified>收集{0}张不同的全息卡片</chinesesimplified>
+        <chinesetraditional>收集{0}張不同的全息卡片</chinesetraditional>
+        <japanese>{0}枚の異なるホログラフィックカードを集める</japanese>
+        <russian>Соберите {0} разных голографических карт</russian>
+    </text>
+
+    <text value="Collect {0} different Series {1} holographic cards">
+        <french>Collectionne {0} cartes holographiques différentes de la série {1}</french>
+        <spanish>Recoge {0} cartas holográficas diferentes de la serie {1}</spanish>
+        <portuguese>Colete {0} cartas holográficas diferentes da série {1}</portuguese>
+        <italian>Raccogli {0} carte olografiche diverse della serie {1}</italian>
+        <german>Sammle {0} verschiedene Serie {1} Holographische Karten</german>
+        <chinesesimplified>收集{0}张不同的{1}系列全息卡片</chinesesimplified>
+        <chinesetraditional>收集{0}張不同的{1}系列全息卡片</chinesetraditional>
+        <japanese>異なるシリーズ{1}ホログラフィックカードを{0}枚集める</japanese>
+        <russian>Соберите {0} разных голографических карт Серии {1}</russian>
+    </text>
+
+    <text value="Loot cards">
+        <french>Cartes de butin</french>
+        <spanish>Cartas de botín</spanish>
+        <portuguese>Cartas de saque</portuguese>
+        <italian>Carte da bottino</italian>
+        <german>Beutekarten</german>
+        <chinesesimplified>战利品卡</chinesesimplified>
+        <chinesetraditional>戰利品卡</chinesetraditional>
+        <japanese>戦利品カード</japanese>
+        <russian>Карты добычи</russian>
+    </text>
+
+    <text value="Triumph cards">
+        <french>Cartes de triomphe</french>
+        <spanish>Cartas de triunfo</spanish>
+        <portuguese>Cartas de triunfo</portuguese>
+        <italian>Carte di trionfo</italian>
+        <german>Triumphkarten</german>
+        <chinesesimplified>胜利卡</chinesesimplified>
+        <chinesetraditional>勝利卡</chinesetraditional>
+        <japanese>トライアンフカード</japanese>
+        <russian>Карты триумфа</russian>
+    </text>
+
+    <text value="Free pack">
+        <french>Paquet gratuit</french>
+        <spanish>Paquete gratis</spanish>
+        <portuguese>Pacote grátis</portuguese>
+        <italian>Pacchetto gratuito</italian>
+        <german>Kostenloses Paket</german>
+        <chinesesimplified>免费卡包</chinesesimplified>
+        <chinesetraditional>免費卡包</chinesetraditional>
+        <japanese>無料パック</japanese>
+        <russian>Бесплатный набор</russian>
+    </text>
+
+    <text value="Get x{0}!">
+        <french>Obtenez x{0} !</french>
+        <spanish>¡Consigue x{0}!</spanish>
+        <portuguese>Consiga x{0}!</portuguese>
+        <italian>Ottieni x{0}!</italian>
+        <german>Hole x{0}!</german>
+        <chinesesimplified>获得 x{0}！</chinesesimplified>
+        <chinesetraditional>獲得 x{0}！</chinesetraditional>
+        <japanese>x{0} 個を取得！</japanese>
+        <russian>Получите x{0}!</russian>
+    </text>
+
+    <text value="Open another">
+        <french>Ouvrir un autre</french>
+        <spanish>Abrir otro</spanish>
+        <portuguese>Abrir outro</portuguese>
+        <italian>Apri un altro</italian>
+        <german>Noch eins öffnen</german>
+        <chinesesimplified>再打开一个</chinesesimplified>
+        <chinesetraditional>再打開一個</chinesetraditional>
+        <japanese>もう一つ開ける</japanese>
+        <russian>Открыть еще один</russian>
+    </text>
+
+    <text value="Open one more">
+        <french>Ouvrir un de plus</french>
+        <spanish>Abre uno más</spanish>
+        <portuguese>Abra mais um</portuguese>
+        <italian>Apri un altro</italian>
+        <german>Noch eins öffnen</german>
+        <chinesesimplified>再打开一个</chinesesimplified>
+        <chinesetraditional>再打開一個</chinesetraditional>
+        <japanese>もう一つ開ける</japanese>
+        <russian>Открыть еще один</russian>
+    </text>
+
+    <text value="Pet the cat's head of card #31 with your finger">
+        <french>Caresse la tête du chat de la carte n°31 avec ton doigt</french>
+        <spanish>Acaricia la cabeza del gato de la carta n.º 31 con tu dedo</spanish>
+        <portuguese>Acaricie a cabeça do gato da carta #31 com o dedo</portuguese>
+        <italian>Carezza la testa del gatto della carta n. {31} con il dito</italian>
+        <german>Streichele den Kopf der Katze auf Karte Nr. 31 mit deinem Finger</german>
+        <chinesesimplified>用手指抚摸卡片#31上的猫头</chinesesimplified>
+        <chinesetraditional>用手指撫摸卡片#31上的貓頭</chinesetraditional>
+        <japanese>カード番号31の猫の頭を指でなでる</japanese>
+        <russian>Погладьте голову кошки на карте №31 пальцем</russian>
+    </text>
+
+    <text value="Pet the cat's head of card #31 (holographic) with your finger">
+        <french>Caresse la tête du chat de la carte n°31 (holographique) avec ton doigt</french>
+        <spanish>Acaricia la cabeza del gato de la carta n.º 31 (holográfica) con tu dedo</spanish>
+        <portuguese>Acaricie a cabeça do gato da carta #31 (holográfica) com o dedo</portuguese>
+        <italian>Carezza la testa del gatto della carta n. {31} (olografica) con il dito</italian>
+        <german>Streichele den Kopf der Katze auf Karte Nr. 31 (holografisch) mit deinem Finger</german>
+        <chinesesimplified>用手指抚摸卡片#31（全息）上的猫头</chinesesimplified>
+        <chinesetraditional>用手指撫摸卡片#31（全息）上的貓頭</chinesetraditional>
+        <japanese>カード番号31（ホログラフィック）の猫の頭を指でなでる</japanese>
+        <russian>Погладьте голову кошки на карте №31 (голографической) пальцем</russian>
+    </text>
+
+    <text value="Pet the cat's head of card #31 with your finger for three seconds">
+        <french>Caresse la tête du chat de la carte n°31 avec ton doigt pendant trois secondes</french>
+        <spanish>Acaricia la cabeza del gato de la carta n.º 31 con tu dedo durante tres segundos</spanish>
+        <portuguese>Acaricie a cabeça do gato da carta #31 com o dedo por três segundos</portuguese>
+        <italian>Carezza la testa del gatto della carta n. {31} con il dito per tre secondi</italian>
+        <german>Streichele den Kopf der Katze auf Karte Nr. 31 mit deinem Finger für drei Sekunden</german>
+        <chinesesimplified>用手指抚摸卡片#31上的猫头，持续三秒钟</chinesesimplified>
+        <chinesetraditional>用手指撫摸卡片#31上的貓頭，持續三秒鐘</chinesetraditional>
+        <japanese>カード番号31の猫の頭を指で3秒間なでる</japanese>
+        <russian>Погладьте голову кошки на карте №31 пальцем в течение трех секунд</russian>
+    </text>
+
+    <text value="Pet the cat's head of card #31 (holographic) with your finger for three seconds">
+        <french>Caresse la tête du chat de la carte n°31 (holographique) avec ton doigt pendant trois secondes</french>
+        <spanish>Acaricia la cabeza del gato de la carta n.º 31 (holográfica) con tu dedo durante tres segundos</spanish>
+        <portuguese>Acaricie a cabeça do gato da carta #31 (holográfica) com o dedo por três segundos</portuguese>
+        <italian>Carezza la testa del gatto della carta n. {31} (olografica) con il dito per tre secondi</italian>
+        <german>Streichele den Kopf der Katze auf Karte Nr. 31 (holografisch) mit deinem Finger für drei Sekunden</german>
+        <chinesesimplified>用手指抚摸卡片#31（全息）上的猫头，持续三秒钟</chinesesimplified>
+        <chinesetraditional>用手指撫摸卡片#31（全息）上的貓頭，持續三秒鐘</chinesetraditional>
+        <japanese>カード番号31（ホログラフィック）の猫の頭を指で3秒間なでる</japanese>
+        <russian>Погладьте голову кошки на карте №31 (голографической) пальцем в течение трех секунд</russian>
+    </text>
+
+    <text value="Series {0}">
+        <french>Série {0}</french>
+        <spanish>Serie {0}</spanish>
+        <portuguese>Série {0}</portuguese>
+        <italian>Serie {0}</italian>
+        <german>Serie {0}</german>
+        <chinesesimplified>{0}系列</chinesesimplified>
+        <chinesetraditional>{0}系列</chinesetraditional>
+        <japanese>{0}シリーズ</japanese>
+        <russian>Серия {0}</russian>
+    </text>
+
+    <text value="Card back">
+        <french>Dos de carte</french>
+        <spanish>Dorso de la carta</spanish>
+        <portuguese>Verso do cartão</portuguese>
+        <italian>Retro della carta</italian>
+        <german>Kartenumkehr</german>
+        <chinesesimplified>卡片背面</chinesesimplified>
+        <chinesetraditional>卡片背面</chinesetraditional>
+        <japanese>裏面</japanese>
+        <russian>Оборот карты</russian>
+    </text>
+
+    <text value="Collect all Series {0} cards">
+        <french>Collectionne toutes les cartes de la série {0}</french>
+        <spanish>Recoge todas las cartas de la serie {0}</spanish>
+        <portuguese>Colete todas as cartas da série {0}</portuguese>
+        <italian>Raccogli tutte le carte della serie {0}</italian>
+        <german>Sammle alle Karten der Serie {0}</german>
+        <chinesesimplified>收集所有{0}系列卡片</chinesesimplified>
+        <chinesetraditional>收集所有{0}系列卡片</chinesetraditional>
+        <japanese>全ての{0}シリーズカードを集める</japanese>
+        <russian>Соберите все карты Серии {0}</russian>
+    </text>
+
+    <text value="Collect all Series {0} holographic cards">
+        <french>Collectionne toutes les cartes holographiques de la série {0}</french>
+        <spanish>Recoge todas las cartas holográficas de la serie {0}</spanish>
+        <portuguese>Colete todas as cartas holográficas da série {0}</portuguese>
+        <italian>Raccogli tutte le carte olografiche della serie {0}</italian>
+        <german>Sammle alle holografischen Karten der Serie {0}</german>
+        <chinesesimplified>收集所有{0}系列全息卡片</chinesesimplified>
+        <chinesetraditional>收集所有{0}系列全息卡片</chinesetraditional>
+        <japanese>全ての{0}シリーズホログラフィックカードを集める</japanese>
+        <russian>Соберите все голографические карты Серии {0}</russian>
+    </text>
+
+    <text value="Reach a score of {0} to unlock the shop">
+        <french>Atteignez un score de {0} pour débloquer la boutique</french>
+        <spanish>Alcanza una puntuación de {0} para desbloquear la tienda</spanish>
+        <portuguese>Atinge uma pontuação de {0} para desbloquear a loja</portuguese>
+        <italian>Raggiungi un punteggio di {0} per sbloccare il negozio</italian>
+        <german>Erreiche einen Punktestand von {0}, um den Shop freizuschalten</german>
+        <chinesesimplified>达到{0}分以解锁商店</chinesesimplified>
+        <chinesetraditional>達到{0}分以解鎖商店</chinesetraditional>
+        <japanese>{0}点以上のスコアを達成してショップを解除</japanese>
+        <russian>Достигните счета {0}, чтобы разблокировать магазин</russian>
+    </text>
+
+    <text value="Reach a score of {0} to unlock the card collection">
+        <french>Atteignez un score de {0} pour débloquer la collection de cartes</french>
+        <spanish>Alcanza una puntuación de {0} para desbloquear la colección de cartas</spanish>
+        <portuguese>Atinge uma pontuação de {0} para desbloquear a coleção de cartas</portuguese>
+        <italian>Raggiungi un punteggio di {0} per sbloccare la collezione di carte</italian>
+        <german>Erreiche einen Punktestand von {0}, um die Kartensammlung freizuschalten</german>
+        <chinesesimplified>达到{0}分以解锁卡片收藏</chinesesimplified>
+        <chinesetraditional>達到{0}分以解鎖卡片收藏</chinesetraditional>
+        <japanese>{0}点以上のスコアを達成してカードコレクションを解除</japanese>
+        <russian>Достигните счета {0}, чтобы разблокировать коллекцию карт</russian>
+    </text>
+
+    <text value="We encourage you to sign in with Google to save your game progress and all collected goods across your devices. This will prevent unwanted loss of data.">
+        <french>Nous vous encourageons à vous connecter avec Google pour sauvegarder votre progression dans le jeu et tous les biens collectés sur tous vos appareils. Cela évitera toute perte de données indésirable.</french>
+        <spanish>Te animamos a iniciar sesión con Google para guardar tu progreso en el juego y todos los objetos coleccionados en todos tus dispositivos. Esto evitará pérdidas no deseadas de datos.</spanish>
+        <portuguese>Recomendamos que inicie sessão com o Google para guardar o seu progresso no jogo e todos os itens coletados em todos os seus dispositivos. Isso evitará perda indesejada de dados.</portuguese>
+        <italian>Vi incoraggiamo a effettuare l'accesso con Google per salvare il progresso di gioco e tutti gli oggetti raccolti su tutti i tuoi dispositivi. Questo impedirà la perdita indesiderata di dati.</italian>
+        <german>Wir empfehlen Ihnen, sich bei Google anzumelden, um Ihren Spielfortschritt und alle gesammelten Güter über all Ihre Geräte hinweg zu speichern. Dadurch wird unerwünschter Datenverlust verhindert.</german>
+        <chinesesimplified>我们鼓励您使用Google登录以在所有设备上保存游戏进度和所有收集的物品。这将防止不必要的数据丢失。</chinesesimplified>
+        <chinesetraditional>我們鼓勵您使用Google登入，以在所有裝置上儲存遊戲進度和所有收集的物品。這將防止不必要的數據遺失。</chinesetraditional>
+        <japanese>ゲームの進行状況とすべての収集したアイテムをデバイス間で保存するために、Googleでサインインすることをお勧めします。これにより、データの不要な損失が防止されます。</japanese>
+        <russian>Мы рекомендуем вам войти через Google, чтобы сохранить прогресс игры и все собранные предметы на всех ваших устройствах. Это поможет избежать нежелательной потери данных.</russian>
+    </text>
+
+    <text value="Sign in with Google to save and synchronize your progress across multiple installs">
+        <french>Connectez-vous avec Google pour sauvegarder et synchroniser votre progression sur plusieurs installations</french>
+        <spanish>Inicia sesión con Google para guardar y sincronizar tu progreso en múltiples instalaciones</spanish>
+        <portuguese>Inicie sessão com o Google para salvar e sincronizar o seu progresso em várias instalações</portuguese>
+        <italian>Accedi con Google per salvare e sincronizzare il tuo progresso su più installazioni</italian>
+        <german>Melden Sie sich mit Google an, um Ihren Fortschritt auf mehreren Installationen zu speichern und zu synchronisieren</german>
+        <chinesesimplified>使用Google登录以在多个安装中保存并同步您的进度</chinesesimplified>
+        <chinesetraditional>使用Google登入以在多個安裝中保存並同步您的進度</chinesetraditional>
+        <japanese>Googleでサインインして、複数のインストール間で進行状況を保存および同期します</japanese>
+        <russian>Войдите через Google, чтобы сохранить и синхронизировать свой прогресс на нескольких установках</russian>
+    </text>
+
+</document>

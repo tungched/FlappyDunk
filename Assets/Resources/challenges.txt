@@ -1,0 +1,2273 @@
+<document>
+    <!-- CHALLENGE 1 -->
+    <challenge>
+        <difficulty value="0"/>
+        <continue value="true"/>
+        <description value="Pass all hoops"/>
+        <saveID value="1"/>
+        <hoop value="static">
+            <height value="1.5"/>
+        </hoop>
+        <hoop value="static">
+            <width value="0.7"/>
+            <height value="-2.5"/>
+            <angle value="20"/>
+        </hoop>
+        <hoop value="static">
+            <width value="0.7"/>
+            <height value="4.5"/>
+            <angle value="-20"/>
+        </hoop>
+        <hoop value="static">
+            <width value="0.7"/>
+            <height value="-4.5"/>
+            <angle value="40"/>
+        </hoop>
+        <hoop value="vertical">
+            <width value="0.7"/>
+            <height value="0"/>
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 2 -->
+    <challenge>
+        <difficulty value="0"/>
+        <continue value="true"/>
+        <saveID value="2"/>
+        <description value="Pass all hoops"/>
+        <hoop value="vertical">
+        </hoop>
+        <hoop value="lateral">
+            <distance value="8"/>
+            <height value="2"/>
+        </hoop>
+        <hoop value="vertical">
+            <distance value="8"/>
+        </hoop>
+        <hoop value="lateral">
+            <distance value="8"/>
+            <height value="-2"/>
+        </hoop>
+        <hoop value="lateral">
+            <distance value="8"/>
+            <height value="-0.5"/>
+            <angle value="60"/>
+        </hoop>
+        <hoop value="vertical">
+            <distance value="8"/>
+            <angle value="60"/>
+        </hoop>
+        <hoop value="lateral">
+            <distance value="8"/>
+            <height value="0.5"/>
+            <angle value="60"/>
+        </hoop>
+        <hoop value="vertical">
+            <distance value="8"/>
+            <height value="2.5"/>
+            <angle value="60"/>
+        </hoop>
+        <hoop value="vertical">
+            <distance value="8"/>
+            <angle value="30"/>
+        </hoop>
+        <hoop value="vertical">
+            <distance value="8"/>
+            <angle value="-10"/>
+        </hoop>
+        <hoop value="lateral">
+            <distance value="8"/>
+            <angle value="-10"/>
+        </hoop>
+        <hoop value="vertical">
+            <distance value="8"/>
+            <angle value="75"/>
+        </hoop>
+        <hoop value="lateral">
+            <distance value="8"/>
+            <angle value="-10"/>
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 3 -->
+    <challenge>
+        <difficulty value="0"/>
+        <continue value="false"/>
+        <saveID value="3"/>
+        <description value="Pass the mad hoop"/>
+        <hoop value="wtf">
+            <distance value="15"/>
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 4 -->
+    <challenge>
+        <difficulty value="0"/>
+        <continue value="true"/>
+        <saveID value="4"/>
+        <description value="Achieve 3 swishes"/>
+        <winSwishes value=">3"/>
+        <hoop value="static">
+            <height value="5"/>
+        </hoop>
+        <hoop value="static">
+            <height value="5"/>
+        </hoop>
+        <hoop value="static">
+            <height value="5"/>
+        </hoop>
+        <hoop value="static">
+            <height value="5"/>
+        </hoop>
+        <hoop value="static">
+            <height value="5"/>
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 5 -->
+    <challenge>
+        <difficulty value="0"/>
+        <continue value="true"/>
+        <saveID value="5"/>
+        <description value="Patience..."/>
+        <scrollSpeed value="1"/>
+        <hoop value="lateral">
+            <width value="0.55"/>
+            <angle value="20"/>
+            <speed value="1"/>
+        </hoop>
+        <hoop value="lateral">
+            <height value="5"/>
+            <width value="0.55"/>
+            <angle value="-10"/>
+            <speed value="1"/>
+            <distance value="6"/>
+        </hoop>
+        <hoop value="vertical">
+            <height value="-2.5"/>
+            <width value="0.55"/>
+            <angle value="30"/>
+            <speed value="2"/>
+            <distance value="6"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-5.5"/>
+            <width value="0.55"/>
+            <angle value="-10"/>
+            <distance value="6"/>
+        </hoop>
+        <hoop value="static">
+            <height value="5.5"/>
+            <width value="0.55"/>
+            <distance value="6"/>
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 6 -->
+    <challenge>
+        <difficulty value="0"/>
+        <continue value="true"/>
+        <saveID value="6"/>
+        <description value="Achieve 3 swishes"/>
+        <winSwishes value=">3"/>
+        <hoop value="static">
+            <height value="1.5"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-1.5"/>
+            <angle value="20"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-1.5"/>
+            <angle value="-20"/>
+        </hoop>
+        <hoop value="vertical">
+            <width value="0.7"/>
+            <height value="0.5"/>
+        </hoop>
+        <hoop value="lateral">
+            <height value="-2.5"/>
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 7 -->
+    <challenge>
+        <difficulty value="0"/>
+        <continue value="true"/>
+        <saveID value="7"/>
+        <description value="Strong wings!"/>
+        <flapForce value="21"/>
+        <hoop value="static">
+            <distance value="7"/>
+        </hoop>
+        <hoop value="static">
+            <height value="3.5"/>
+            <angle value="30"/>
+        </hoop>
+        <hoop value="static">
+            <height value="2"/>
+            <angle value="30"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-5"/>
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 8 -->
+    <challenge>
+        <difficulty value="0"/>
+        <continue value="true"/>
+        <saveID value="8"/>
+        <description value="Achieve 3 swishes"/>
+        <winSwishes value=">3"/>
+        <hoop value="static">
+            <height value="2"/>
+            <angle value="0"/>
+        </hoop>
+        <hoop value="static">
+            <height value="1"/>
+            <angle value="-20"/>
+        </hoop>
+        <hoop value="static">
+            <height value="3"/>
+            <angle value="40"/>
+        </hoop>
+        <hoop value="static">
+            <angle value="-20"/>
+        </hoop>
+        <hoop value="lateral">
+            <height value="1"/>
+            <speed value="1.5"/>
+            <angle value="-10"/>
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 9 -->
+    <challenge>
+        <difficulty value="0"/>
+        <continue value="true"/>
+        <saveID value="9"/>
+        <description value="Achieve EXACTLY 3 swishes"/>
+        <pixel value="true"/>
+        <winSwishes value="=3"/>
+        <hoop value="static">
+        </hoop>
+        <hoop value="static">
+            <height value="3"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-2"/>
+            <angle value="20"/>
+        </hoop>
+        <hoop value="static">
+            <height value="2"/>
+            <angle value="-20"/>
+        </hoop>
+        <hoop value="vertical">
+            <height value="-2"/>
+            <speed value="6"/>
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 10 -->
+    <challenge>
+        <difficulty value="0"/>
+        <continue value="true"/>
+        <saveID value="10"/>
+        <description value="Achieve 3 swishes"/>
+        <winSwishes value=">3"/>
+        <hoop value="static">
+            <height value="-5.5"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-5.5"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-5.5"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-5.5"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-5.5"/>
+        </hoop>
+    </challenge>
+	<!-- CHALLENGE 11 -->
+    <challenge>
+        <difficulty value="0"/>
+        <continue value="true"/>
+        <description value="Face the hoops!"/>
+        <saveID value="sucette facile"/>
+        <hoop value="static">
+            <height value="1.5"/>
+            <angle value="90"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-2.5"/>
+            <angle value="90"/>
+        </hoop>
+        <hoop value="static">
+            <height value="4.5"/>
+            <angle value="90"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-4.5"/>
+            <angle value="90"/>
+        </hoop>
+        <hoop value="static">
+            <height value="0"/>
+            <angle value="90"/>
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 12 -->
+    <challenge>
+        <difficulty value="0"/>
+        <continue value="true"/>
+        <saveID value="Potatoes 3"/>
+        <description value="Slide!"/>
+        <hoop value="static">
+            <distance value="8.4"/>
+            <angle value="20"/>
+            <height value="4"/>
+        </hoop>
+        <hoop value="static">
+            <distance value="1"/>
+            <angle value="20"/>
+            <height value="3"/>
+        </hoop>
+        <hoop value="static">
+            <distance value="1"/>
+            <angle value="20"/>
+            <height value="2"/>
+        </hoop>
+        <hoop value="static">
+            <distance value="1"/>
+            <angle value="20"/>
+            <height value="1"/>
+        </hoop>
+        <hoop value="static">
+            <distance value="1"/>
+            <angle value="20"/>
+            <height value="0"/>
+        </hoop>
+        <hoop value="static">
+            <distance value="1"/>
+            <angle value="20"/>
+            <height value="-1"/>
+        </hoop>
+        <hoop value="static">
+            <distance value="1"/>
+            <angle value="20"/>
+            <height value="-2"/>
+        </hoop>
+        <hoop value="static">
+            <distance value="1"/>
+            <angle value="20"/>
+            <height value="-3"/>
+        </hoop>
+        <hoop value="static">
+            <distance value="1"/>
+            <angle value="20"/>
+            <height value="-4"/>
+        </hoop>
+        <hoop value="static">
+            <distance value="8.0"/>
+            <angle value="20"/>
+            <height value="4"/>
+        </hoop>
+        <hoop value="static">
+            <distance value="1"/>
+            <angle value="20"/>
+            <height value="3"/>
+        </hoop>
+        <hoop value="static">
+            <distance value="1"/>
+            <angle value="20"/>
+            <height value="2"/>
+        </hoop>
+        <hoop value="static">
+            <distance value="1"/>
+            <angle value="20"/>
+            <height value="1"/>
+        </hoop>
+        <hoop value="static">
+            <distance value="1"/>
+            <angle value="20"/>
+            <height value="0"/>
+        </hoop>
+        <hoop value="static">
+            <distance value="1"/>
+            <angle value="20"/>
+            <height value="-1"/>
+        </hoop>
+        <hoop value="static">
+            <distance value="1"/>
+            <angle value="20"/>
+            <height value="-2"/>
+        </hoop>
+        <hoop value="static">
+            <distance value="1"/>
+            <angle value="20"/>
+            <height value="-3"/>
+        </hoop>
+        <hoop value="static">
+            <distance value="1"/>
+            <angle value="20"/>
+            <height value="-4"/>
+        </hoop>
+        <hoop value="static">
+            <distance value="7.2"/>
+            <angle value="20"/>
+            <height value="4"/>
+        </hoop>
+        <hoop value="static">
+            <distance value="1"/>
+            <angle value="20"/>
+            <height value="3"/>
+        </hoop>
+        <hoop value="static">
+            <distance value="1"/>
+            <angle value="20"/>
+            <height value="2"/>
+        </hoop>
+        <hoop value="static">
+            <distance value="1"/>
+            <angle value="20"/>
+            <height value="1"/>
+        </hoop>
+        <hoop value="static">
+            <distance value="1"/>
+            <angle value="20"/>
+            <height value="0"/>
+        </hoop>
+        <hoop value="static">
+            <distance value="1"/>
+            <angle value="20"/>
+            <height value="-1"/>
+        </hoop>
+        <hoop value="static">
+            <distance value="1"/>
+            <angle value="20"/>
+            <height value="-2"/>
+        </hoop>
+        <hoop value="static">
+            <distance value="1"/>
+            <angle value="20"/>
+            <height value="-3"/>
+        </hoop>
+        <hoop value="static">
+            <distance value="1"/>
+            <angle value="20"/>
+            <height value="-4"/>
+        </hoop>
+        <hoop value="static">
+            <distance value="6.9"/>
+            <angle value="20"/>
+            <height value="4"/>
+        </hoop>
+        <hoop value="static">
+            <distance value="1"/>
+            <angle value="20"/>
+            <height value="3"/>
+        </hoop>
+        <hoop value="static">
+            <distance value="1"/>
+            <angle value="20"/>
+            <height value="2"/>
+        </hoop>
+        <hoop value="static">
+            <distance value="1"/>
+            <angle value="20"/>
+            <height value="1"/>
+        </hoop>
+        <hoop value="static">
+            <distance value="1"/>
+            <angle value="20"/>
+            <height value="0"/>
+        </hoop>
+        <hoop value="static">
+            <distance value="1"/>
+            <angle value="20"/>
+            <height value="-1"/>
+        </hoop>
+        <hoop value="static">
+            <distance value="1"/>
+            <angle value="20"/>
+            <height value="-2"/>
+        </hoop>
+        <hoop value="static">
+            <distance value="1"/>
+            <angle value="20"/>
+            <height value="-3"/>
+        </hoop>
+        <hoop value="static">
+            <distance value="1"/>
+            <angle value="20"/>
+            <height value="-4"/>
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 13 -->
+    <challenge>
+        <difficulty value="0"/>
+        <continue value="true"/>
+        <saveID value="Potatoes 6"/>
+        <description value="Rollercoaster"/>
+        <gravity value="-25"/>
+        <scrollSpeed value="2.5"/>
+        <flapForce value="10"/>
+        <hoop value="static">
+            <height value="6"/>
+            <distance value="8"/>
+            <angle value="80"/>
+            <width value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="4"/>
+            <distance value="2"/>
+            <angle value="40"/>
+            <width value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="2"/>
+            <distance value="1"/>
+            <angle value="0"/>
+            <width value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="0"/>
+            <distance value="1"/>
+            <angle value="0"/>
+            <width value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-2"/>
+            <distance value="1"/>
+            <angle value="0"/>
+            <width value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-4"/>
+            <distance value="1"/>
+            <angle value="40"/>
+            <width value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-6"/>
+            <distance value="2"/>
+            <angle value="80"/>
+            <width value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-6"/>
+            <distance value="2.5"/>
+            <angle value="100"/>
+            <width value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-4"/>
+            <distance value="2"/>
+            <angle value="140"/>
+            <width value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-2"/>
+            <distance value="1"/>
+            <angle value="180"/>
+            <width value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="0"/>
+            <distance value="1"/>
+            <angle value="180"/>
+            <width value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="2"/>
+            <distance value="1"/>
+            <angle value="180"/>
+            <width value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="4"/>
+            <distance value="1"/>
+            <angle value="140"/>
+            <width value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="6"/>
+            <distance value="2"/>
+            <angle value="100"/>
+            <width value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="6"/>
+            <distance value="2.5"/>
+            <angle value="80"/>
+            <width value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="4"/>
+            <distance value="2"/>
+            <angle value="40"/>
+            <width value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="2"/>
+            <distance value="1"/>
+            <angle value="0"/>
+            <width value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="0"/>
+            <distance value="1"/>
+            <angle value="0"/>
+            <width value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-2"/>
+            <distance value="1"/>
+            <angle value="0"/>
+            <width value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-4"/>
+            <distance value="1"/>
+            <angle value="40"/>
+            <width value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-6"/>
+            <distance value="2"/>
+            <angle value="80"/>
+            <width value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-6"/>
+            <distance value="2.5"/>
+            <angle value="100"/>
+            <width value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-4"/>
+            <distance value="2"/>
+            <angle value="140"/>
+            <width value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-2"/>
+            <distance value="1"/>
+            <angle value="180"/>
+            <width value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="0"/>
+            <distance value="1"/>
+            <angle value="180"/>
+            <width value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="2"/>
+            <distance value="1"/>
+            <angle value="180"/>
+            <width value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="4"/>
+            <distance value="1"/>
+            <angle value="140"/>
+            <width value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="6"/>
+            <distance value="2"/>
+            <angle value="100"/>
+            <width value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="6"/>
+            <distance value="2.5"/>
+            <angle value="80"/>
+            <width value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="4"/>
+            <distance value="2"/>
+            <angle value="40"/>
+            <width value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="2"/>
+            <distance value="1"/>
+            <angle value="0"/>
+            <width value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="0"/>
+            <distance value="1"/>
+            <angle value="0"/>
+            <width value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-2"/>
+            <distance value="1"/>
+            <angle value="0"/>
+            <width value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-4"/>
+            <distance value="1"/>
+            <angle value="40"/>
+            <width value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-6"/>
+            <distance value="2"/>
+            <angle value="80"/>
+            <width value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-6"/>
+            <distance value="2.5"/>
+            <angle value="100"/>
+            <width value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-4"/>
+            <distance value="2"/>
+            <angle value="140"/>
+            <width value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-2"/>
+            <distance value="1"/>
+            <angle value="180"/>
+            <width value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="0"/>
+            <distance value="1"/>
+            <angle value="180"/>
+            <width value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="2"/>
+            <distance value="1"/>
+            <angle value="180"/>
+            <width value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="4"/>
+            <distance value="1"/>
+            <angle value="140"/>
+            <width value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="6"/>
+            <distance value="2"/>
+            <angle value="100"/>
+            <width value="1"/>
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 14 -->
+    <challenge>
+        <difficulty value="0"/>
+        <continue value="true"/>
+        <saveID value="sucette au sucre"/>
+        <description value="Tight level!"/>
+        <narrow value="true"/>
+        <hoop value="static">
+            <height value="-1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-1"/>
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 15 -->
+    <challenge>
+        <difficulty value="0"/>
+        <continue value="true"/>
+        <saveID value="Potatoes 2"/>
+        <description value="Patience..."/>
+        <scrollSpeed value="1.5"/>
+        <hoop value="lateral">
+            <distance value="6"/>
+            <height value="-1"/>
+            <angle value="39"/>
+        </hoop>
+        <hoop value="lateral">
+            <distance value="6"/>
+            <height value="-1"/>
+            <angle value="-39"/>
+        </hoop>
+        <hoop value="lateral">
+            <distance value="6"/>
+            <height value="-1"/>
+            <angle value="39"/>
+        </hoop>
+        <hoop value="lateral">
+            <distance value="6"/>
+            <height value="1"/>
+            <angle value="-39"/>
+        </hoop>
+        <hoop value="lateral">
+            <distance value="6"/>
+            <height value="1"/>
+            <angle value="39"/>
+        </hoop>
+        <hoop value="lateral">
+            <distance value="6"/>
+            <height value="1"/>
+            <angle value="-39"/>
+        </hoop>
+        <hoop value="lateral">
+            <distance value="6"/>
+            <height value="-1"/>
+            <angle value="39"/>
+        </hoop>
+        <hoop value="lateral">
+            <distance value="6"/>
+            <height value="-1"/>
+            <angle value="-39"/>
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 16 -->
+    <challenge>
+        <difficulty value="0"/>
+        <continue value="true"/>
+        <saveID value="sophie3"/>
+        <description value="Pass all hoops"/>
+        <hoop value="static">
+            <height value="-4"/>
+            <angle value="0"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-2"/>
+            <distance value="4"/>
+            <angle value="45"/>
+        </hoop>
+        <hoop value="static">
+            <height value="0"/>
+            <distance value="4"/>
+            <angle value="90"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-4"/>
+            <distance value="5"/>
+            <angle value="0"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-2"/>
+            <distance value="4"/>
+            <angle value="45"/>
+        </hoop>
+        <hoop value="static">
+            <height value="0"/>
+            <distance value="4"/>
+            <angle value="90"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-4"/>
+            <distance value="5"/>
+            <angle value="0"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-2"/>
+            <distance value="4"/>
+            <angle value="45"/>
+        </hoop>
+        <hoop value="static">
+            <height value="0"/>
+            <distance value="4"/>
+            <angle value="90"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-4"/>
+            <distance value="5"/>
+            <angle value="0"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-2"/>
+            <distance value="4"/>
+            <angle value="45"/>
+        </hoop>
+        <hoop value="static">
+            <height value="0"/>
+            <distance value="4"/>
+            <angle value="90"/>
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 17 -->
+    <challenge>
+        <difficulty value="0"/>
+        <continue value="true"/>
+        <saveID value="sucette au liquide"/>
+        <description value="Swishes only!"/>
+        <winSwishes value="=4"/>
+        <hoop value="vertical">
+            <speed value="1.5"/>
+            <width value="0.92"/>
+        </hoop>
+        <hoop value="vertical">
+            <speed value="1.5"/>
+            <height value="2"/>
+            <width value="0.9"/>
+        </hoop>
+        <hoop value="vertical">
+            <speed value="1.5"/>
+            <height value="-5"/>
+            <width value="0.92"/>
+        </hoop>
+        <hoop value="vertical">
+            <speed value="1.5"/>
+            <height value="-3"/>
+            <width value="0.92"/>
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 18 -->
+    <challenge>
+        <difficulty value="1"/>
+        <continue value="true"/>
+        <saveID value="11"/>
+        <description value="Achieve 3 swishes"/>
+        <winSwishes value=">3"/>
+        <hoop value="static">
+            <height value="-2"/>
+            <width value="0.65"/>
+        </hoop>
+        <hoop value="static">
+            <height value="1"/>
+            <width value="0.65"/>
+        </hoop>
+        <hoop value="static">
+            <height value="3"/>
+            <width value="0.65"/>
+        </hoop>
+        <hoop value="static">
+            <width value="0.65"/>
+            <angle value="20"/>
+        </hoop>
+        <hoop value="vertical">
+            <height value="-3.5"/>
+            <speed value="3"/>
+            <width value="0.65"/>
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 19 -->
+    <challenge>
+        <difficulty value="1"/>
+        <continue value="true"/>
+        <saveID value="12"/>
+        <description value="Pass all hoops"/>
+        <hoop value="static">
+        </hoop>
+        <hoop value="static">
+            <distance value="4"/>
+        </hoop>
+        <hoop value="static">
+            <distance value="4"/>
+        </hoop>
+        <hoop value="static">
+            <distance value="4"/>
+        </hoop>
+        <hoop value="static">
+            <distance value="4"/>
+        </hoop>
+        <hoop value="static">
+            <height value="4"/>
+        </hoop>
+        <hoop value="static">
+            <height value="4"/>
+            <distance value="4"/>
+        </hoop>
+        <hoop value="static">
+            <height value="4"/>
+            <distance value="4"/>
+        </hoop>
+        <hoop value="static">
+            <height value="4"/>
+            <distance value="4"/>
+        </hoop>
+        <hoop value="static">
+            <height value="4"/>
+            <distance value="4"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-4"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-4"/>
+            <distance value="4"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-4"/>
+            <distance value="4"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-4"/>
+            <distance value="4"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-4"/>
+            <distance value="4"/>
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 20 -->
+    <challenge>
+        <difficulty value="1"/>
+        <continue value="true"/>
+        <saveID value="13"/>
+        <description value="Heavy gravity!"/>
+        <gravity value="-80"/>
+        <hoop value="static">
+            <height value="3.5"/>
+        </hoop>
+        <hoop value="static">
+            <height value="1.5"/>
+            <distance value="10"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-0.5"/>
+            <distance value="10"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-2.5"/>
+            <distance value="10"/>
+        </hoop>
+        <hoop value="static">
+            <width value="0.7"/>
+            <height value="4.5"/>
+            <angle value="10"/>
+            <distance value="10"/>
+        </hoop>
+        <hoop value="static">
+            <width value="0.7"/>
+            <height value="1.5"/>
+            <angle value="-10"/>
+            <distance value="10"/>
+        </hoop>
+        <hoop value="static">
+            <width value="0.7"/>
+            <height value="-1.5"/>
+            <angle value="20"/>
+            <distance value="10"/>
+        </hoop>
+        <hoop value="static">
+            <width value="0.7"/>
+            <height value="-4.5"/>
+            <angle value="-20"/>
+            <distance value="10"/>
+        </hoop>
+        <hoop value="static">
+            <height value="0.5"/>
+            <angle value="-30"/>
+            <distance value="10"/>
+        </hoop>
+        <hoop value="vertical">
+            <distance value="10"/>
+        </hoop>
+        <hoop value="vertical">
+            <distance value="10"/>
+        </hoop>
+        <hoop value="vertical">
+            <distance value="10"/>
+        </hoop>
+        <hoop value="lateral">
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 21 -->
+    <challenge>
+        <difficulty value="1"/>
+        <continue value="true"/>
+        <saveID value="14"/>
+        <description value="Achieve 3 swishes"/>
+        <winSwishes value=">3"/>
+        <hoop value="vertical">
+            <height value="2"/>
+            <width value="0.7"/>
+            <angle value="10"/>
+        </hoop>
+        <hoop value="lateral">
+            <height value="-2"/>
+            <width value="0.7"/>
+            <angle value="-10"/>
+        </hoop>
+        <hoop value="vertical">
+            <height value="-4"/>
+            <width value="0.7"/>
+            <angle value="20"/>
+        </hoop>
+        <hoop value="lateral">
+            <height value="-3"/>
+            <width value="0.7"/>
+            <angle value="30"/>
+        </hoop>
+        <hoop value="vertical">
+            <height value="2.5"/>
+            <width value="0.7"/>
+            <angle value="-10"/>
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 22 -->
+    <challenge>
+        <difficulty value="1"/>
+        <continue value="true"/>
+        <saveID value="15"/>
+        <description value="Achieve 5 swishes"/>
+        <winSwishes value=">5"/>
+        <mirror value="both"/>
+        <hoop value="static">
+        </hoop>
+        <hoop value="static">
+            <height value="4"/>
+            <angle value="20"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-1"/>
+            <angle value="-10"/>
+        </hoop>
+        <hoop value="static">
+            <height value="2"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-2"/>
+        </hoop>
+        <hoop value="vertical">
+        </hoop>
+        <hoop value="vertical">
+            <height value="-3"/>
+        </hoop>
+        <hoop value="lateral">
+            <height value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="5.5"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-1"/>
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 23 -->
+    <challenge>
+        <difficulty value="1"/>
+        <continue value="true"/>
+        <saveID value="16"/>
+        <description value="Speed up!"/>
+        <scrollSpeed value="7"/>
+        <gravity value="-120"/>
+        <flapForce value="25"/>
+        <hoop value="static">
+            <height value="4"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-3.5"/>
+            <angle value="10"/>
+        </hoop>
+        <hoop value="static">
+            <height value="0"/>
+            <angle value="10"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-3.5"/>
+            <angle value="10"/>
+        </hoop>
+        <hoop value="static">
+            <height value="4"/>
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 24 -->
+    <challenge>
+        <difficulty value="1"/>
+        <continue value="true"/>
+        <saveID value="17"/>
+        <description value="Achieve EXACTLY 6 swishes"/>
+        <winSwishes value="=6"/>
+        <hoop value="static">
+            <height value="5"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-5"/>
+        </hoop>
+        <hoop value="static">
+            <height value="5"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-5"/>
+        </hoop>
+        <hoop value="static">
+            <height value="5"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-5"/>
+        </hoop>
+        <hoop value="static">
+            <height value="5"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-5"/>
+        </hoop>
+        <hoop value="static">
+            <height value="5"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-5"/>
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 25 -->
+    <challenge>
+        <difficulty value="1"/>
+        <continue value="true"/>
+        <saveID value="18"/>
+        <description value="Pass all hoops"/>
+        <hoop value="lateral">
+            <height value="4"/>
+            <speed value="3.2"/>
+        </hoop>
+        <hoop value="lateral">
+            <height value="2"/>
+            <speed value="3.2"/>
+        </hoop>
+        <hoop value="lateral">
+            <height value="-2"/>
+            <speed value="3.2"/>
+        </hoop>
+        <hoop value="lateral">
+            <height value="-4"/>
+            <speed value="3.2"/>
+            <angle value="10"/>
+        </hoop>
+        <hoop value="lateral">
+            <speed value="3.2"/>
+            <angle value="40"/>
+        </hoop>
+        <hoop value="lateral">
+            <height value="-2"/>
+            <speed value="3.2"/>
+            <angle value="-10"/>
+        </hoop>
+        <hoop value="lateral">
+            <height value="5.5"/>
+            <speed value="3.2"/>
+        </hoop>
+        <hoop value="lateral">
+            <height value="4"/>
+            <speed value="3.2"/>
+            <angle value="40"/>
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 26 -->
+    <challenge>
+        <difficulty value="1"/>
+        <continue value="true"/>
+        <saveID value="19"/>
+        <description value="Don't rush in..."/>
+        <scrollSpeed value="14"/>
+        <hoop value="static">
+            <height value="1.5"/>
+            <angle value="90"/>
+            <distance value="8"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-1.5"/>
+            <angle value="90"/>
+            <distance value="10"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-3.5"/>
+            <angle value="90"/>
+            <distance value="10"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-1.5"/>
+            <angle value="90"/>
+            <distance value="10"/>
+        </hoop>
+        <hoop value="static">
+            <height value="0.5"/>
+            <angle value="90"/>
+            <distance value="10"/>
+        </hoop>
+        <hoop value="static">
+            <height value="2.5"/>
+            <angle value="75"/>
+            <distance value="10"/>
+        </hoop>
+        <hoop value="lateral">
+            <height value="0.5"/>
+            <angle value="90"/>
+            <distance value="10"/>
+        </hoop>
+        <hoop value="lateral">
+            <height value="0.5"/>
+            <angle value="90"/>
+            <distance value="10"/>
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 27 -->
+    <challenge>
+        <difficulty value="1"/>
+        <continue value="true"/>
+        <saveID value="20"/>
+        <description value="Negative gravity!"/>
+        <gravity value="33"/>
+        <flapForce value="-12"/>
+        <hoop value="static">
+        </hoop>
+        <hoop value="static">
+            <height value="3"/>
+        </hoop>
+        <hoop value="static">
+            <height value="2"/>
+        </hoop>
+        <hoop value="static">
+            <height value="3.5"/>
+            <angle value="10"/>
+        </hoop>
+        <hoop value="lateral">
+            <height value="-2"/>
+            <speed value="3"/>
+        </hoop>
+        <hoop value="lateral">
+            <height value="3"/>
+            <speed value="3"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-4.5"/>
+        </hoop>
+        <hoop value="static">
+            <height value="3"/>
+            <angle value="10"/>
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 28 -->
+    <challenge>
+        <difficulty value="1"/>
+        <continue value="true"/>
+        <saveID value="sophie4"/>
+        <description value="Pass all hoops"/>
+        <hoop value="static">
+            <height value="2"/>
+            <width value="0.6"/>
+        </hoop>
+        <hoop value="static">
+            <height value="4.5"/>
+            <width value="0.6"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-3"/>
+            <width value="0.6"/>
+        </hoop>
+        <hoop value="lateral">
+            <height value="-2.5"/>
+            <width value="0.6"/>
+            <angle value="40"/>
+        </hoop>
+        <hoop value="static">
+            <height value="1"/>
+            <width value="0.6"/>
+            <angle value="30"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-1"/>
+            <width value="0.6"/>
+            <angle value="-30"/>
+        </hoop>
+        <hoop value="vertical">
+            <height value="3.5"/>
+            <width value="0.6"/>
+            <angle value="-10"/>
+        </hoop>
+        <hoop value="static">
+            <height value="0"/>
+            <width value="0.6"/>
+            <angle value="0"/>
+        </hoop>
+        <hoop value="lateral">
+            <height value="-4"/>
+            <width value="0.6"/>
+            <angle value="30"/>
+        </hoop>
+        <hoop value="vertical">
+            <height value="3.5"/>
+            <width value="0.6"/>
+            <angle value="-10"/>
+        </hoop>
+        <hoop value="static">
+            <height value="0"/>
+            <width value="0.6"/>
+            <angle value="0"/>
+        </hoop>
+        <hoop value="lateral">
+            <height value="-4"/>
+            <width value="0.6"/>
+            <angle value="30"/>
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 29 -->
+    <challenge>
+        <difficulty value="1"/>
+        <continue value="true"/>
+        <saveID value="Potatoes 4"/>
+        <description value="Step by step"/>
+        <scrollSpeed value="1"/>
+        <finishDistance value="15"/>
+        <hoop value="lateral">
+            <height value="-5"/>
+            <distance value="15"/>
+            <bound value="12"/>
+            <speed value="4"/>
+        </hoop>
+        <hoop value="lateral">
+            <height value="-3"/>
+            <distance value="3"/>
+            <bound value="12"/>
+            <speed value="4"/>
+        </hoop>
+        <hoop value="lateral">
+            <height value="-1"/>
+            <distance value="3"/>
+            <bound value="12"/>
+            <speed value="4"/>
+        </hoop>
+        <hoop value="lateral">
+            <height value="1"/>
+            <distance value="3"/>
+            <bound value="12"/>
+            <speed value="4"/>
+        </hoop>
+        <hoop value="lateral">
+            <height value="3"/>
+            <distance value="3"/>
+            <bound value="12"/>
+            <speed value="4"/>
+        </hoop>
+        <hoop value="lateral">
+            <height value="5"/>
+            <distance value="3"/>
+            <bound value="12"/>
+            <speed value="4"/>
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 30 -->
+    <challenge>
+        <difficulty value="1"/>
+        <continue value="false"/>
+        <saveID value="Potatoes 5"/>
+        <description value="Don't miss the train..."/>
+        <flapForce value="18"/>
+        <finishDistance value="30"/>
+        <hoop value="lateral">
+            <distance value="33"/>
+            <bound value="25"/>
+            <speed value="10"/>
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 31 -->
+    <challenge>
+        <difficulty value="1"/>
+        <continue value="true"/>
+        <description value="Pass all hoops"/>
+        <saveID value="Potatoes 1"/>
+        <hoop value="static">
+            <angle value="-41"/>
+            <distance value="7.5"/>
+        </hoop>
+        <hoop value="static">
+            <angle value="41"/>
+            <distance value="4.5"/>
+        </hoop>
+        <hoop value="static">
+            <angle value="-41"/>
+            <distance value="4.5"/>
+        </hoop>
+        <hoop value="static">
+            <angle value="41"/>
+            <distance value="4.5"/>
+        </hoop>
+        <hoop value="static">
+            <angle value="-41"/>
+            <distance value="4.5"/>
+        </hoop>
+        <hoop value="static">
+            <angle value="41"/>
+            <distance value="4.5"/>
+        </hoop>
+        <hoop value="static">
+            <angle value="-41"/>
+            <distance value="4.5"/>
+        </hoop>
+        <hoop value="static">
+            <angle value="41"/>
+            <distance value="4.5"/>
+        </hoop>
+        <hoop value="static">
+            <angle value="-41"/>
+            <distance value="4.5"/>
+        </hoop>
+        <hoop value="static">
+            <angle value="41"/>
+            <distance value="4.5"/>
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 32 -->
+    <challenge>
+        <difficulty value="1"/>
+        <continue value="true"/>
+        <description value="Don't touch the hoop sides!"/>
+        <saveID value="sucette à la noix"/>
+        <gravity value="-80"/>
+        <winSwishes value="=8"/>
+        <hoop value="static">
+            <height value="1.5"/>
+            <angle value="90"/>
+            <width value="1.3"/>
+            <distance value="8"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-1.5"/>
+            <angle value="90"/>
+            <width value="1.3"/>
+            <distance value="10"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-3.5"/>
+            <angle value="90"/>
+            <width value="1.3"/>
+            <distance value="10"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-1.5"/>
+            <angle value="90"/>
+            <width value="1.3"/>
+            <distance value="10"/>
+        </hoop>
+        <hoop value="static">
+            <height value="0.5"/>
+            <angle value="90"/>
+            <width value="1.3"/>
+            <distance value="10"/>
+        </hoop>
+        <hoop value="static">
+            <height value="2.5"/>
+            <angle value="90"/>
+            <width value="1.3"/>
+            <distance value="10"/>
+        </hoop>
+        <hoop value="lateral">
+            <height value="0.5"/>
+            <angle value="90"/>
+            <width value="1.3"/>
+            <distance value="10"/>
+        </hoop>
+        <hoop value="lateral">
+            <height value="0.5"/>
+            <angle value="90"/>
+            <width value="1.3"/>
+            <distance value="10"/>
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 33 -->
+    <challenge>
+        <difficulty value="1"/>
+        <continue value="false"/>
+        <description value="Pass the hoop"/>
+        <saveID value="Sucette au caca"/>
+        <scrollSpeed value="10"/>
+        <gravity value="-120"/>
+        <flapForce value="28"/>
+        <hoop value="vertical">
+            <distance value="15"/>
+            <width value="0.5"/>
+            <height value="0"/>
+            <speed value="5"/>
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 34 -->
+    <challenge>
+        <difficulty value="1"/>
+        <continue value="true"/>
+        <description value="Pass all moving hoops"/>
+        <saveID value="Sucette au pipi"/>
+        <hoop value="vertical">
+            <distance value="6"/>
+            <width value="0.7"/>
+            <height value="0"/>
+            <speed value="3"/>
+        </hoop>
+        <hoop value="vertical">
+            <distance value="4"/>
+            <width value="0.7"/>
+            <height value="0"/>
+            <speed value="3"/>
+        </hoop>
+        <hoop value="vertical">
+            <distance value="4"/>
+            <width value="0.7"/>
+            <height value="0"/>
+            <speed value="3"/>
+        </hoop>
+        <hoop value="vertical">
+            <distance value="4"/>
+            <width value="0.7"/>
+            <height value="0"/>
+            <speed value="3"/>
+        </hoop>
+        <hoop value="vertical">
+            <distance value="4"/>
+            <width value="0.7"/>
+            <height value="0"/>
+            <speed value="3"/>
+        </hoop>
+        <hoop value="vertical">
+            <distance value="4"/>
+            <width value="0.7"/>
+            <height value="0"/>
+            <speed value="3"/>
+        </hoop>
+        <hoop value="vertical">
+            <distance value="4"/>
+            <width value="0.7"/>
+            <height value="0"/>
+            <speed value="3"/>
+        </hoop>
+        <hoop value="vertical">
+            <distance value="4"/>
+            <width value="0.7"/>
+            <height value="0"/>
+            <speed value="3"/>
+        </hoop>
+        <hoop value="vertical">
+            <distance value="4"/>
+            <width value="0.7"/>
+            <height value="0"/>
+            <speed value="3"/>
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 35 -->
+    <challenge>
+        <difficulty value="2"/>
+        <continue value="true"/>
+        <saveID value="21"/>
+        <description value="Achieve 4 swishes"/>
+        <winSwishes value=">4"/>
+        <narrow value="true"/>
+        <hoop value="static">
+        </hoop>
+        <hoop value="static">
+            <height value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="1.1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-1.2"/>
+        </hoop>
+        <hoop value="static">
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 36 -->
+    <challenge>
+        <difficulty value="2"/>
+        <continue value="false"/>
+        <saveID value="22"/>
+        <description value="Achieve 1 swish"/>
+        <winSwishes value="=1"/>
+        <hoop value="lateral">
+            <width value="0.7"/>
+            <angle value="-20"/>
+            <speed value="2.5"/>
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 37 -->
+    <challenge>
+        <difficulty value="2"/>
+        <continue value="false"/>
+        <saveID value="23"/>
+        <description value="Swish the mad hoop!"/>
+        <winSwishes value="=1"/>
+        <hoop value="wtf">
+            <distance value="15"/>
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 38 -->
+    <challenge>
+        <difficulty value="2"/>
+        <continue value="true"/>
+        <saveID value="24"/>
+        <description value="Low gravity!"/>
+        <gravity value="-20"/>
+        <hoop value="static">
+        </hoop>
+        <hoop value="static">
+            <height value="-2.5"/>
+        </hoop>
+        <hoop value="static">
+            <width value="0.7"/>
+            <height value="4.5"/>
+        </hoop>
+        <hoop value="static">
+            <height value="0.5"/>
+            <angle value="-20"/>
+        </hoop>
+        <hoop value="static">
+            <width value="0.7"/>
+            <height value="2"/>
+            <angle value="20"/>
+            <distance value="12"/>
+        </hoop>
+        <hoop value="vertical">
+            <height value="-2"/>
+        </hoop>
+        <hoop value="lateral">
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 39 -->
+    <challenge>
+        <difficulty value="2"/>
+        <continue value="true"/>
+        <saveID value="25"/>
+        <description value="No swishes!"/>
+        <winSwishes value="=0"/>
+        <hoop value="vertical">
+            <height value="-0.5"/>
+        </hoop>
+        <hoop value="lateral">
+            <height value="2"/>
+        </hoop>
+        <hoop value="static">
+            <height value="1.5"/>
+        </hoop>
+        <hoop value="static">
+            <angle value="10"/>
+            <height value="0.5"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-2.5"/>
+            <distance value="12"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-4"/>
+            <distance value="2"/>
+        </hoop>
+        <hoop value="vertical">
+            <height value="4.5"/>
+            <width value="0.9"/>
+        </hoop>
+        <hoop value="vertical">
+            <height value="1.5"/>
+            <angle value="5"/>
+            <width value="0.9"/>
+        </hoop>
+        <hoop value="static">
+            <height value="5"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-2"/>
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 40 -->
+    <challenge>
+        <difficulty value="2"/>
+        <continue value="true"/>
+        <saveID value="26"/>
+        <description value="Swishes only!"/>
+        <winSwishes value="=8"/>
+        <hoop value="static">
+        </hoop>
+        <hoop value="static">
+            <height value="1.5"/>
+        </hoop>
+        <hoop value="static">
+            <height value="4.5"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-0.5"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-2.5"/>
+        </hoop>
+        <hoop value="static">
+            <height value="0.5"/>
+            <angle value="10"/>
+        </hoop>
+        <hoop value="vertical">
+            <height value="0.5"/>
+        </hoop>
+        <hoop value="vertical">
+            <height value="-1.5"/>
+            <angle value="10"/>
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 41 -->
+    <challenge>
+        <difficulty value="2"/>
+        <continue value="false"/>
+        <saveID value="27"/>
+        <description value="Don't rush in... and do only swishes!"/>
+        <scrollSpeed value="12"/>
+        <winSwishes value="=12"/>
+        <hoop value="static">
+            <height value="1"/>
+            <width value="1.2"/>
+            <angle value="90"/>
+            <distance value="4"/>
+        </hoop>
+        <hoop value="static">
+            <height value="1.5"/>
+            <width value="1.2"/>
+            <angle value="90"/>
+            <distance value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="1.5"/>
+            <width value="1.2"/>
+            <angle value="90"/>
+            <distance value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="1"/>
+            <width value="1.2"/>
+            <angle value="90"/>
+            <distance value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-2"/>
+            <width value="1.2"/>
+            <angle value="90"/>
+            <distance value="8"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-1.5"/>
+            <width value="1.2"/>
+            <angle value="90"/>
+            <distance value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-1.5"/>
+            <width value="1.2"/>
+            <angle value="90"/>
+            <distance value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-2"/>
+            <width value="1.2"/>
+            <angle value="90"/>
+            <distance value="1"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-5"/>
+            <width value="1.2"/>
+            <angle value="90"/>
+            <distance value="8"/>
+        </hoop>
+        <hoop value="static">
+            <width value="1"/>
+            <angle value="90"/>
+            <distance value="12"/>
+        </hoop>
+        <hoop value="static">
+            <height value="3"/>
+            <width value="1"/>
+            <angle value="90"/>
+            <distance value="12"/>
+        </hoop>
+        <hoop value="lateral">
+            <height value="-1"/>
+            <width value="1"/>
+            <angle value="90"/>
+            <distance value="12"/>
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 42 -->
+    <challenge>
+        <difficulty value="2"/>
+        <continue value="true"/>
+        <saveID value="28"/>
+        <description value="Mad ball"/>
+        <scrollSpeed value="7.7"/>
+        <flapForce value="18"/>
+        <hoop value="static">
+        </hoop>
+        <hoop value="static">
+            <height value="-2"/>
+            <angle value="20"/>
+            <distance value="12"/>
+        </hoop>
+        <hoop value="static">
+            <height value="3"/>
+            <angle value="10"/>
+            <distance value="12"/>
+        </hoop>
+        <hoop value="static">
+            <height value="2.5"/>
+            <angle value="40"/>
+            <distance value="12"/>
+        </hoop>
+        <hoop value="lateral">
+            <height value="1"/>
+            <angle value="90"/>
+            <distance value="12"/>
+        </hoop>
+        <hoop value="lateral">
+            <height value="-0.5"/>
+            <angle value="40"/>
+            <distance value="12"/>
+        </hoop>
+        <hoop value="static">
+            <height value="2.5"/>
+            <angle value="20"/>
+            <distance value="12"/>
+        </hoop>
+        <hoop value="static">
+            <height value="0.5"/>
+            <distance value="12"/>
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 43 -->
+    <challenge>
+        <difficulty value="2"/>
+        <continue value="true"/>
+        <saveID value="29"/>
+        <description value="Swishes only!"/>
+        <winSwishes value="=9"/>
+        <hoop value="static">
+            <width value="0.8"/>
+        </hoop>
+        <hoop value="static">
+            <width value="0.8"/>
+            <distance value="3.5"/>
+        </hoop>
+        <hoop value="static">
+            <width value="0.8"/>
+            <distance value="3.5"/>
+        </hoop>
+        <hoop value="static">
+            <width value="0.8"/>
+            <distance value="3.5"/>
+        </hoop>
+        <hoop value="static">
+            <width value="0.8"/>
+            <distance value="3.5"/>
+        </hoop>
+        <hoop value="static">
+            <width value="0.8"/>
+            <distance value="3.5"/>
+        </hoop>
+        <hoop value="static">
+            <width value="0.8"/>
+            <distance value="3.5"/>
+        </hoop>
+        <hoop value="static">
+            <width value="0.8"/>
+            <distance value="3.5"/>
+        </hoop>
+        <hoop value="static">
+            <width value="0.8"/>
+            <distance value="3.5"/>
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 44 -->
+    <challenge>
+        <difficulty value="2"/>
+        <continue value="true"/>
+        <saveID value="30"/>
+        <description value="Swishes only!"/>
+        <winSwishes value="=5"/>
+        <hoop value="vertical">
+            <speed value="2"/>
+            <width value="0.70"/>
+        </hoop>
+        <hoop value="vertical">
+            <speed value="2"/>
+            <height value="2"/>
+            <width value="0.70"/>
+        </hoop>
+        <hoop value="vertical">
+            <speed value="2"/>
+            <height value="-5"/>
+            <width value="0.70"/>
+        </hoop>
+        <hoop value="vertical">
+            <speed value="2"/>
+            <height value="-3"/>
+            <width value="0.70"/>
+        </hoop>
+        <hoop value="vertical">
+            <speed value="2"/>
+            <height value="-1"/>
+            <width value="0.70"/>
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 45 -->
+    <challenge>
+        <difficulty value="2"/>
+        <continue value="true"/>
+        <saveID value="sophie2"/>
+        <description value="Go down then up"/>
+        <hoop value="static">
+            <height value="5"/>
+        </hoop>
+        <hoop value="static">
+            <height value="3"/>
+            <distance value = "3"/>
+        </hoop>
+        <hoop value="static">
+            <height value="1"/>
+            <distance value = "3"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-1"/>
+            <distance value = "3"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-3"/>
+            <distance value = "3"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-5"/>
+            <distance value = "3"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-3"/>
+            <distance value = "3.8"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-1"/>
+            <distance value = "3.8"/>
+        </hoop>
+        <hoop value="static">
+            <height value="1"/>
+            <distance value = "3.8"/>
+        </hoop>
+        <hoop value="static">
+            <height value="3"/>
+            <distance value = "3.8"/>
+        </hoop>
+        <hoop value="static">
+            <height value="5"/>
+            <distance value = "3.8"/>
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 46 -->
+    <challenge>
+        <difficulty value="2"/>
+        <continue value="false"/>
+        <description value="Two swishes. One shot. Aim well..."/>
+        <saveID value="Sucette au lait"/>
+        <winSwishes value="=2"/>
+        <hoop value="vertical">
+            <distance value="10"/>
+            <width value="0.7"/>
+            <height value="4.5"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-4.5"/>
+            <distance value="1.5"/>
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 47 -->
+    <challenge>
+        <difficulty value="2"/>
+        <continue value="true"/>
+        <description value="Pass all 3 hoops"/>
+        <saveID value="Sucette au marron"/>
+        <hoop value="vertical">
+            <distance value="6"/>
+            <width value="0.7"/>
+            <height value="0"/>
+            <speed value="3"/>
+        </hoop>
+        <hoop value="vertical">
+            <distance value="3"/>
+            <width value="0.7"/>
+            <height value="0"/>
+            <speed value="5"/>
+        </hoop>
+        <hoop value="vertical">
+            <distance value="3"/>
+            <width value="0.7"/>
+            <height value="0"/>
+            <speed value="2"/>
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 48 -->
+    <challenge>
+        <difficulty value="2"/>
+        <continue value="true"/>
+        <saveID value="sophie1"/>
+        <description value="Be careful of the floor and ceiling..."/>
+        <hoop value="static">
+            <height value = "-7"/>
+        </hoop>
+        <hoop value="static">
+            <height value = "-7"/>
+            <distance value = "4"/>
+        </hoop>
+        <hoop value="static">
+            <height value = "-7"/>
+            <distance value = "4"/>
+        </hoop>
+        <hoop value="static">
+            <height value = "-7"/>
+            <distance value = "4"/>
+        </hoop>
+        <hoop value="static">
+            <height value = "-7"/>
+            <distance value = "4"/>
+        </hoop>
+        <hoop value="static">
+            <height value = "6.8"/>
+            <distance value = "12"/>
+        </hoop>
+        <hoop value="static">
+            <height value = "6.8"/>
+            <distance value = "4"/>
+        </hoop>
+        <hoop value="static">
+            <height value = "6.8"/>
+            <distance value = "4"/>
+        </hoop>
+        <hoop value="static">
+            <height value = "6.8"/>
+            <distance value = "4"/>
+        </hoop>
+        <hoop value="static">
+            <height value = "6.8"/>
+            <distance value = "4"/>
+        </hoop>
+        <hoop value="static">
+            <height value = "-7"/>
+        </hoop>
+        <hoop value="static">
+            <height value = "-7"/>
+            <distance value = "4"/>
+        </hoop>
+        <hoop value="static">
+            <height value = "-7"/>
+            <distance value = "4"/>
+        </hoop>
+        <hoop value="static">
+            <height value = "-7"/>
+            <distance value = "4"/>
+        </hoop>
+        <hoop value="static">
+            <height value = "-7"/>
+            <distance value = "4"/>
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 49 -->
+    <challenge>
+        <difficulty value="2"/>
+        <continue value="true"/>
+        <saveID value="sucette wtf"/>
+        <description value="Pass the two mad hoops!"/>
+        <hoop value="wtf">
+            <distance value="15"/>
+        </hoop>
+        <hoop value="wtf">
+            <distance value="15"/>
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 50 -->
+    <challenge>
+        <difficulty value="2"/>
+        <continue value="true"/>
+        <description value="Don't touch the hoop sides... Again!"/>
+        <saveID value="sucette à la framboise"/>
+        <gravity value="-80"/>
+        <winSwishes value="=5"/>
+        <hoop value="static">
+            <height value="1.5"/>
+            <angle value="90"/>
+            <width value="1.03"/>
+            <distance value="8"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-1.5"/>
+            <angle value="90"/>
+            <width value="1.03"/>
+            <distance value="10"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-3.5"/>
+            <angle value="90"/>
+            <width value="1.03"/>
+            <distance value="10"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-1.5"/>
+            <angle value="90"/>
+            <width value="1.03"/>
+            <distance value="10"/>
+        </hoop>
+        <hoop value="static">
+            <height value="0.5"/>
+            <angle value="90"/>
+            <width value="1.03"/>
+            <distance value="10"/>
+        </hoop>
+    </challenge>
+    <!-- CHALLENGE 51 -->
+    <challenge>
+        <difficulty value="2"/>
+        <continue value="true"/>
+        <description value="Swishes only!"/>
+        <saveID value="sucette au caca et pipi"/>
+        <winSwishes value="=10"/>
+        <hoop value="static">
+            <height value="-6.5"/>
+            <width value="0.8"/>
+            <distance value="10"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-6.5"/>
+            <width value="0.8"/>
+            <distance value="3.5"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-6.5"/>
+            <width value="0.8"/>
+            <distance value="3.5"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-6.5"/>
+            <width value="0.8"/>
+            <distance value="3.5"/>
+        </hoop>
+        <hoop value="static">
+            <height value="-6.5"/>
+            <width value="0.8"/>
+            <distance value="3.5"/>
+        </hoop>
+        <hoop value="static">
+            <height value="6"/>
+            <width value="0.8"/>
+            <distance value="12"/>
+        </hoop>
+        <hoop value="static">
+            <height value="6"/>
+            <width value="0.8"/>
+            <distance value="3.5"/>
+        </hoop>
+        <hoop value="static">
+            <height value="6"/>
+            <width value="0.8"/>
+            <distance value="3.5"/>
+        </hoop>
+        <hoop value="static">
+            <height value="6"/>
+            <width value="0.8"/>
+            <distance value="3.5"/>
+        </hoop>
+        <hoop value="static">
+            <height value="6"/>
+            <width value="0.8"/>
+            <distance value="3.5"/>
+        </hoop>
+    </challenge>
+</document>

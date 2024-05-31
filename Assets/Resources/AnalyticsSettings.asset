@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c46d06cbe404109758a196188cd0ffd2, type: 3}
+  m_Name: AnalyticsSettings
+  m_EditorClassIdentifier:
+  platform: android
+  store: worldwide
+  useFirebaseAnalytics: 1
+  useRemoteConfig: 1
+  adjustAppToken: 52e1mybf91xc
+  noAdsBundleId: noads
+  useVoodooAnalytics: 1
+  conversionEvents:
+    UseConversionEvents: 1
+    DaysUntilExpiration: 1
+    AdEvents: []
+    UnknownEvents: []
+  isChinaStore: 0
+  appleStoreId: 1235581326
+  voodooFunnels:
+    funnels: []
+  gameAnalyticsGameKey: 667b733a21a6189ff435d42863f127e1
+  gameAnalyticsSecretKey: 14731ea96683595c283ee23e7b182824a61a1873

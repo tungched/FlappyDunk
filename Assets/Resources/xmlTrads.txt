@@ -1,0 +1,26 @@
+<document>
+	
+	<text value="Buying Flappy Dunk Premium will remove all banner ads and interstitial ads (fullscreens between games). You will however still have rewarded ads to revive, to try locked skins and to unlock tennis ball skin and yellow hoop skin.">
+		<french>Acheter Flappy Dunk Premium enlevera toutes les bannières et les pubs interstitielles (entre les parties). Par contre, les vidéos seront toujours présentes pour revivre, pour essayer des apparences bloquées et pour débloquer les apparences de la balle de tennis et du panier jaune.</french>
+		<spanish>Si compras Flappy Dunk Premium, se eliminarán todos los anuncios banner y anuncios intersticiales (pantallas completas entre juegos). Sin embargo, todavía verás anuncios con recompensas ​​para resucitar, podrás probar los fondos de pantalla bloqueados y desbloquear el fondo de pelota de tenis y el fondo de aro amarillo.</spanish>
+		<portuguese>Comprar o Flappy Dunk Premium vai remover todos os banners de anúncios e anúncios de intervalo (anúncios de ecrã interior entre jogos). Vais poder, todavia, aproveitar os anúncios para ressuscitar, experimentar temas bloqueados e desbloquear o tema de bola de ténis e o tema do arco amarelo.</portuguese>
+		<italian>Con l'acquisto di Flappy Dunk Premium verranno eliminati tutti i banner pubblicitari e gli annunci interstiziali (annunci a schermo intero tra le partite). Tuttavia, continuerai a visualizzare gli annunci con ricompensa per ottenere nuove vite, provare skin bloccate e sbloccare la skin palla da tennis e la skin canestro giallo.</italian>
+		<german>Durch den Erwerb von Flappy Dunk Premium wird jegliche Bannerwerbung und Zwischenwerbung (Vollbildwerbung zwischen Spielen) entfernt. Allerdings verbleiben immer noch Werbespots beim Wiederbeleben, beim Ausprobieren von gesperrten Skins und das Freischalten des Tennisballskins und des Gelber-Reifen-Skins.</german>
+		<chinesesimplified>购买Flappy Dunk高级版后将移除所有横幅广告和插播广告（游戏间的全屏广告）。不过你仍然可以看奖励广告来复活，尝试锁定的皮肤并解锁网球皮肤和黄色篮圈皮肤。</chinesesimplified>
+		<chinesetraditional>付費購買 Flappy Dunk Premium，將刪除所有橫額及插頁式廣告，享受全屏幕遊戲體驗。但你仍然可以透過觀看獎勵廣告復活、試用未解鎖的皮膚、及解鎖網球款式和黃色籃框設計。</chinesetraditional>
+		<japanese>Flappy Dunk Premiumを購入すると、すべてのバナー広告とインタースティシャル広告（ゲーム間のフルスクリーン）が削除されます。 また、復活のための報酬を得て、ロックされたスキンを試して、テニスボールスキンと黄色のフープスキンをアンロックできます。</japanese>
+		<russian>Купив премиум-версию Flappy Dunk, вы уберете все рекламные баннеры и полноэкранную рекламу между играми. При этом в игре останется реклама, посмотрев которую, можно ожить, попробовать закрытые облики и открыть облики «теннисный мяч» и «желтое кольцо».</russian>
+	</text>
+	
+	<text value="Watch 1 ad to revive">
+		<french>Regarder 1 pub pour revivre</french>
+		<spanish>Visualiza 1 anuncio para resucitar</spanish>
+		<portuguese>Vê 1 anúncio para ressuscitares</portuguese>
+		<italian>Guarda 1 video per una nuova vita</italian>
+		<german>Zum Wiederbeleben 1 Werbung anschauen</german>
+		<chinesesimplified>观看1条广告可复活</chinesesimplified>
+		<chinesetraditional>觀看 1 段廣告以復活</chinesetraditional>
+		<japanese>復活のために1つの広告を見る</japanese>
+		<russian>Посмотрите рекламу, чтобы ожить</russian>
+	</text>
+</document>

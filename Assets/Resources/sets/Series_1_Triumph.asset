@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c110bf705f3480379228fe4ed832ff3b, type: 3}
+  m_Name: Series_1_Triumph
+  m_EditorClassIdentifier:
+  identifier:
+    name: Series 1
+    type: 1
+  cardBack: {fileID: 21300000, guid: 03f9c420685b15f4bbb2327411b03195, type: 2}
+  cards:
+  - {fileID: 21300000, guid: 4b8e5c285e1042042b8dbd2f6881941e, type: 2}
+  - {fileID: 21300000, guid: 1a54740a082d43d4cb678c7121674898, type: 2}
+  - {fileID: 21300000, guid: 50d2b8993cfb1934990d4f680d416770, type: 2}
+  - {fileID: 21300000, guid: b6fdddc88049e88458ccc6a6e3113f61, type: 2}
+  - {fileID: 21300000, guid: a3af8769a5a9ca743bbabed7a68a730c, type: 2}
+  - {fileID: 21300000, guid: bd6b746a059c1d74b94404913a896dd0, type: 2}
+  - {fileID: 21300000, guid: a522c4d428990a244bf2e01617e07964, type: 2}
+  - {fileID: 21300000, guid: fe9ffa4851e62294ca30f7cb51a0f7cd, type: 2}
+  - {fileID: 21300000, guid: 821ff69a92b967f468de10655b1a32f4, type: 2}
+  - {fileID: 21300000, guid: ba8245f898c87f8458829658775608ab, type: 2}
+  - {fileID: 21300000, guid: 55832054f237f854eb5e90d70b4d94b5, type: 2}
+  - {fileID: 21300000, guid: 03f9c420685b15f4bbb2327411b03195, type: 2}
